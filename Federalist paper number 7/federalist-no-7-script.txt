@@ -1,0 +1,133 @@
+At the end of the last episode, Hamilton had just finished making his philosophical case that a divided America would almost certainly fall into war with itself. His argument was sweeping and historical. He used examples from ancient Athens, from Tudor England, from the courts of Louis the Fourteenth and Louis the Fifteenth, and from Shays' Rebellion at home to show that ambition, jealousy, commerce, and private passion have pulled nations into conflict across every era and every form of government. He closed by saying that neighboring states are natural enemies unless they are bound together in a confederate republic whose constitution holds those jealousies in check.
+
+That was Federalist No. 6. It made the case in broad, almost philosophical terms.
+
+Today, Hamilton is going to make the same case in concrete terms.
+
+Federalist No. 7, published in the New-York Packet on November 15, 1787. Still Alexander Hamilton. Still signed Publius. Still written for New York readers who are weighing whether to ratify the new Constitution. But the angle has shifted. Federalist No. 6 asked, in effect, why history suggests neighboring states fight. Federalist No. 7 asks the more pointed question: what, specifically, would separate American confederacies fight about?
+
+Hamilton's answer is a list. And it is a surprisingly modern, surprisingly practical list. Territory. Trade. Public debt. Broken contracts. Foreign entanglement. Each one of these, he is going to argue, is already visible inside the current union, even in mild form. And each one would get dramatically worse if the union came apart.
+
+Let me walk through them one at a time, because this paper is essentially a tour of the specific flashpoints.
+
+Hamilton opens with a kind of rhetorical setup. He imagines a skeptic who reads Federalist No. 6 and pushes back. Fine, the skeptic says. Maybe history shows that disunited states have fought in the past. But what specifically would American states fight over? We share a language. We share a revolution. We share a political culture. What is the actual, concrete motive for Virginia and Massachusetts to go to war with each other?
+
+Hamilton takes that question seriously. And his answer is blunt. He says the motives would be precisely the same inducements which have, at different times, deluded in blood all the nations in the world.
+
+In other words: the reasons Americans would find to fight are not special American reasons. They are the ordinary reasons. The ones every separate political community has always found. And then he begins naming them.
+
+The first motive is territory.
+
+Hamilton writes that territorial disputes have at all times been found one of the most fertile sources of hostility among nations. This is not a dramatic claim. Go back through recorded history and most wars, at some level, start with a disagreement about where one jurisdiction ends and another begins. Who owns this valley. Who controls this river. Whose flag flies over this port.
+
+And Hamilton does not have to go back through history for his American examples. He just has to point at the map.
+
+There is, at the moment he is writing, an enormous unresolved question about the vast stretch of land west of the Appalachian Mountains. Several states have old colonial charters claiming huge overlapping pieces of that territory. Virginia, Massachusetts, Connecticut, New York, and others have competing claims running west, sometimes all the way to the Mississippi and in a few cases, on paper, to the Pacific. Under the Articles of Confederation, a patchwork compromise has slowly been worked out. States with western claims have been ceding those lands to the national government, with Virginia's cession of what is now Ohio and the upper Midwest being the most important. This is what eventually becomes the Northwest Territory.
+
+Hamilton notes this with cautious approval. He says Congress has wisely quieted things for the moment by prevailing upon the states to make cessions to the United States for the benefit of the whole. But he is very clear about what that solution depends on. It depends on there being a United States in the first place. A central government that every state recognizes as a neutral authority, which can accept the cessions, hold the lands in trust, and organize their future settlement under common rules.
+
+Now imagine that central government is gone.
+
+If the union dissolves, he asks, what happens to the western lands? They do not quietly disappear. They become the single largest unclaimed prize on the continent, with overlapping paper claims from several different confederacies, and no higher authority to settle the overlap. Hamilton is pointing at a powder keg. Every one of those overlapping claims becomes a potential casus belli. A reason to fight.
+
+And he goes on to talk about smaller territorial disputes that are already live in 1787 and already dangerous.
+
+He mentions the Wyoming Valley. That name may not ring a bell for modern listeners, but it was well known to Hamilton's readers. The Wyoming Valley is a stretch of fertile land along the Susquehanna River in what is now northeastern Pennsylvania. Both Connecticut and Pennsylvania had claimed it under their original colonial charters, and settlers from both states had poured in and fought over it, sometimes literally, for decades. There were actual battles between Connecticut settlers and Pennsylvania settlers, with loss of life. In 1782, under the Articles of Confederation, a specially convened federal court at Trenton had finally ruled in favor of Pennsylvania. Hamilton reminds his readers that Connecticut gave strong indications of dissatisfaction with that determination, and only grudgingly accepted the outcome once Pennsylvania agreed to a separate compensation for the Connecticut settlers.
+
+Hamilton's point is not that the Wyoming case ended in disaster. His point is that even under the existing confederation, with a federal court available to adjudicate, a simple boundary dispute between two neighboring states produced years of violence and almost broke down diplomatic civility entirely. Take the federal court away, and what exactly stops the next dispute from escalating without a brake?
+
+He also mentions the ongoing friction between New York and what is now Vermont. Vermont, at the time, was not a state. It was a disputed region. New York considered it part of New York. The settlers there considered themselves independent. And Hamilton observes, pointedly, that some neighboring states, including New Hampshire, Massachusetts, and Connecticut, had quietly encouraged Vermont's separation from New York. Not because they cared especially about Vermont, but because they were jealous of New York's growing size and power and were happy to see it dismembered.
+
+That is a striking admission. Hamilton is openly telling his New York readers that their own neighbors, fellow states in the same union, had already shown a willingness to weaken them out of regional jealousy. Under a confederation, with some shared constitutional framework, that jealousy stayed at the level of maneuvering. Under disunion, Hamilton is saying, that same jealousy would start producing wars.
+
+So that is the first flashpoint. Territory. And it is not a hypothetical. It is the everyday politics of the American states in 1787, barely contained even now.
+
+The second motive Hamilton names is commerce.
+
+He writes that the competitions of commerce would be another fruitful source of contention. And here he gets very specific, and he uses his own state, New York, as the case study.
+
+Because New York controls the port of New York City, and because a great deal of the goods that flow into the American market come through that port, New York has the option to tax those imports. Hamilton writes plainly about what this means. New York, from the necessities of revenue, must lay duties on her importations. And then comes the awkward part. A great part of these duties must be paid by the inhabitants of the two other states in the capacity of consumers.
+
+Meaning: if New Jersey needs rum or cloth or sugar, and the shipment comes through New York harbor, and New York taxes it at the dock, the New Jersey consumer ultimately pays the tax when they buy the rum or cloth or sugar. New Jersey is paying New York's state revenue. And New Jersey gets nothing for it except a higher price.
+
+Hamilton asks the obvious question. Would Connecticut and New Jersey long submit to be taxed by New York for her exclusive benefit?
+
+The answer, of course, is no. Under the current system, there are still soft constraints against this kind of self-dealing, and there is at least the pressure of being in a shared confederation. Under disunion, those constraints vanish. New York, as a separate confederacy, could tax its neighbors' trade with impunity. Its neighbors could retaliate. Each would pass laws aimed at punishing the other's merchants. Tariffs would rise. Border inspections would tighten. Smuggling would flourish. And sooner or later, one of those retaliations would cross a line that turned a trade dispute into an armed dispute.
+
+Hamilton makes a shrewd observation about how this plays out psychologically. He says that once states start seeing each other as commercial rivals rather than as partners, they start reframing ordinary economic behavior as aggression. He writes, and this is a striking line, that we should be ready to denominate injuries those things which were in reality the justifiable acts of independent sovereignties consulting a distinct interest.
+
+In plain English: once we see our neighbor as a competitor rather than a partner, we start calling their ordinary decisions attacks. A tariff we would have shrugged off as a reasonable revenue measure becomes, in our eyes, hostile. Our language shifts. Our politics shifts. And eventually, our guns follow.
+
+This is one of Hamilton's most prophetic moments in the entire Federalist series. He is describing, two hundred and forty years ahead of schedule, something like the dynamic that drives modern trade wars. When two economies stop trusting each other, nothing the other side does looks innocent. Every subsidy looks like dumping. Every tariff looks like retaliation. Every export control looks like coercion. The behavior may not have changed. The frame has.
+
+That is the second flashpoint. Commercial rivalry and the way it reshapes perception.
+
+The third motive is public debt.
+
+The Revolutionary War left the newly independent states with an enormous shared debt, much of it owed to foreign lenders, especially the Dutch and the French, and some of it owed domestically to American creditors. Under the Articles of Confederation, this debt was nominally a shared obligation, but the mechanisms for paying it were weak and the apportionment between states was disputed.
+
+Hamilton writes that the apportionment, in the first instance, and the progressive extinguishment, afterwards, would be alike productive of ill-humor and animosity.
+
+Translated: figuring out who owes how much, and figuring out how to actually pay it off year by year, is going to generate anger at every step. The creditor states will accuse the debtor states of shirking. The debtor states will accuse the creditor states of profiting at their expense. States with strong tax bases will resent subsidizing states with weak ones. States that paid off their share early will resent waiting for laggards.
+
+And Hamilton drops a line that every person who has ever been involved in money disputes within a family, or a business, or a nation, will recognize immediately. There is nothing men differ so readily about, he says, as the payment of money.
+
+It is a tossed-off sentence and it is one of the most universally true observations in the Federalist Papers. Money disputes are not like other disputes. They are sharper, stickier, more prone to poisoning relationships. Hamilton knows this. He is saying that if the union dissolves, you are not just left with a theoretical question of national debt. You are left with thirteen or three or four separate polities each dug in on its own ledger, each convinced the others are cheating, each tempted to walk away from the whole obligation.
+
+And walking away from a shared debt, by the way, does not just make you unpopular. It makes your foreign creditors poorer and angrier. Which leads, Hamilton will argue later, to the fourth and fifth flashpoints rolling into each other.
+
+Before we get there, though, there is a fourth specific motive that deserves its own moment. State laws in violation of private contracts.
+
+This sounds dry. It is not. It is one of the most live political issues of 1787, and to understand why Hamilton is raising it, you need to understand what has been happening in Rhode Island.
+
+Rhode Island, in the mid 1780s, had a legislature dominated by small farmers and debtors who had been battered by the postwar economy. Faced with a wave of defaults and foreclosures, that legislature did something radical. It issued huge amounts of state paper money, heavily depreciated against hard currency, and it passed laws requiring creditors to accept that paper money at face value in payment of debts.
+
+If you were a Rhode Island debtor who owed a hundred dollars in gold to a creditor in another state, the new law said your creditor had to accept one hundred Rhode Island paper dollars instead, even though those paper dollars were worth maybe a quarter of their stated value in actual markets. And if your creditor refused, Rhode Island courts would treat the debt as paid anyway, and would punish the creditor for refusing.
+
+To creditors outside Rhode Island, this looked like outright robbery dressed up as law. And the reaction in neighboring states was fierce. Hamilton writes that we have observed the disposition to retaliation excited in Connecticut, in consequence of the enormities perpetrated by the legislature of Rhode Island.
+
+That line does a lot of work. He is naming a specific state, accusing its legislature of perpetrating enormities, and pointing out that another specific state, Connecticut, was ready to hit back. And this was happening within the existing confederation. Under a common flag. With no formal border between them.
+
+Hamilton is asking his readers to imagine what happens to that dynamic without a union. If Rhode Island, as an independent confederacy, passes laws that effectively expropriate the property of citizens of a neighboring confederacy, what stops the neighboring confederacy from responding not with legal protest, but with force?
+
+He gives the answer in one of the most striking lines in the paper. Under disunion, he writes, a war, not of parchment, but of the sword, would chastise such atrocious breaches of moral obligation.
+
+A war, not of parchment, but of the sword. Meaning: in a union, the dispute gets handled through law, through paper, through the courts. Out of the union, it gets handled through armies. The formalism of legal process is the thing standing between an angry creditor state and an invading creditor state. Take the formalism away, and what is left is the sword.
+
+This is the heart of the paper, and it is worth sitting with, because it captures Hamilton's core intuition about what the Constitution is for. He does not see the federal structure as a luxury. He does not see it as an elegant addition to an otherwise workable system. He sees it as the thing preventing ordinary economic and political friction from becoming ordinary military friction. You either resolve your differences with parchment, or you resolve them with swords. Those are the two options. The Constitution is an attempt to keep the United States permanently on the parchment side of that line.
+
+And that brings Hamilton to his fifth and final concrete motive. Foreign entanglement.
+
+This one is shorter in his treatment, but the logic is important. If the American states split into separate confederacies, each of those confederacies is going to need allies. And the most obvious source of allies is Europe. The major European powers are more than happy to provide help, loans, trade deals, military backing. But those offers always come with strings. A European alliance means being drawn, willingly or not, into European quarrels. And if your rival confederacy picks a different European patron, now the next European war between those two patrons has American battlefields attached to it.
+
+Hamilton describes the result in a phrase that is worth lingering on. A divided America, he says, would become entangled in all the pernicious labyrinths of European politics and wars.
+
+The pernicious labyrinths of European politics. He is not shy about it. He is saying the European state system, with its alliances and counter-alliances and balances of power shifting every decade or two, is a labyrinth. It is confusing, treacherous, and bloody. And the great blessing of the American situation, shielded by an ocean and far from the main European battlefields, is that the United States has a chance to stay out of it. But only if the states stay together. Because the moment they split, their mutual jealousies will drag each confederacy into seeking a European ally, and the moment they do that, they have walked, voluntarily, into the labyrinth.
+
+So that is the five-part case. Territory. Commerce. Debt. Contracts. Foreign entanglement. Each one already visible in mild form under the current confederation. Each one a near-certainty to escalate under disunion.
+
+Hamilton closes the essay with one of the sharpest images in the entire Federalist series. He reaches for a Latin phrase that would have been instantly recognized by his educated readers. He says that divide et impera must be the motto of every nation that either hates or fears us.
+
+Divide et impera. Divide and rule. Divide and conquer. It is an old Roman political maxim, associated with the practice of breaking up rivals into smaller pieces so that none of the pieces can stand up to you individually. Hamilton is saying that any foreign power that wishes America ill, whether out of fear or hatred, is already working from that playbook. Their goal is not to attack a united America. Their goal is to divide it first, and then rule whatever is left.
+
+And if Americans voluntarily divide themselves by rejecting the Constitution, they will have done the enemy's work for free.
+
+That is how the paper ends. On a note of almost grim clarity.
+
+It is worth stepping back for a moment to see what Hamilton has accomplished across Federalist No. 6 and No. 7 taken together.
+
+Federalist No. 6 made the philosophical case. It drew on human nature, on history, on the examples of Greece, Rome, Carthage, Venice, Holland, and Britain. It argued that ambition, commerce, and private passion will always find reasons to produce conflict between neighboring states.
+
+Federalist No. 7 made the practical case. It took that general argument and landed it squarely in the American present. It pointed at the Wyoming Valley, at Vermont, at the western lands, at the New York port, at the Rhode Island paper money, at the Revolutionary debt, at the shadow of European alliances. It said: the theoretical risk Hamilton described in No. 6 is not theoretical. It is already here, in embryonic form, inside the existing confederation. And the only thing holding it back from becoming war is the existence of a shared political framework that the current Articles barely sustain and the new Constitution would actually strengthen.
+
+A careful reader, finishing No. 7, should feel a certain weight settling on them. The case against disunion is not just that it is unwise in the abstract. It is that the specific conflicts are already identified, already named, already operational. You can see them from your front porch.
+
+For modern listeners, it is worth noticing how much of Hamilton's list has been confirmed by two centuries of federal politics and by what has happened to other large federations when they broke apart. When the Soviet Union dissolved, the successor states fought almost immediately over border territory and over Soviet-era debt. When Yugoslavia dissolved, the fault lines Hamilton would have recognized, ethnic regions claimed by multiple successor states, commercial access to ports, inherited debts, and outside powers picking sides, all came into play at once. When Sudan split in 2011, the two new countries almost immediately fought over the oil revenue apportionment. The categories Hamilton named are the categories that show up every single time a federation comes apart.
+
+That is not proof that Hamilton was right about America. The United States has, after all, stayed together, so the counterfactual remains untested. But it does suggest that his instincts about what separate American confederacies would argue about were sound. He was not inventing risks. He was listing the standard ones.
+
+There is one more observation worth making before we close. Notice how much of Hamilton's argument comes down to the idea that a shared legal framework is the thing that keeps neighboring polities from escalating. Not shared language. Not shared revolution. Not shared sentiment. Those, he assumes, are not enough on their own. What prevents the Rhode Island paper money fight from becoming a shooting war is not goodwill between Rhode Islanders and Connecticut creditors. It is that both are currently inside a legal order that channels the dispute into parchment rather than swords. That is a very unsentimental view of what holds countries together. And it is the view that is going to inform nearly everything Hamilton writes from here forward.
+
+And Hamilton is not done. Federalist No. 8 is his as well. There he is going to turn from the consequences of disunion for peace and prosperity to the consequences of disunion for liberty itself. Because if separate American confederacies are going to fight, they will need standing armies. And standing armies, maintained inside small jealous states, tend to become instruments of the governments that maintain them rather than servants of the people. The next paper is about what permanent military establishments would do, not just to our safety, but to our freedoms.
+
+This has been The Federalist Papers: Explained. Episode 7. Next time: Federalist No. 8, still Alexander Hamilton, on how disunion would drag America into the European habit of standing armies, and what that would cost us at home.

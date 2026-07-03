@@ -1,0 +1,143 @@
+At the end of the last episode, Jay closed out his part of the argument. He had spent four papers making the case that a divided America would be dangerously exposed to the outside world. If we split into separate confederacies, he said, we would not just be weaker against Britain and France and Spain. We would also turn on each other. Rival confederacies would grow unequal. Unequal neighbors would grow suspicious. And suspicious neighbors would reach for foreign allies against each other, inviting European powers onto American soil in ways that would be very hard to undo.
+
+That was Federalist No. 5, and it was Jay's last contribution to the opening sequence. Illness is about to take him out of the project for months. From here, Alexander Hamilton and James Madison carry the argument forward.
+
+And today Hamilton takes his turn. Federalist No. 6, published in the Independent Journal on November 14, 1787. Still signed Publius. Still written for New Yorkers who are trying to decide whether to ratify the Constitution. But the angle is brand new.
+
+Jay had been talking about foreign danger, about what the outside world might do to a divided America. Hamilton opens his paper by naming that shift directly. The last three numbers of this paper, he says, have been dedicated to the dangers of disunion from the arms and arts of foreign nations. Now he is going to talk about something different, and in his view something still more alarming. He is going to talk about the dangers that would flow from dissensions between the states themselves.
+
+In other words: even if the outside world left us alone entirely, we would still be in trouble. Because we would fight each other.
+
+That is the argument of Federalist No. 6. It is one of Hamilton's bluntest papers, and it is built on a deeply unsentimental view of human beings.
+
+Hamilton's opening claim is stark. He writes that a man must be far gone in Utopian speculations who can seriously doubt that, if these states should either be wholly disunited or only united in partial confederacies, the subdivisions into which they might be thrown would have frequent and violent contests with each other.
+
+He is not calling this a risk. He is calling it a near-certainty.
+
+And when he imagines someone pushing back, saying that there are no real motives for separate American states to fight each other, Hamilton answers with a phrase that has become one of the most quoted lines in the entire Federalist series. To presume a want of motives for such contests as an argument against their existence, he writes, would be to forget that "men are ambitious, vindictive, and rapacious."
+
+Ambitious. Vindictive. Rapacious.
+
+It is worth sitting with that line for a moment, because it captures Hamilton's philosophical posture across everything he is going to write in this series. Hamilton does not believe that human beings are basically peaceful creatures who only go to war when something specific provokes them. He believes the opposite. He believes that ambition, jealousy, greed, and wounded pride are baseline features of human nature, and that political structures have to be designed with those features clearly in view. You do not build a system hoping people will behave well. You build a system assuming they will not, and you put the checks in place that keep bad behavior from becoming catastrophic.
+
+That is the lens through which he looks at the question of disunion. He does not ask whether Americans would want to fight each other if they split apart. He assumes they would, because that is what separate neighboring peoples do. The question to him is not whether war between separate American confederacies is possible. The question is how anyone could seriously believe it would not happen.
+
+Hamilton then lays out the main sources of conflict between nations. He groups them into three broad categories.
+
+The first category is the grand, impersonal one. The love of power, the desire for preeminence and dominion, and on the other side, the jealousy of power, the desire for equality and safety. These, he says, have a general and almost constant operation upon societies. Nations want to rise. Nations fear other nations rising. Those two impulses, ambition and fear, produce conflict everywhere they exist.
+
+The second category is commercial. The rivalries and competitions between trading nations. Two countries that produce similar goods, or that compete for the same markets, will eventually clash over them. Hamilton treats this as a narrower driver of conflict than raw ambition, but he is going to come back to commerce later in the paper and make a much bigger point about it.
+
+The third category is where Hamilton gets most vivid. These are the causes that originate entirely in private passions. The attachments, enmities, interests, hopes, and fears of leading individuals in a community. Leaders, he says, have in too many cases abused the confidence placed in them, taking a private grievance or a private ambition and dressing it up as a public cause.
+
+Hamilton is insisting that international relations is not just about grand forces. It is about specific people. Kings with bruised egos. Ministers with personal ambitions. Elected leaders who start wars to escape domestic scandals. The individual men at the top of governments routinely pull entire nations into conflicts that serve their personal interests rather than the public good.
+
+To make that concrete, Hamilton gives his readers three examples. And those examples are worth walking through carefully, because they tell you something about how Hamilton's mind works and how eighteenth-century political writing used history as evidence.
+
+His first example is Pericles, the statesman of ancient Athens.
+
+Hamilton writes that Pericles, in compliance with the resentment of a prostitute, at the expense of much of the blood and treasure of his countrymen, attacked, vanquished, and destroyed the city of the Samians. And then, Hamilton says, the same man, driven by private pique against the people of Megara, or by a threat of prosecution as an alleged accomplice to a theft by the sculptor Phidias, or to get rid of accusations that he had been dissipating public funds to buy popularity, or by some combination of all those motives, was the primary author of the Peloponnesian War, which ended in the ruin of Athens itself.
+
+That is a dense passage, and it deserves unpacking.
+
+The woman Hamilton dismisses as a prostitute was Aspasia, the partner of Pericles. She was actually a highly educated woman from Miletus, a philosopher and conversationalist whom even Socrates is said to have admired. The label Hamilton uses reflects the slander thrown at her by Pericles' political enemies at the time, preserved by some ancient sources. Modern historians take that label with a very large grain of salt. What Hamilton is drawing on is the account in Plutarch's Life of Pericles, which claimed that the Samian War, in which Athens crushed the island city-state of Samos around 440 BC, was motivated partly by Pericles' desire to help Aspasia's home region of Miletus in its dispute with Samos. Plutarch also reports that the larger Peloponnesian War, which began in 431 BC and dragged on for decades, was brought about partly by Pericles' private need to deflect attention from personal scandals: accusations that he had been an accomplice in the theft of gold from a statue of Athena built by his friend Phidias, and accusations that he had been using public money to build up his own political support.
+
+The scholarship on whether these private motives really drove those wars is complicated, and most modern historians would say Plutarch oversimplifies. But Hamilton's larger point does not depend on Plutarch being right about every detail. His point is that ancient writers, closer to the events than any of us can be, believed that private passions in the life of one man had helped shape wars that eventually ruined a civilization. That, Hamilton is saying, is what history looks like when you read it honestly.
+
+His second example comes from Tudor England. The ambitious cardinal, he says, who was prime minister to Henry the Eighth, let his personal vanity aspire to the papacy. That is Cardinal Thomas Wolsey, who was Lord Chancellor and the king's chief minister for much of the 1510s and 1520s. Wolsey wanted the triple crown, the tiara of the Pope. And he thought the best way to get it was to secure the support of Charles the Fifth, the Holy Roman Emperor, who at that moment was the most powerful monarch in Europe.
+
+To win Charles's favor, Wolsey pushed England into a war with France. Hamilton points out that this went against the plainest dictates of English policy. He notes dryly that if any sovereign in early modern European history had come close to realizing the dream of a universal empire, it was Charles the Fifth, and Wolsey, chasing personal advancement, made himself at once the instrument and the dupe of that ambition.
+
+That is an extraordinary picture. One man's desire for religious office pulled an entire nation into a war that damaged its own interests and served the interests of a rival superpower. Hamilton is not inventing this. The story of Wolsey's entanglement with Charles the Fifth is straight out of standard Tudor history. What Hamilton is doing is using it to argue that major wars often have small, private, almost petty origins, and that we should not be naive about it.
+
+His third reference is more glancing, and for modern listeners it needs a little unpacking. Hamilton writes that the influence which the bigotry of one female, the petulance of another, and the cabals of a third had in the contemporary policy, the ferments, and the pacifications of a considerable part of Europe are topics that have been too often discussed not to be generally known.
+
+To his readers in 1787, that sentence was not mysterious. They would have known immediately who he meant.
+
+The bigotry of one female is almost certainly Madame de Maintenon, the second wife of Louis the Fourteenth of France, whose devout and narrow Catholicism is traditionally credited with pushing Louis toward revoking the Edict of Nantes in 1685. That revocation stripped French Protestants, the Huguenots, of their legal protection and sent hundreds of thousands of them fleeing into exile, with enormous consequences for European religious and political life.
+
+The petulance of another most likely refers to Sarah Churchill, the Duchess of Marlborough, whose close and then bitterly fractured friendship with Queen Anne of England helped shape English policy during the War of the Spanish Succession in the early 1700s.
+
+The cabals of a third most likely point to Madame de Pompadour, the mistress of Louis the Fifteenth of France, whose influence at court is traditionally blamed for the Diplomatic Revolution of the 1750s, which flipped France's long-standing hostility to Austria into an alliance with Austria and helped touch off the Seven Years' War.
+
+A fair thing to flag here is that modern historians tend to view the "influential woman causes war" framing of these events as a simplification, and in some cases an unfair one. In each of those cases, the larger political, religious, and dynastic pressures were doing most of the actual work, and the women in question were operating inside courts dominated by men with agendas of their own. Hamilton is reflecting the conventional wisdom of his period, which was sometimes unjust to these individual women. But his underlying structural point, that personal attachments and private grudges at the top of political hierarchies genuinely do shape the decisions of nations, is one that modern scholars still take seriously. The eighteenth-century packaging of the idea was blunt. The underlying observation is real.
+
+Having made his case with examples from ancient Greece and from European royal courts, Hamilton turns to a far more uncomfortable example. One from America itself.
+
+He writes that if Shays had not been a desperate debtor, it is much to be doubted whether Massachusetts would have been plunged into a civil war.
+
+That one sentence was a small bomb dropped into American politics in 1787. Let me explain what it is referring to.
+
+Daniel Shays was a former captain in the Continental Army, a farmer in western Massachusetts who, like many veterans and small farmers after the Revolution, found himself crushed by debt. The state government in Boston, dominated by coastal commercial interests, insisted on collecting hard-money taxes to pay off state debts, and the courts aggressively foreclosed on farms that could not meet those demands. In late 1786 and early 1787, just months before the Constitutional Convention, Shays helped lead an armed uprising. Thousands of western Massachusetts farmers, many of them Revolutionary War veterans, tried to shut down the courts and stop foreclosures. They marched on the federal arsenal at Springfield. The rebellion was eventually put down by a privately funded militia raised mostly from eastern Massachusetts, and the immediate threat had faded by early 1787. But Shays' Rebellion terrified the country's political class. It was taken as a sign that the existing government under the Articles of Confederation could not keep order inside a single state, let alone across thirteen.
+
+Hamilton, writing less than a year later, is reminding his readers of exactly that. And the way he frames it is pointed. He is saying: one man's personal financial desperation was enough to throw an entire state into open rebellion. If that can happen inside a single state, what exactly do you think is going to happen between separate American confederacies, each with its own government, its own interests, and its own supply of frustrated, ambitious, and rapacious men?
+
+At this point you might be asking the obvious counterquestion. Fine, Hamilton has shown that governments have gone to war over small and personal causes in the past. But was not the eighteenth century supposed to be the dawn of something new? Was not commerce supposed to make countries more peaceful? Was not the spread of trade supposed to tie nations together in mutual interest and soften the rough passions that had driven war in earlier ages?
+
+This was not a fringe idea in 1787. It was one of the most popular ideas in the Enlightenment. Thinkers like Montesquieu had argued that commerce was a civilizing force, that trading peoples developed habits of cooperation, negotiation, and restraint. And in 1787 there were plenty of Americans who took that idea one step further and argued that separate American confederacies, being commercial republics, would be naturally inclined toward peace with each other.
+
+Hamilton quotes them directly. The genius of republics, they say, is pacific. The spirit of commerce has a tendency to soften the manners of men and to extinguish those inflammable humors which have so often kindled into wars. Commercial republics, like ours, they argue, will never be disposed to waste themselves in ruinous contentions with each other.
+
+Hamilton's response to this is withering, and it takes the form of a long sequence of rhetorical questions aimed directly at the reader.
+
+Is it not, he asks, the true interest of all nations to cultivate a benevolent and philosophic spirit? Yes, probably. And have they in fact pursued it? Look at history. Look at what actually happens, rather than what people think ought to happen. Have republics in practice been less addicted to war than monarchies? Are not republics run by men? Do men in republics not have aversions, predilections, rivalries, and desires for unjust acquisitions? Are not popular assemblies subject to rage, resentment, jealousy, avarice, and all the other irregular passions that pull people into foolish decisions?
+
+And then he comes to the point that really matters for the commerce argument. Has commerce done anything more, he asks, than change the objects of war? Is not the love of wealth as domineering and enterprising a passion as the love of power or glory? Have there not been as many wars founded on commercial motives since trade became the prevailing system of nations as there were before, when wars were fought over territory and dominion?
+
+That is a sharp question. Hamilton is saying that commerce did not replace the passions that cause war. Commerce gave those passions a new set of targets. Nations used to fight over land. Now, or in addition to land, they fight over trade routes, over colonies, over monopolies, over markets. The form of the rivalry changed. The fact of the rivalry did not.
+
+Having posed those questions, Hamilton answers them with history. He runs through a quick catalog of evidence, and it is worth slowing down for, because this is the real spine of the paper.
+
+Sparta, Athens, Rome, and Carthage, he reminds his readers, were all republics. Two of them, Athens and Carthage, were specifically commercial republics. And yet all four of them were almost constantly at war. Sparta, he says, was little better than a well-regulated military camp. And Rome was never sated of carnage and conquest. If you think that republics are inherently peaceful, look at Rome. Centuries of relentless expansion, relentless war, relentless appetite for dominion.
+
+Carthage, he notes, was a commercial republic, and Carthage was the aggressor in the very war that ended in its destruction. Hannibal carried Carthaginian arms into the heart of Italy and to the very gates of Rome before Scipio finally broke Carthage's power and turned the war back on Carthage itself. A commercial republic lost its independence not because it was attacked but because it attacked.
+
+Venice, in medieval and Renaissance times, was another commercial republic, and Venice fought wars of ambition so aggressively that eventually Pope Julius the Second organized an international alliance, the League of Cambrai, in 1508, specifically to break Venetian power.
+
+The Dutch provinces, Holland, were the premier commercial republic of the seventeenth century, and they were among the most persistent war-makers in Europe. They fought England repeatedly over control of the seas in what we now call the Anglo-Dutch Wars. And for decades they led the opposition to Louis the Fourteenth of France.
+
+And then Britain. Here Hamilton makes a particularly interesting observation. Britain, he says, has representative government as one branch of its legislature. Britain is thoroughly commercial. And yet few nations have been more frequently at war. And, he adds, here is the twist, the wars Britain has fought have in many cases come not from the king dragging the country into conflict but from the people demanding it. Popular opinion, working through Parliament, has repeatedly pulled British monarchs into wars that the monarchs themselves did not want and that cool policy would not have recommended.
+
+He gives a specific example. The long struggle between the rival royal houses of Austria and Bourbon, which kept Europe in flames for generations. Hamilton is pointing at the War of the Spanish Succession and the wars surrounding it, in the early 1700s. The English hatred of the French, he says, combined with the ambition, or really the avarice, of a favorite leader, almost certainly a reference to the Duke of Marlborough, kept the war going long past the point where sound policy would have ended it. The war was prolonged by the English people and the English parliament, not shortened by them. So much for the notion that popular government and commerce naturally incline toward peace.
+
+The whole sweep of that argument lands with one conclusion. Looking at all the countries whose situations have been most like our own, Hamilton asks, what reason do we have to trust those reveries that promise us peace and cordiality between separate American states if they were to divide? Have we not seen enough, he asks, of the fallacy and extravagance of those idle theories that promise us an exemption from the weaknesses that afflict every other human society?
+
+It is time, he says, to wake up from the deceitful dream of a golden age.
+
+That line is worth sitting with. Hamilton is not telling Americans that their revolution failed, or that their experiment is doomed. He is telling them that they are human beings, not gods. That they are subject to the same weaknesses, jealousies, and ambitions as every other people who have ever organized themselves into political communities. That if they expect a miracle simply because they happen to be a new country with republican institutions, they are setting themselves up to be broken.
+
+And then he presses harder. Look at the evidence in front of you right now, he says. Look at how low our national dignity and credit have sunk under the current Articles of Confederation. Look at the inconveniences felt everywhere from a lax and badly administered central government. Look at the revolt of part of North Carolina. That is a reference to the State of Franklin secession movement, in which settlers in what is now eastern Tennessee tried to break off from North Carolina and form their own independent state. Look at the recent menacing disturbances in Pennsylvania. Look at the actual insurrections and rebellions in Massachusetts. Shays, again. These things, Hamilton says, should declare the truth on their own. The pattern is not subtle. We are already seeing, inside the existing union, exactly the kind of dissensions that would turn into full-scale wars if the union dissolved.
+
+Hamilton then reaches for an authority from European political thought to close out his argument. He says that the general sense of mankind has, over centuries of political observation, settled into what amounts to a political axiom: vicinity or nearness of situation constitutes nations natural enemies. Neighbors are natural enemies. That is the default.
+
+And he quotes what he calls an intelligent writer on the point. Neighboring nations, the quotation runs, are naturally enemies of each other, unless their common weakness forces them to league together in a confederate republic, and their constitution prevents the differences that neighborhood occasions, extinguishing that secret jealousy which disposes all states to aggrandize themselves at the expense of their neighbors.
+
+The intelligent writer Hamilton is quoting is most often identified as the Abbé de Mably, a French political theorist whose writings were widely read in late-eighteenth-century political circles. Hamilton does not name him, and the precise source has been debated by later editors, but the thought is of a piece with Mably's work. The force of the idea was what mattered to Hamilton, not the citation. And Hamilton puts that quotation at the very end of the essay because it does something exactly right for his purposes.
+
+It names the evil. Neighbors are naturally enemies.
+
+And it names the remedy in the same breath. Unless they combine into a confederate republic whose constitution is designed to contain the jealousies that neighborhood produces.
+
+Which is, of course, exactly what the new American Constitution is trying to do.
+
+That is Hamilton's closing move. He has spent an entire essay arguing that a divided America would fall into internal war, not because Americans are uniquely bad, but because they are human, and humans in neighboring independent states always end up fighting eventually. He has shown that commerce does not save you. He has shown that republics do not save you. He has shown that recent American experience already points in the same direction. And then, at the end, he lifts out of the pessimism and names the solution. A confederate republic. A union designed to hold the jealousies of neighbors in check.
+
+That is what the Constitution is. That is what Hamilton wants his readers to see.
+
+It is worth stepping back for a moment to see what Hamilton has done in this paper, set against what Jay did in the previous four.
+
+Jay's argument was about what the world outside would do to a divided America. Foreign powers would exploit our weakness. Foreign powers would draw separate confederacies into rival alliances. Foreign powers would be invited onto American soil and would not leave.
+
+Hamilton's argument is about what Americans themselves would do to each other, even if the world outside took no interest at all. Ambition would still operate. Private passions would still drag leaders into quarrels. Commercial rivalries would still ignite. Popular resentments would still erupt. Neighboring states, no matter how republican, no matter how commercial, would find reasons to fight.
+
+Put those two arguments together and you have a complete picture. A divided America is dangerous because the outside world will press in, and a divided America is dangerous because the inside will break apart. Either way, you get war. Either way, the independence won in the Revolution starts to crumble.
+
+And Hamilton is not finished. Federalist No. 7 is his as well, and it is going to get very specific about what exactly separate American confederacies would fight about. Territory. Trade. Public debts. The navigation of rivers. The allocation of western lands. The sweeping philosophical case he has made in No. 6 is going to be followed by an almost lawyerly enumeration of the concrete flashpoints that disunion would produce.
+
+For modern listeners, it is worth noting how much of what Hamilton says in this paper still rings. The skepticism about the pacifying power of commerce, the idea that trade between great powers would make war unthinkable, has been tested and partly disproved over the last two centuries. Most famously in 1914, deeply interconnected European trading partners tore themselves apart in a world war that many serious people had just finished saying was impossible. Hamilton would not have been surprised. He would have said that commerce changes the objects of war. It does not abolish them.
+
+The larger claim, that neighboring states are natural rivals unless contained inside a shared constitutional framework, has been one of the most durable arguments for federal union ever since. Every time a major federation has broken apart, from the breakup of Yugoslavia to the dissolution of the Soviet Union, the pattern Hamilton describes has tended to reappear. Inequalities between successor states producing jealousy. Jealousies producing conflict.
+
+That does not mean Hamilton's worldview is the only possible one. There are serious counterarguments, and history has given us some evidence for more optimistic views too. Long peaces have sometimes held between commercial neighbors. Democracies have often, though not always, refrained from attacking each other. The story is more complicated than Hamilton allows. But on his central claim, that separate, independent, neighboring states with no unifying structure are more likely than not to end up in conflict, he is on solid historical ground. He is not being paranoid. He is reading the record.
+
+This has been The Federalist Papers: Explained. Episode 6. Next time: Federalist No. 7, still Alexander Hamilton, this time getting very specific about the concrete issues that would push separate American confederacies into war with each other.

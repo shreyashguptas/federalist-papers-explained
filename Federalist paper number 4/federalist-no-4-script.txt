@@ -1,0 +1,177 @@
+We've been building an argument across these first few episodes, and it's worth seeing how the pieces connect before we move forward.
+
+In Episode 1, Hamilton opened the entire project by framing the ratification debate as something larger than a vote on a document. He said it was a test of whether free people can actually govern themselves through reason and choice, or whether they are always going to be ruled by accident and force.
+
+In Episode 2, Jay began answering that question from a different angle. He looked at the land, the shared language, the political habits, the experience of fighting a war together, and he argued that Americans are already one people. The union is not something being imposed from the outside. It is the natural expression of what already exists.
+
+Then in Episode 3, Jay got concrete. He moved from identity to security. He argued that a united America under one national government would create fewer just causes of war, fewer legitimate grievances, than a divided America would. One government interprets treaties more consistently, enforces obligations more reliably, resists local self-interest more effectively, and restrains border passions more successfully. And when disputes do arise, a united nation is more likely to settle them peacefully, because it can respond with more calm, more authority, and more credibility.
+
+That was Jay's argument about just causes of war. Grievances that America might create through its own misconduct or disunity.
+
+Now, in Federalist No. 4, Jay turns to the other side of the problem. And this shift matters.
+
+He opens the paper by summarizing what he's already established. His last paper, he says, gave several reasons why the safety of the people would be best secured by union against just causes of war. Those reasons showed that such causes would not only arise less often but would also be easier to resolve under a national government.
+
+But then he says something that changes the frame of the entire discussion. The safety of America, he writes, depends not only on avoiding just causes of war, but also on placing itself in a position that does not invite hostility or insult. And here is the key line. He says, "for it need not be observed that there are pretended as well as just causes of war."
+
+That is the pivot of this essay. In the last paper, Jay's question was: how do you avoid giving other nations a legitimate reason to be angry at you? Now his question is different: what do you do about the fact that nations sometimes attack for reasons that have nothing to do with justice?
+
+This is a harder problem. You can try to behave well. You can honor your treaties. You can restrain your own people from provocations. But none of that protects you against a foreign power that simply decides it has something to gain by going after you. Just behavior reduces the risk of justified conflict. But it does not eliminate the risk of unjustified conflict. And that, Jay is saying, is a separate danger that requires a separate kind of preparation.
+
+Let's walk through how he builds this argument. It's one of the more clear-eyed and realistic essays in the entire Federalist series.
+
+Jay starts with a blunt observation about human nature and international politics. He writes, "It is too true, however disgraceful it may be to human nature, that nations in general will make war whenever they have a prospect of getting anything by it."
+
+That is not a complicated sentence, but it's worth pausing on. Jay is not saying that war is random or senseless. He is saying that war is often calculated. Nations go to war when they think they can gain something, territory, trade advantages, strategic position, influence. The decision is not always about justice. It is often about opportunity. If a nation sees a chance to expand, to take something, or to weaken a rival, and it believes it can succeed, the temptation to act on that calculation is very real.
+
+And then Jay sharpens the point further. He says that absolute monarchs will often make war even when their own nations have nothing to gain by it. The reasons can be entirely personal. He lists them: thirst for military glory, revenge for personal affronts, ambition, or private deals to advance their particular families or allies.
+
+You might wonder why Jay is spending time on the personal motives of kings. After all, Americans were building a republic. They didn't have monarchs. Why does it matter whether a European king goes to war for personal glory?
+
+It matters because Americans were not living on an isolated planet. The major powers of the late eighteenth century were monarchies. Britain had a king. France had a king. Spain had a king. The nations most likely to interact with America, as trading partners, as neighbors in North America, as potential adversaries, were ruled by individuals whose personal feelings, ambitions, and grudges could and did shape national policy. An American republic could be as well behaved as it wished. That would not protect it from a king who decided that a war in America would enhance his prestige, settle a personal score, or benefit some faction at court.
+
+Jay is being realistic here, not cynical. He is saying: when you plan for your country's security, you cannot assume that other governments will act rationally or justly. You have to plan for the world as it actually is, populated by governments that sometimes go to war for reasons that are selfish, personal, or simply opportunistic.
+
+He summarizes this by saying that these motives, which affect only the mind of the sovereign, often lead him to engage in wars not sanctioned by justice or the voice and interests of his people. In other words, the king's wars are not always his people's wars. But the people still fight and die in them. And the countries on the receiving end still suffer from them, regardless of whether the cause was just.
+
+Now, having established that nations sometimes go to war for bad reasons or personal reasons, Jay turns to something much closer to home. He says there are causes of potential conflict that grow directly out of America's own situation and circumstances. Not out of American misconduct, but out of American success.
+
+This is one of the most important arguments in the essay. Jay is saying that America's growing commercial strength is itself a source of danger. Not because commerce is wrong, but because it generates rivalry. And rivalry generates hostility.
+
+He walks through several specific examples, and they're worth going through carefully, because they paint a vivid picture of America's economic position in the late 1780s.
+
+First, the fisheries. Jay says that America rivals both France and Britain in the fishing trade. American fishermen can supply European markets more cheaply than the Europeans can supply themselves, even when those European governments try to protect their own industries through subsidies on domestic fish or duties on foreign fish.
+
+Now, if you're hearing this and thinking of fishing as a minor industry, that would be a mistake for this period. In the eighteenth century, the North Atlantic fisheries were an enormous economic and strategic asset. They fed large populations. They generated trade revenue. And critically, they trained sailors. A nation with a large fishing fleet had a ready supply of experienced seamen who could be called into naval service in wartime. The fisheries were not just an economic interest. They were a military resource. So when Jay says America and Europe are rivals in the fisheries, he is saying America is competing in an area that major powers consider vital.
+
+Second, navigation and the carrying trade. This means the business of shipping goods between countries, not just trading your own products, but carrying other nations' products in your ships, for a fee. Jay says America rivals most European nations in this business. And he adds a warning. American carrying trade cannot grow without shrinking theirs. This is not a situation where everyone wins together. Every ship carrying American goods or sailing under an American flag is a ship not sailing under a British or French flag. Every contract going to an American merchant is a contract not going to a European one. Jay says it is more in their interest to restrain American shipping than to promote it.
+
+Think about what that means. America's commercial success in shipping is not just a point of pride. It is a point of friction. European nations with large navies and large merchant fleets are watching American commercial growth and seeing their own market share decline. That breeds resentment even when no one has done anything wrong.
+
+Third, the trade with China and India. Jay notes that American merchants are beginning to participate in Asian trade routes that European powers had previously monopolized or dominated. When American ships sail to China and India and bring back goods directly, Americans no longer need to buy those goods from European middlemen. That means European trading companies lose business. The Dutch, the British, the French, they had spent generations building their positions in Asian trade, and now American merchants are cutting into those advantages.
+
+Fourth, territorial proximity. Jay makes a broader point about America's commerce in its own hemisphere. He says that the cheapness and quality of American products, combined with the simple fact that America is nearby, will naturally give American merchants a larger share of trade with territories in North and South America and the Caribbean. And the European nations that hold those territories, Spain, Britain, France, are not going to be happy about it.
+
+This is a point that modern listeners might miss because the geopolitics of the Western Hemisphere look so different today. But in 1787, the Caribbean and large parts of North and South America were colonial possessions of European powers. Those colonies produced sugar, coffee, tobacco, and other valuable goods. The trade flowing in and out of those colonies was enormously profitable, and European governments controlled and regulated it carefully. An ambitious American merchant marine threatening to compete for that trade was not a minor irritation. It was a direct challenge to colonial trade systems that European powers depended on.
+
+Fifth, the rivers. Jay gives two specific examples that would have been immediately vivid to his readers. Spain, he says, thinks it convenient to shut the Mississippi against us on one side. And Britain excludes us from the Saint Lawrence on the other.
+
+The Mississippi River was the highway of the American interior. Farmers and settlers west of the Appalachian Mountains depended on the Mississippi to get their goods to market. If you grew grain or raised livestock in what is now Kentucky or Tennessee, you floated your products down the river to New Orleans, where they could be loaded onto ships bound for the Atlantic. But Spain controlled New Orleans and the lower Mississippi. And Spain had closed the river to American navigation. That meant American farmers in the western territories were effectively cut off from their only practical route to market.
+
+On the other side, Britain controlled Canada and with it the Saint Lawrence River, which was the main water route into the interior of the continent from the northeast. British control of the Saint Lawrence meant that American access to that waterway was at Britain's discretion.
+
+And Jay adds that neither Spain nor Britain would even allow the waters between them and America, meaning the Great Lakes and other connecting waterways, to become routes of open trade and traffic.
+
+So picture the situation Jay is describing. America is a young nation with enormous economic potential, surrounded on multiple sides by European colonial powers who control the major waterways, hold valuable territories nearby, and are watching American commercial growth with increasing unease. American fishermen are undercutting European fishermen. American ships are competing for the carrying trade. American merchants are entering the China and India trade. American producers are cheaply and efficiently supplying markets that European powers want to control. And the European response is not open welcome. It is restriction, exclusion, and suspicion.
+
+Jay steps back from these specific examples and draws the broader conclusion. He writes that from all of this, "it is easy to see that jealousies and uneasinesses may gradually slide into the minds and cabinets of other nations, and that we are not to expect that they should regard our advancement in union, in power and consequence by land and by sea, with an eye of indifference and composure."
+
+That sentence is worth sitting with. Jay is saying: do not fool yourselves into thinking that Europe will watch American growth and simply shrug. They will not be indifferent. They will not be calm. They will see America's increasing strength as a threat. And threats, even when they are entirely peaceful in nature, produce jealousy, uneasiness, and eventually hostility.
+
+You might wonder whether Jay is being paranoid here. After all, America in 1787 was not a world power. It was a small, struggling nation of about four million people. Was it really plausible that European empires would see this fledgling country as a commercial rival worth worrying about?
+
+Actually, yes. The signs were already there. Britain had not yet evacuated its western forts, in part because it wanted to maintain leverage over American policy and trade. Spain was actively restricting American access to the Mississippi. France was watching its own trade interests carefully. These were not theoretical dangers. They were the existing reality of American foreign relations in the late 1780s. Jay was not imagining threats. He was describing them.
+
+And here is the critical turn in Jay's argument. The American people, he says, are aware that these commercial rivalries could lead to conflict. They understand that when the time and opportunity are right, pretenses to justify hostility will not be hard to find. A nation that wants to make war on you does not need a genuine grievance. It just needs a plausible excuse.
+
+Wisely, therefore, Jay says, the American people consider union and a good national government as necessary to put and keep themselves in a position that, instead of inviting war, will tend to repress and discourage it.
+
+This is Jay's central claim in this essay. The purpose of union is not just to avoid provoking conflict. It is to create the kind of strength that deters it. A united, well-governed America is not just less likely to give offense. It is less likely to be targeted, because potential adversaries will think twice before challenging a nation that is organized, capable, and prepared.
+
+So then Jay asks: if safety depends on the government, the arms, and the resources of the country, which arrangement provides the best defense, one national government, or several separate confederacies?
+
+His answer is detailed and methodical, and it covers several distinct advantages of union.
+
+First, talent. One national government can draw on the ablest people from every part of the country. It is not limited to the talent available in one state or one region. It can find the best diplomats, the best military officers, the best administrators, wherever they happen to live. A confederacy limited to three or four states has a smaller pool to choose from. The difference in quality may not be dramatic in every case, but across time and across many decisions, drawing from a larger pool of talent produces better results.
+
+Second, consistency. A single national government can act on uniform principles of policy. It can harmonize the interests of different regions instead of letting them pull in opposite directions. When it negotiates a treaty, it speaks for the whole country. When it sets trade policy, it considers the whole picture. Several separate governments, each with their own foreign policy and their own trade agreements, will inevitably produce contradictions, inconsistencies, and confusion, both internally and in the eyes of foreign powers trying to figure out what American policy actually is.
+
+Third, military organization. This is where Jay gets especially concrete. A national government can place the militia under one plan of discipline. It can put military officers in a proper chain of command under one executive. It can, as Jay puts it, consolidate the militia into one corps and make them far more effective than if they were divided into thirteen separate forces or three or four independent ones.
+
+And here Jay reaches for a comparison that his readers would have understood immediately. He asks: what would the militia of Britain be if the English militia obeyed only the government of England, the Scottish militia obeyed only the government of Scotland, and the Welsh militia obeyed only the government of Wales?
+
+Suppose an invasion. Could those three separate governments, even if they managed to agree on a response, operate against the enemy as effectively as the single government of Great Britain?
+
+The answer is obviously no. Coordination between independent governments is slower, more contentious, and less reliable than unified command. In a military emergency, the difference between one decision-making authority and three competing ones can be the difference between effective defense and catastrophe.
+
+For modern listeners, the Britain comparison might need a little context. By 1787, England, Scotland, and Wales had been governed as a single political unit for decades. Scotland had joined with England in the Acts of Union in 1707, creating Great Britain. Jay's audience would have known this history. And they would have recognized that the unification of these previously separate kingdoms had produced a nation far more powerful than any of its parts had been alone. Britain's rise to become the dominant naval and commercial power in the world was inseparable from that political unification.
+
+Jay then extends the comparison to something even more specific: the British fleet.
+
+He writes, "We have heard much of the fleets of Britain, and the time may come, if we are wise, when the fleets of America may engage attention."
+
+That is a quietly ambitious sentence. Jay is planting the idea that America could one day have a navy worth noticing. But he immediately connects that ambition to the argument for union.
+
+He says that the British fleet exists because one national government regulated British navigation in a way that made it a nursery for seamen. One national government called forth all the national means and materials for building fleets. Without that centralized direction, Britain's naval power would never have existed.
+
+Then he drives the point home with a thought experiment. Let England have its own navigation and fleet. Let Scotland have its own. Let Wales have its own. Let Ireland have its own. Let those four parts of the British empire each operate under four independent governments. How long before each one dwindles into comparative insignificance?
+
+The answer, Jay implies, is not long at all. The power of the British navy was not the sum of four independent navies bolted together. It was the product of unified planning, shared resources, and centralized command. Divide those inputs, and the output collapses.
+
+Jay is asking his American readers to apply exactly this logic to their own situation. Thirteen separate states, or even three or four confederacies, each trying to build and maintain their own military forces, their own navies, their own coastal defenses, will each be far weaker than a single united nation pooling all of those resources together.
+
+Now Jay turns to what might be the most psychologically honest part of the essay. He imagines what would actually happen if America were divided into several separate confederacies and one of them were attacked.
+
+Would the others rush to its defense? Would they spend their blood and money to protect a neighbor?
+
+Jay is skeptical. And his skepticism is grounded not in cynicism but in realism about how independent political communities actually behave.
+
+He asks a series of pointed questions. If one confederacy were attacked, would the others fly to its rescue? Or would there be a danger of their being flattered into neutrality by specious promises from the attacker? Might they be seduced by a fondness for peace into refusing to risk their own safety for the sake of neighbors they have perhaps been jealous of, and whose growing importance they are not entirely sorry to see reduced?
+
+Jay says this directly: although such conduct would not be wise, it would nevertheless be natural. And then he adds: the history of the states of Greece, and of other countries, abounds with such instances.
+
+That Greek reference would have landed hard with Jay's educated readers. The Greek city-states, Athens, Sparta, Corinth, Thebes, and others, had famously failed to unite against common threats. When Persia invaded, Greek unity was temporary and fragile. When Philip of Macedon and later his son Alexander threatened Greek independence, the city-states were divided by jealousy, rivalry, and the temptation to cut separate deals. The result was conquest. The pattern Jay is describing is not hypothetical. It had played out repeatedly in history.
+
+And Jay is saying: do not assume Americans would behave differently. Human nature does not change because you cross the Atlantic. If America splits into separate confederacies, each one will eventually prioritize its own safety, its own interests, and its own peace over the safety of its neighbors. That is not a moral failure. It is a predictable consequence of political independence. Separate governments have separate interests, and when those interests diverge, solidarity breaks down.
+
+But Jay doesn't stop there. He says: even if the other confederacies were willing to help, how would that help actually work?
+
+This is where the argument gets practical in a way that anyone who has worked in any kind of coalition or alliance will recognize.
+
+How and when and in what proportion shall aid be provided? Who commands the combined armies? Which confederacy does the commander answer to? Who negotiates the terms of peace? If the confederacies disagree about the terms, who settles the dispute? Who compels compliance?
+
+Every one of these questions is a potential source of delay, conflict, and failure. And in a military emergency, delay can be fatal. While separate confederacies are negotiating command structures and arguing over troop contributions and disagreeing about strategy, the enemy is advancing.
+
+Jay contrasts this with the simplicity and effectiveness of one government watching over the common interest, combining and directing the powers and resources of the whole. No committee of allied governments debating who does what. No jealousy over who contributes more. No disputes over who gets credit or who sets the terms. One government, one decision, one response.
+
+A fair question here is whether Jay is being too dismissive of alliances. After all, nations do form alliances, and some of them work. NATO, for instance, has been a functioning alliance for decades. But Jay would probably point out that even the most successful alliances are slower, more contentious, and more fragile than unified national action. And he would point out that what he is describing is not an alliance between established nations with long histories of cooperation, but a fragile arrangement between newly independent confederacies that were recently part of the same country and may harbor resentments, rivalries, and competing ambitions from the start.
+
+And then Jay closes with what may be the most powerful passage in the entire essay. It is a description of how foreign nations will actually see America, and how that perception will shape how they treat it.
+
+He writes, "But whatever may be our situation, whether firmly united under one national government, or split into a number of confederacies, certain it is, that foreign nations will know and view it exactly as it is; and they will act toward us accordingly."
+
+That is a deceptively simple sentence. Foreign nations will see you as you are. You cannot bluff your way out of weakness. You cannot pretend to be united when you are divided. You cannot project strength you do not have. The world will read your situation accurately, and it will respond to the reality, not to the image you wish you projected.
+
+Then Jay paints two contrasting pictures, and the contrast is devastating.
+
+If foreign nations see that America's national government is efficient and well administered, its trade prudently regulated, its militia properly organized and disciplined, its resources wisely managed, its credit sound, its people free and contented and united, then they will be much more disposed to seek American friendship than to provoke American resentment.
+
+But if they find America destitute of an effective government, each state doing whatever its rulers think convenient, or split into three or four independent and probably quarrelsome republics, one leaning toward Britain, another toward France, a third toward Spain, perhaps played off against each other by all three, then, Jay asks, what a poor, pitiful figure will America make in their eyes?
+
+That phrase, poor, pitiful figure, lands with real force. Jay is not just saying America would be weaker. He is saying America would be contemptible. Open to not just pressure but outright contempt. Not just vulnerable to attack but vulnerable to being treated as a plaything of European power politics, with rival confederacies being manipulated by rival European empires the way chess pieces are moved around a board.
+
+And Jay ends with a line that sounds almost proverbial: "How soon would dear-bought experience proclaim that when a people or family so divide, it never fails to be against themselves."
+
+Division is always self-destructive. That is Jay's final word. When a people divide, the result is never that both halves flourish independently. The result is that both halves become weaker, more vulnerable, and more susceptible to outside manipulation. The division itself becomes the weapon that the outside world uses against them.
+
+You might wonder whether Jay is overstating the danger. After all, there are examples in history of countries that split apart and did reasonably well afterward. But remember the context. Jay is writing about a country of four million people, surrounded by the most powerful empires on earth, in a world where weak nations were routinely absorbed, colonized, or reduced to client states. The margin for error was very small. And the examples Jay would have had in mind, the Greek city-states, the Italian republics, the small nations of Europe that had been swallowed by their larger neighbors, all pointed in one direction. Small and divided meant vulnerable. And vulnerable, in the eighteenth century, meant endangered.
+
+So what, in the end, is Jay arguing in Federalist No. 4?
+
+He is completing the foreign danger argument he began in the previous paper. In Federalist No. 3, he said: union reduces the risk of war by reducing the just causes of conflict and handling disputes more wisely. Here in Federalist No. 4, he says: even if you do everything right, the world is still dangerous. Nations go to war for unjust reasons. Kings go to war for personal reasons. Commercial rivals go to war out of jealousy. And the only reliable protection against that kind of danger is not good behavior but strength. Not moral perfection but deterrence.
+
+Union provides that strength. One national government can recruit the best talent. It can make consistent policy. It can build a real military and, eventually, a real navy. It can respond to threats quickly and decisively, without the delays and disputes that plague alliances of independent governments. And critically, it can project the kind of unified, capable, credible image that makes foreign nations think twice before starting trouble.
+
+Separate confederacies cannot do any of this as well. They will be weaker individually. They will be slower to coordinate. They will be tempted to let their neighbors bear the cost of conflict. They will be manipulated by European powers playing them against each other. And the world will see all of this clearly, because the world always does.
+
+Notice how Jay's argument across these two papers works as a pair. Federalist No. 3 is about what America can control, its own conduct, its own treaty compliance, its own restraint. Federalist No. 4 is about what America cannot control, the ambitions, jealousies, and calculations of foreign powers. Together, they say: union addresses both sides of the problem. It makes you less likely to provoke conflict, and it makes you better prepared to deter and survive the conflicts that come regardless.
+
+There is also something worth noticing about Jay's tone in this essay compared to the earlier ones. In Federalist No. 2, he was warm and almost inspirational, talking about shared identity and Providence and a people who had fought side by side. In Federalist No. 3, he was precise and institutional, talking about treaty enforcement and diplomatic credibility. Here in Federalist No. 4, he is harder-edged. More blunt about human nature. More direct about the ugliness of international politics. Nations make war when they can profit from it. Kings make war for personal vanity. Commercial rivals do not wish you well. The world will treat you exactly as weak as you actually are.
+
+That progression is deliberate. Jay starts with the vision of what the union means. Then he explains how it prevents the conflicts America might cause. Then he explains how it protects against the conflicts America cannot prevent. Each paper builds on the last. Each paper is a little more realistic about the world outside.
+
+Next time, in Federalist No. 5, Jay will press this argument further. He'll look more closely at what happens internally when a country divides, how separate confederacies relate to each other over time, how rivalries and jealousies develop between neighbors who were once partners, and how foreign powers exploit those divisions. The foreign danger argument is not quite finished.
+
+But this paper is where Jay makes his hardest case. The world is not fair. Other nations will not leave you alone just because you have done nothing wrong. Strength and unity are not optional. They are the price of survival.
+
+This has been The Federalist Papers: Explained. Episode 4. Next time: Federalist No. 5, still John Jay, on what happens when former allies become rival neighbors.

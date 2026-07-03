@@ -1,0 +1,38 @@
+# ─── Secrets ───────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ─── Audio (never commit — this repo is code/pipeline only) ──
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac
+audio-chunks/
+**/.audio-qa-transcript.json
+
+# ─── Video + Final Cut Pro editing projects (large binaries) ─
+*.mp4
+*.mov
+*.fcpbundle/
+Final Cut Optimized Media/
+Final Cut Proxy Media/
+
+# ─── Images: keep the series cover art, drop per-episode art ─
+*.png
+*.jpg
+*.jpeg
+!Show Art.png
+
+# ─── OS / editor / Python junk ──────────────────────────────
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.pyc
+.claude/
+.venv/
+venv/
+node_modules/
+.idea/
+.vscode/

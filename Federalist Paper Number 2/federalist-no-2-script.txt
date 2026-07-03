@@ -1,0 +1,129 @@
+In the last episode, we started at the very beginning — Federalist No. 1, written by Alexander Hamilton, published October 27, 1787. Hamilton opened the whole project by framing the stakes: this ratification debate wasn't just about one document. It was about whether free people could actually govern themselves through reason and deliberate choice, or whether they were always going to end up governed by accident, fear, and force. He named the kinds of opposition the Constitution would face. He issued that sharp warning about demagogues who start as defenders of the people and end as tyrants. And at the very end of his opening essay, he told readers what was coming next.
+
+He said the papers that followed would begin making the case for why the union itself matters. Not just why the new Constitution is better designed than the old one, but why remaining united — one country, one national government — is worth preserving in the first place.
+
+That argument starts here.
+
+Federalist No. 2. Written by John Jay. Published October 31, 1787 — just four days after Hamilton's opening. And Jay, who is a very different kind of writer than Hamilton, approaches this question in a very different way. He doesn't open with philosophical flourish or a warning about despotism. He opens with an observation about the land.
+
+But before we get into the argument, it's worth spending a moment on who Jay is. Because his background shapes everything he's saying in this paper.
+
+Of the three men who wrote the Federalist Papers, John Jay is probably the least famous today. Hamilton dominates the popular imagination partly due to a Broadway musical and partly because his face is on the ten-dollar bill. Madison gets the title "Father of the Constitution." Jay is the third name — often an afterthought in the popular retelling.
+
+But in 1787, John Jay was a very big deal. He had served as President of the Continental Congress. He had co-negotiated the Treaty of Paris in 1783 — the peace agreement that officially ended the Revolutionary War and secured American independence. He was currently serving as Secretary of Foreign Affairs, which was effectively the top foreign policy position in the American government at that moment under the Articles of Confederation. And before all of that, he had spent years working as a diplomat, navigating the complicated world of European power politics.
+
+That experience matters enormously for reading this paper. Jay knew, better than almost anyone else writing these essays, what it actually looked like when powerful foreign nations dealt with a weak and divided counterpart. He had been in those rooms. He had felt the difference in how European powers treated American envoys when America was negotiating from weakness versus when it had credibility and unity behind it.
+
+When Jay argues that a disunited America would be in danger from the outside world, he's not speaking from theory. He's speaking from experience.
+
+One more biographical note worth having: Jay wrote only five of the 85 Federalist Papers — Nos. 2, 3, 4, 5, and one late contribution, No. 64. He fell seriously ill with rheumatism shortly after contributing these first essays, and had to step back from the project. Hamilton and Madison carried the vast majority of the workload. But Jay did return to contribute that single later paper on the treaty-making power of the Senate, and his early essays here set up a crucial part of the argument.
+
+Jay would go on to become the first Chief Justice of the United States under the new Constitution. But that's ahead of us. Right now, in late October 1787, he is writing for the people of New York — and for the country — about why the union is worth saving.
+
+Now: the argument.
+
+Jay opens by acknowledging that the decision before the American people is one of the most consequential they will ever face. He says it plainly: this requires serious and comprehensive attention. And then he names the central question that this essay — and really the entire first section of the Federalist Papers — is going to wrestle with.
+
+Here it is in simple terms: should the people of America be one nation, under one federal government? Or should they divide into separate confederacies, each with its own government and its own powers?
+
+You might think that question had an obvious answer in 1787. It doesn't feel like a real debate from where we stand now. But it was genuinely contested at the time. Anti-Federalists who were skeptical of one large national government weren't simply arguing to keep the failing Articles of Confederation. Some of them were floating a different alternative entirely: break the thirteen states into two or three smaller regional confederacies. Maybe a northern group, a southern group, perhaps a middle cluster. Each would have its own government. Each would manage its own foreign policy and its own military affairs. The logic was that smaller, more homogeneous confederacies might actually be more manageable — and less threatening to individual liberty — than one sprawling national government trying to govern everyone from Maine to Georgia.
+
+To get a sense of how real this conversation was: prominent figures like George Clinton, the governor of New York, and Patrick Henry in Virginia were strongly opposed to the proposed Constitution. And they weren't making a case for doing nothing. They were making a case for something different. The argument for smaller confederacies wasn't a fringe idea — it was a live option in the fall of 1787, and it came with a certain intellectual respectability. The concern driving it was genuine: a national government powerful enough to hold thirteen states together might also be powerful enough to oppress them.
+
+Jay takes that alternative seriously. He doesn't dismiss it. He knows the question is real. And his answer — the argument he builds across this paper — comes in three distinct moves.
+
+The first move is geography.
+
+Jay observes that unlike Europe, where distinct nations are separated by mountain ranges, seas, and centuries of separate cultural development, America is one continuous, connected piece of land. He describes it with a kind of wonder that reflects the genuine novelty of the American geography to an 18th-century mind. He writes that "one connected, fertile, widespreading country was the portion of our western sons of liberty" — a country blessed with a variety of soils and productions, watered by innumerable streams, bound together by rivers that served as natural highways for communication and trade.
+
+This is partly a providential argument. Jay uses the language of Providence — meaning God's design — to suggest that the unity of the land signals something about what was meant to be. But even if you set aside the theological framing, the underlying geographic point holds. America's major rivers ran in ways that connected regions to each other. The land was contiguous. There were no natural geographic boundaries that would make a clean, sensible dividing line between separate nations. You couldn't draw a neat line across the middle of the continent the way the Alps divided France from Italy or the Pyrenees divided France from Spain.
+
+Jay is saying: before you even get to politics or policy, look at the map. The geography of this country doesn't tell you to divide it. It tells you the opposite.
+
+The second move is cultural unity.
+
+This is the most striking passage in the paper, and it's worth quoting at some length because Jay is making a very specific claim. He writes: "Providence has been pleased to give this one connected country to one united people — a people descended from the same ancestors, speaking the same language, professing the same religion, attached to the same principles of government, very similar in their manners and customs, and who, by their joint counsels, arms, and efforts, fighting side by side throughout a long and bloody war, have nobly established general liberty and independence."
+
+Now, reading this today, it's important to engage with it honestly. Jay is describing a real cultural commonality, but he's describing it from a very particular vantage point.
+
+The core of his argument has real force. The white Protestant colonial settlers of primarily English background who dominated political life in the thirteen states did share a striking degree of cultural coherence by the standards of the 18th-century world. They spoke the same language. They operated within the same legal traditions, rooted in English common law. They shared a political vocabulary — about rights, representation, liberty, consent of the governed — that had developed across all thirteen colonies together. And they had just spent eight years fighting side by side in the same war against the same enemy. That shared experience of the Revolutionary War had forged something genuinely new: a sense of common national identity.
+
+But Jay's portrait of "one united people" also left out a great deal. Roughly 20 percent of the population of the thirteen states were enslaved African Americans — people who had been forcibly brought here and who had no meaningful political standing in this system. There were indigenous nations throughout the continent whose claims Jay isn't accounting for at all. There were substantial communities of German immigrants, Dutch settlers, Catholics, and others who didn't fit neatly into the English Protestant picture Jay was drawing. His "one people" was, in practice, a description of the politically enfranchised class — not the full demographic reality of America in 1787.
+
+A fair question here is: does acknowledging this limit undermine Jay's argument? Not entirely. What it does is define the actual scope of the argument. Within the group Jay is describing — the white, politically active colonists who were participating in this ratification debate — the cultural coherence he's pointing to was real. They were unusually unified by the standards of any comparable territory anywhere in the world at that moment.
+
+And his strategic point still stands on its own terms. He's asking his readers: you already identify as Americans. You already think of yourselves as a single people. What would it actually mean — not just practically, but existentially — to divide that identity into separate confederacies that might, over time, become rivals? You'd be taking people who fought together, governed together, and built a shared political identity together, and drawing a line between them.
+
+The cultural unity Jay is describing is both genuinely real within its limits and genuinely worth something. His point is that the union isn't just a convenient political arrangement. It's the expression of a shared identity that already exists.
+
+The third move is historical precedent.
+
+Jay notes that it's not as if the Americans have just been theorizing about acting as one nation. They've actually been doing it. For years. Through the Continental Congresses, through the war, through the negotiations that produced the peace treaty. As he puts it directly: "As a nation we have made peace and war; as a nation we have vanquished our common enemies; as a nation we have formed alliances, and made treaties, and entered into various compacts and conventions with foreign states."
+
+This is a powerful form of argument. He's not saying: let's build a union. He's saying: you already have one. The union isn't a new idea being proposed to skeptical people. It's an existing reality being asked to survive. The question isn't whether to create a national identity from scratch — it already exists in the habits, institutions, and shared experiences of the American people. The question is whether to give that identity the governmental structure it needs to persist and function, or to let it dissolve by default.
+
+Having made those three arguments — geography, culture, and historical practice — Jay turns to the existing government and why it needs to change.
+
+He acknowledges that when Americans first created a federal government, they did it under almost impossible conditions. It was the middle of a war. Homes were burning. People were dying. There was no time for careful constitutional design — there was only emergency improvisation. Jay is almost gentle about this. He says it's not surprising that a government built in wartime, under that kind of pressure, turned out to be deficient. Of course it was. You don't do your clearest thinking when you're in crisis.
+
+Think about what that looks like in any modern context. Any organization that builds its systems in a crisis ends up with emergency workarounds that calcify into permanent structure. Temporary fixes become standard operating procedures. America's post-revolutionary government suffered from exactly this problem. The Articles of Confederation weren't designed so much as assembled under fire — and the flaws were baked in from the start.
+
+And by 1787, those flaws were impossible to ignore. Under the Articles, Congress had no power to levy taxes — it could only ask the states for money, and the states frequently refused or simply didn't pay. The national government had run up enormous debts from the Revolutionary War and had no reliable way to pay them. Congress had no power to regulate commerce between the states, which meant states were taxing each other's goods and fighting economic skirmishes with one another. The federal government couldn't enforce its own treaties — so when Britain or Spain or other nations made agreements with the United States, there was no guarantee that individual states would actually honor them. There was no executive to carry out decisions. There was no real federal judiciary. The whole structure was more like a gentleman's agreement between sovereign states than an actual government. It depended entirely on the goodwill and voluntary compliance of thirteen separate states — and that goodwill was running out.
+
+Jay mentions the "defects" of the Articles without cataloging all of them here, because that case gets made in detail in later papers. But his point is that the inadequacy of the Articles is not in serious dispute among honest observers. The question is what comes next.
+
+But Jay's point here is careful. He's not blaming the founders of the Articles. He's saying: the circumstances made a better result unlikely. Now the circumstances have changed. The war is over. There is time for calm, deliberate reflection. And the American people, perceiving the defects in their existing government, did something about it. They called the Philadelphia Convention.
+
+Now Jay does something interesting. He shifts into what is effectively a character argument.
+
+He wants his readers to trust the work that came out of the Convention. And he makes that case by making the case for the men who produced it. Here is how he describes them: "This convention composed of men who possessed the confidence of the people, and many of whom had become highly distinguished by their patriotism, virtue and wisdom, in times which tried the minds and hearts of men, undertook the arduous task. In the mild season of peace, with minds unoccupied by other subjects, they passed many months in cool, uninterrupted, and daily consultation; and finally, without having been awed by power, or influenced by any passions except love for their country, they presented and recommended to the people the plan produced by their joint and very unanimous councils."
+
+Notice what Jay is emphasizing. These weren't strangers or untested men. They were people who had already been put through the hardest tests the country had faced — the war, the years of political and economic instability, the building of new state governments from nothing. And critically, they did their work under conditions specifically designed for careful thought. Not in wartime. Not under emergency pressure. In peace. Over many months. In sustained, daily deliberation.
+
+Now, you might wonder: is Jay painting a rosier picture of the Convention than the reality deserves? Somewhat. The Philadelphia Convention was actually quite contentious. There were fierce disputes over how to count enslaved people for purposes of representation, over the design of the executive branch, over the balance of power between large and small states. Some delegates walked out. Others refused to sign the final document. Benjamin Franklin famously said he had reservations but signed anyway because he believed no better result was achievable by any group of men.
+
+So Jay is simplifying somewhat. But the essential point is defensible. The delegates who did sign the Constitution were, by any measure, an extraordinary group. Washington presided over the Convention. Madison was there, and had done more systematic preparation for constitutional design than probably any person in American history. Franklin, at 81, lent his enormous prestige to the proceedings. Hamilton was there. These were people who had spent their adult lives in the practical work of building and sustaining a country under conditions of genuine danger. The document they produced deserves to be taken seriously on those terms.
+
+Jay then makes an analogy that would have resonated immediately with his readers.
+
+He points to the Continental Congress of 1774 — the first Continental Congress, which had convened in response to the British government's punitive measures against Massachusetts. That Congress recommended certain measures to the colonists. At the time, the press filled with pamphlets opposing those measures. Officers of government who had personal interests at stake worked hard to discredit the Congress's recommendations. There was intense pressure not to follow the Congress's advice.
+
+But the great majority of the American people thought carefully, trusted the judgment of the men who had assembled in 1774, and acted on their recommendations. And it turned out well. The Congress's wisdom was vindicated.
+
+Jay's point is clear: if you were right to trust the judgment of the Congress of 1774 — a group of men who were at that point relatively untested, whose abilities hadn't yet been proven in the crucible of the Revolution — then you have even more reason to trust this Convention. Because many of the same men who served in 1774 went on to serve in Philadelphia, having accumulated decades of additional experience in between. The caliber of the men went up. The quality of the preparation went up. The conditions for deliberation were better. If trust was warranted then, it is more than warranted now.
+
+Jay is also careful to note something important: the plan coming out of the Convention is recommended, not imposed. No one is being coerced. The people are being asked to consider it seriously and decide freely. But that freedom to consider seriously is also a responsibility to consider seriously — not to reject reflexively, not to accept blindly, but to give it the thoughtful engagement its magnitude demands.
+
+Then Jay steps back and asks a pointed question.
+
+He notes that not just the current Convention, but every Congress going back to the very beginning, has consistently maintained that American prosperity depends on union. Not one of them — not the first Congress in 1774, not any of the ones that followed, not the delegates at Philadelphia — has suggested that division would serve the country's interests. There has been a remarkable, consistent unanimity across the entire history of American national governance: the people actually doing the work of governing, diplomacy, and defense have all agreed that union matters.
+
+So why, Jay asks, do certain men now — at this specific moment, just as a new and stronger Constitution has been placed before the public — suddenly start pushing the idea that maybe union isn't so important? Why now? Why, at the exact moment when the people have a real opportunity to strengthen the union and put it on a durable foundation, does the case against union begin to appear?
+
+Jay doesn't linger on the answer. He doesn't need to. The implication is clear enough. The timing is not coincidental.
+
+And here, it's worth connecting what Jay is saying back to what Hamilton said in Episode 1. Hamilton had identified one class of opposition as people who stood to gain personally from a fragmented America — men who, in smaller regional confederacies, would find themselves much more powerful than they could ever be in a united nation. Jay is not explicitly making that argument here, but he's nodding toward it. The sudden appearance of anti-union sentiment at precisely this moment has a suspicious smell to it.
+
+Jay closes the essay with a warning and a quote.
+
+The warning is this: anyone promoting the idea of separate confederacies as an alternative to the proposed Constitution understands, at some level, that rejecting the Constitution puts the continuation of the union itself in the utmost jeopardy. The confederacy alternative isn't a safe middle path. It isn't a careful reform of the existing system. It is a gamble with the union's survival — and the people promoting it know this, whether they say so openly or not.
+
+And then Jay does something that's rare in these papers. He reaches for poetry. He quotes Shakespeare — specifically Henry the Eighth, the speech where Cardinal Wolsey reflects on his sudden fall from power. Jay writes that if the union is dissolved, America will have reason to exclaim, "in the words of the poet: Farewell, a long farewell to all my greatness."
+
+It's an unexpected note to end on. Jay has been careful and methodical throughout — he is not Hamilton in terms of rhetorical pyrotechnics. But at the very last moment, he reaches for a line about loss, about watching something great slip away, about the irreversibility of certain kinds of failure.
+
+The implication isn't subtle. If America dissolves the union, it doesn't just lose a political arrangement. It loses the thing that makes it meaningful on the world stage. The thing that Hamilton in No. 1 called humanity's best experiment in self-government. The thing that Jay himself spent years in diplomacy trying to protect. If you let that go, it is not obvious you get it back.
+
+Farewell to all of that, if you choose wrong.
+
+So what is Jay actually accomplishing in this paper, taken as a whole?
+
+He's making a case that the union isn't just a useful political convenience — it's the natural expression of what America already is. The geography of the continent, the shared culture and language and political identity of its people, and the decades of actual experience acting as a single nation together have already made Americans one people in ways that matter. The question isn't whether they should become unified. They already are. The question is whether they will build the governmental structure that matches that reality — or whether they will let that reality be dismantled by people who have reasons of their own to prefer a fragmented America.
+
+This is a different kind of argument from Hamilton's in No. 1. Hamilton was framing the stakes and characterizing the opposition. Jay is beginning the positive case — not just "this is important" but "this is what you already are."
+
+There's something worth noticing about how Jay handles the alternative. He doesn't mock the idea of separate confederacies. He doesn't say it's obviously crazy. He takes it seriously enough to build a genuine argument against it. That's a stronger rhetorical move than dismissal, and it's also more honest. The confederacy idea wasn't crazy on its face — there were real tensions between regions, real differences in economic interest, real questions about whether a single government could manage a country of this size. Jay's answer isn't "that's a ridiculous question." His answer is: the unity you've already built through shared sacrifice is worth more than the theoretical tidiness of smaller groups, and the dangers of division are greater than the dangers of union.
+
+Next time, in Federalist No. 3, Jay is going to get much more specific. He'll argue that a united America isn't just stronger in some abstract sense — it's specifically better at avoiding the kind of provocations and incidents that lead to wars. A single country with a single foreign policy is less likely to stumble into conflict with powerful European nations than three or four separate confederacies each managing their own diplomacy with very different levels of skill and judgment. But that argument depends on this one. Before you can argue that union is safer, you have to establish that union is real — that there's something here worth preserving, something that already exists and would genuinely be lost if it broke apart. That's what Jay has done in No. 2.
+
+This has been The Federalist Papers: Explained. Episode 2. Next time: Federalist No. 3, still John Jay, where the argument shifts from why union is real to why union keeps you safe.

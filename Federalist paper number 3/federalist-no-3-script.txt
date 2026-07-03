@@ -1,0 +1,121 @@
+In Episode 1, Hamilton framed the stakes of this whole project. He told his readers that the ratification debate was really a test of whether free people can govern themselves through reason and choice, or whether they are destined to be ruled by accident and force. That was the philosophical ground floor.
+
+Then in Episode 2, Jay started building on it. He looked at the geography, the shared language and political habits, the experience of fighting a war side by side, and he argued that Americans are already one people. The union is not some abstract proposal being forced on a skeptical country. It is the natural expression of something that already exists. The real question is whether Americans will build a government strong enough to preserve it.
+
+That argument had to come first. Before Jay could say union keeps you safe, he had to establish that the union is real and worth preserving.
+
+Now, in Federalist No. 3, he gets more concrete. He moves from identity to security. He asks a very practical question: if you care about avoiding war, are you safer as one nation or as several smaller ones?
+
+This is still John Jay, writing as Publius in the fall of 1787. And Jay is especially well placed to make this case. He had served as Secretary for Foreign Affairs under the Articles of Confederation. He had helped negotiate the Treaty of Paris that ended the Revolutionary War. He knew what diplomacy looked like from the inside, and he knew how European powers treated countries that were weak, divided, or inconsistent. So when Jay talks about foreign danger, he is not just theorizing. He is speaking from experience.
+
+He opens with a simple point. The American people, he says, have long believed that their safety and prosperity depend on remaining firmly united under one federal government with enough power for national purposes. And the more he studies the reasons for that belief, the more convinced he becomes that the people are right.
+
+Then he names his priority. Among all the things a wise and free people have to think about, he says, providing for their safety comes first.
+
+That is a very basic claim, but it matters. Jay is saying that if a government cannot keep the peace, protect the country, and reduce the risk of catastrophe, then everything else becomes shakier. Arguments about structure and policy matter, but safety comes first because without it, the rest of politics is built on unstable ground.
+
+Now, safety can mean a lot of things. Jay says he is focusing on one part of it here: protection from foreign hostility. Later papers will expand the argument, but this essay asks a narrower question. Does a united America under one national government give the people better security against dangers from abroad than a divided America would?
+
+Jay's answer is yes. And his argument is more precise than it may sound at first.
+
+He begins with a principle that is almost common sense. The number of wars in the world, he says, tends to rise with the number and weight of the causes that provoke or invite them. If there are more causes of war, there will usually be more wars. If there are fewer causes of war, peace is easier to preserve.
+
+So the real question becomes this: would a united America create fewer causes of war than a disunited America?
+
+Jay says it would. And to explain why, he breaks the problem into two main categories. Most just causes of war, he says, come either from violations of treaties or from direct acts of violence.
+
+Let's start with treaties.
+
+By 1787, the United States had already entered into treaties with several foreign nations. Jay notes that most of them were maritime powers, which means they had ships and reach and could do real damage if relations went bad. America also had important commercial dealings with countries like Portugal, Spain, and Britain. And with Spain and Britain especially, there was the added complication of proximity. These were not distant powers with no ability to affect American life. They were neighbors, trading partners, and potential rivals.
+
+Because of that, Jay says it is extremely important that America observe treaties faithfully and follow the accepted rules of international conduct, what he calls the laws of nations. If America does that badly, it creates legitimate grievances. And legitimate grievances are exactly the kind of thing that can lead to war.
+
+So why does Jay think one national government would handle this better than separate states or smaller confederacies?
+
+He gives several reasons.
+
+First, he thinks a national government is more likely to attract and appoint stronger leaders. His point is not that every national official will be brilliant and every state official will be weak. His point is comparative. In smaller political settings, local influence and narrow reputation can carry a person into office. But positions in a national government usually require broader reputation, wider trust, and more visible talent. A larger political stage gives you a larger pool to choose from and raises the bar for who gets selected.
+
+Jay puts it this way. Under an efficient national government, the best men in the country will not only consent to serve, but will generally be appointed to manage it.
+
+You may wonder whether that sounds a little too optimistic. Fair enough. National governments do not magically eliminate mediocrity. But Jay is making a realistic comparison, not a utopian promise. If you are choosing between thirteen separate state systems, each limited by local talent and local pressure, and one national system drawing from the whole country, the broader system has a better chance of producing wiser and steadier administration.
+
+And in foreign affairs, steadiness matters. Other countries are constantly judging whether you are serious, coherent, and reliable. If your diplomacy is erratic, if your laws are inconsistent, or if your commitments depend on which local faction happens to be in control somewhere, you invite trouble.
+
+Jay's second reason is consistency. Under one national government, treaties can be interpreted and enforced in a single, coherent way. The same basic standards apply across the country. The same government speaks for the whole nation. The same judiciary can settle disputes about meaning and obligation.
+
+But imagine the alternative. Suppose treaty obligations are filtered through thirteen different states, or through several different confederacies, each with its own courts, its own political pressures, and its own local interests. The same treaty language might be read one way in one place and another way somewhere else. Enforcement might be strict in one state and lax in another. Foreign nations would not be dealing with one clear legal and diplomatic voice. They would be dealing with a patchwork.
+
+That patchwork is not just untidy. It is dangerous. If Britain or Spain cannot tell what American policy actually is, or if they see their treaty rights honored in one state and ignored in another, they have a grievance. And because there is no single reliable authority behind the whole system, every grievance becomes harder to resolve.
+
+Jay praises the constitutional design for placing treaty questions and international law questions under institutions responsible to one national government. He thinks that is one of the convention's wisest decisions.
+
+His third reason is temptation. A single state may see a short-term local advantage in violating a treaty, dragging its feet, or bending the rules. The benefit might be concentrated and immediate, while the cost of a diplomatic crisis would be spread across the whole country. That makes cheating more tempting at the local level than at the national one.
+
+A national government, by contrast, is supposed to weigh the interest of the whole union, not the narrow gain of one corner of it. That does not make it morally perfect. It does make it less likely to sacrifice the country's peace for some local advantage.
+
+Jay says the recent experience with the peace treaty with Britain gives special weight to this argument. And that is an important line, because this was not hypothetical in 1787.
+
+Under the 1783 Treaty of Paris, the United States had agreed to terms involving debts and property, among other things. In practice, some states resisted compliance. British creditors often had trouble collecting debts owed to them. Questions involving Loyalist property remained deeply contentious. The national government under the Articles of Confederation had no effective power to force uniform compliance. Britain, in turn, used American failures as grounds for refusing to evacuate western forts it had promised to leave.
+
+In other words, Jay had a live example right in front of him. Local noncompliance produced foreign resentment. Foreign resentment produced retaliation. And the weak central government could not cleanly fix the problem.
+
+His fourth reason is closely related, but slightly different. Sometimes a state government may want to do the right thing and still be unable to do it. Local passions can run so strongly, and local interests can be so intense, that state leaders cannot restrain their own people or punish violations effectively. A national government, being more removed from those specific local pressures, is more likely both to want justice and to have the power to enforce it.
+
+So that is Jay's first major point. If you want fewer legitimate foreign grievances, one national government is safer than many smaller governments. It gives you better odds of wise leadership, consistent treaty interpretation, resistance to local self-interest, and actual enforcement.
+
+Then Jay turns to the second source of just causes of war: direct violence.
+
+Here his point is that acts likely to provoke foreign conflict usually come not from the whole country thinking calmly together, but from a part of the country acting out of passion or immediate interest. One border region. One offended state. One local dispute that gets out of hand.
+
+He points to conflicts with Native nations as an example. Jay says that the federal government, weak as it was, had not itself caused these wars, but individual states had, through improper conduct and failure to restrain or punish offenders.
+
+That part of the essay needs to be handled carefully today. Jay is using these conflicts to make a structural point: local governments are more likely than a national government to act rashly and trigger violence. That part of the argument is clear and important. But his framing also reflects the limits of his time. He does not really stop to examine the broader injustice of expansion into Native lands, or the way American settlement itself drove conflict. He treats the issue mainly as a problem of local misconduct and failed restraint. So his institutional point is useful, but his moral framing is incomplete.
+
+Still, the structural insight is strong. Border communities feel danger and opportunity more intensely than people farther away. They are more likely to act from sudden anger, fear, or perceived interest. A state that borders British or Spanish territory may be drawn into conflict much more easily than states far from that frontier. And if that state controls its own foreign policy, its own military response, or its own standards of restraint, then the whole region becomes more combustible.
+
+Jay says nothing can prevent this danger as effectively as a national government whose judgment is not clouded by the passions of the immediately interested parties.
+
+That is a really sharp observation. Most wars do not begin with some clean, fully thought-through national decision that everyone recognizes as historic in the moment. Many begin with incidents. Border clashes. Seized property. Violated agreements. Retaliation for retaliation. A local quarrel becomes a regional confrontation, and then a larger war. Jay is saying that one of the main advantages of national union is not merely strength after war begins. It is restraint before war begins.
+
+You may be wondering whether Jay is basically just arguing for distance over local knowledge. In a sense, yes. But not because local knowledge is useless. His point is that local knowledge without broader control is dangerous. The people closest to a dispute often understand it best, but they are also the most emotionally invested in it. A national government can still hear local concerns while being less ruled by local anger.
+
+Jay then adds another major advantage of union. A national government will not only create fewer causes of war. It will also be better at settling disputes peacefully once they arise.
+
+He says a national government will be more temperate and cool. In other words, calmer. More capable of acting with deliberation instead of wounded pride.
+
+And here he makes one of the most human points in the whole essay. States, like people, do not like admitting they were wrong. Once a state has taken some action, pride pushes it to defend that action, justify it, and resist backing down. Even if compromise would be wiser, pride makes compromise feel humiliating.
+
+A national government can sometimes escape that trap. If an individual state or region has caused the offense, the national government is in a better position to step in, acknowledge the problem, offer explanation or compensation, and calm the situation without feeling the same direct embarrassment. It can act as something like a mediator with real authority.
+
+That is a subtle but powerful point. A third party that is not personally entangled in the original offense often has a much better chance of resolving a conflict. Jay thinks national government can play that role inside the union.
+
+And then he goes one step further. He says peaceful gestures such as explanations, acknowledgments, and compensation are more likely to be accepted when they come from a strong united nation than when they come from a small state or weak confederacy.
+
+This is not just about the content of diplomacy. It is about the status of the party making the offer. A powerful nation that chooses conciliation is taken seriously. A weak state offering the same conciliation may simply be ignored, pressured further, or treated with contempt.
+
+A fair question here is whether Jay is just reducing diplomacy to raw power. Not exactly. He is saying something a little more realistic and a little more uncomfortable. Credibility matters. Strength affects whether peaceful settlement is even possible. If no one takes you seriously, your efforts to de-escalate may not work.
+
+To make that point vivid, Jay ends with a historical example. In 1685, Genoa offended Louis the Fourteenth of France. Genoa was a relatively small republic. Louis forced the Doge of Genoa, along with four senators, to come to France and effectively submit themselves to his terms. It was a humiliation accepted for the sake of peace.
+
+Then Jay asks the obvious question. Would Louis the Fourteenth have demanded the same kind of humiliation from Spain or Britain or another major power? Of course not.
+
+That is the point. Small powers are treated differently. Weak political communities are easier to bully. If America splits into several smaller confederacies, each one becomes more vulnerable to pressure, coercion, and indignity. United, America may not be one of Europe's great powers yet, but it is far more respectable and far less easily pushed around.
+
+And that matters not only in war but in peace. Jay wants his readers to understand that weakness does not just mean losing battles. It can also mean being forced into humiliating concessions again and again because you lack the weight to stand as an equal.
+
+So what, in the end, is Jay arguing in Federalist No. 3?
+
+He is arguing that union is a peacekeeping structure.
+
+A united America is less likely to provoke foreign conflict because it can interpret treaties more consistently, enforce obligations more reliably, and resist local temptations more successfully. It is less likely to stumble into war because it can restrain border passions and local acts of violence. And when disputes do arise, it is more likely to settle them peacefully because it can respond with more calm, more authority, and more credibility.
+
+Notice how modest and careful this argument really is. Jay does not claim that union will eliminate war. He does not claim that a national government will always act wisely. He is making a comparative judgment. One government is less likely than several governments to create unnecessary conflict. One diplomatic voice is safer than many competing voices. One system is less dangerous than fragmentation.
+
+And that fits perfectly with the arc we have been tracing from the start. In Episode 1, Hamilton told us that the ratification debate was a test of whether people can govern themselves through reflection and choice. In Episode 2, Jay showed us that Americans have already been passing that test, building a shared identity through common effort and sacrifice. Now, in Episode 3, Jay begins showing what that union practically does for the people inside it. It is not just emotionally meaningful. It is strategically protective. The same shared identity that Jay described last time becomes, here, a practical shield against the dangers of the world outside.
+
+Next time, in Federalist No. 4, Jay keeps building this case, but he changes the angle. Here he has mostly talked about just causes of war, the kinds of grievances Americans might create by their own misconduct or disunity. In the next paper, he will turn more toward unjust causes of war, the threats posed by foreign powers that may attack not because America has done something wrong, but because divided or weakened countries invite opportunism.
+
+That next step matters. But this paper lays the groundwork. Before you can explain why a stronger union can defend against aggressive outsiders, you first have to explain why a stronger union is less likely to manufacture its own crises. That is what Jay does here.
+
+This has been The Federalist Papers: Explained. Episode 3. Next time: Federalist No. 4, still John Jay, on the dangers foreign powers may create even when you have given them no just cause at all.
