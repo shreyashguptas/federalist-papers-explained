@@ -135,6 +135,7 @@ Run a separate fact-check review against the actual paper, the relevant historic
 - paraphrases are faithful to the paper
 - authorship is correct (cross-check against the authorship reference in `SERIES-STATUS.md`)
 - cross-episode references are factually grounded (check against the actual earlier scripts, not memory)
+- **internal consistency (the script against itself).** Before checking anything against the outside world, check the script against itself. Pull out every count and every date it asserts — how many earlier papers or episodes, how many defects or reasons, publication dates, tolls, ages, quantities — and confirm the script never contradicts itself. A number that reads "three" in one place and "five" in another is an error caught by comparison alone, with no research required. This is the cheapest class of error to catch, so run it first.
 
 #### Part B — Web cross-check (Episode 12 onward)
 Every **non-quote factual claim** in the script must be cross-checked against the open web. This covers dates, names, places, events, numbers, publication facts, biographical detail, the historical framing, and the modern parallels.
@@ -151,6 +152,8 @@ Every **non-quote factual claim** in the script must be cross-checked against th
 Record the result in `Federalist paper number N/fact-check.md` — a table of claim → verdict → source URL(s). This artifact is required before the script can leave Gate 4.
 
 Revise the script. If any claim came back ❌, fix it and run the fact-check pass again. Only move forward once every claim is ✅ verified or a fairly-hedged ⚠️.
+
+**Fix it everywhere, not just where you found it.** Whenever a correction changes a specific number, name, date, or distinctive phrase, search the *whole* script for that word or figure and confirm every occurrence now agrees — a mistake that appears once often reappears in a later recap or callback. In `fact-check.md`, record not just what you changed but that you swept for repeats: e.g. "changed 'five papers' → 'three papers' (2 further instances found and fixed; 0 remaining)." A fix logged without a sweep is an incomplete fix.
 
 ### Gate 5 — Runtime/depth check
 - Estimate spoken runtime before TTS (rough rule: ~150 words/minute = ~900 chars/minute). A 25-min episode ≈ 22,000 chars; a 30-min episode ≈ 27,000 chars.
@@ -310,6 +313,7 @@ Before calling an episode final, verify:
 - [ ] intro structure is correct for the episode (Episode 1 has the series promise; episodes 2+ have a tight recap of just the previous episode)
 - [ ] continuity references to earlier episodes are factually grounded
 - [ ] **web fact-check done — `fact-check.md` exists and every claim is ✅ verified or a fairly-hedged ⚠️** (Episode 12 onward)
+- [ ] **the script agrees with itself, and every fix was swept** — all counts and dates internally consistent; any correction to a number, name, date, or distinctive phrase was applied to every occurrence, not just the first
 - [ ] explanations after each quote are simple and accurate
 - [ ] no flat lists hiding as run-on sentences
 - [ ] every list with a count has explicit ordinals
