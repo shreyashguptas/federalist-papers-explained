@@ -2,9 +2,9 @@
 
 ## Overview
 - Total papers: 85
-- Episodes completed: 24 (audio produced)
-- Episodes scripted: 24
-- Next episode to produce: Episode 25 (Federalist No. 25)
+- Episodes completed: 25 (audio produced)
+- Episodes scripted: 25
+- Next episode to produce: Episode 26 (Federalist No. 26)
 
 ## Episode Status
 
@@ -34,7 +34,8 @@
 | 22 | We the People, Not the States | Hamilton | DONE | DONE | - |
 | 23 | Strong Enough to Defend Us | Hamilton | DONE | DONE | - |
 | 24 | The Army That Scared Everyone | Hamilton | DONE | DONE | - |
-| 25-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
+| 25 | Who Should Hold the Army | Hamilton | DONE | DONE | - |
+| 26-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
 
 ## Authorship reference (first 10 papers)
 1. Hamilton
