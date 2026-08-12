@@ -1,0 +1,167 @@
+At the end of the last episode, Hamilton had just finished proving that the new government's power to raise money could not have a ceiling on it. He walked us through the wreckage of the old system, a Congress that could mail the states a bill and then do absolutely nothing when the money failed to arrive. He showed us a sultan with total power over the lives of his subjects who was forbidden to lay a tax, and who therefore turned his provincial governors loose to plunder the countryside instead. And he laid down a rule that sounded like plain common sense. The size of the tool has to match the size of the job. Give a government an unlimited responsibility and a limited income, and you have built something designed to fail.
+
+And then he stopped. Right at the edge of the question every reader was actually holding.
+
+Because if there is no ceiling, what is there? What stops a government that is allowed to tax anything from deciding, one fine morning, to tax everything, and leaving the states standing there with empty hands?
+
+That is Federalist Number Thirty One. It ran in the New York Packet on Tuesday, the first of January, seventeen eighty eight. New Year's Day. Three states had ratified the Constitution by then, Delaware, Pennsylvania, and New Jersey, all three inside twelve days that December. Georgia would become the fourth the very next morning. New York had not moved, and New York was the fight.
+
+It is still Alexander Hamilton. It is still signed Publius. And here is what makes this one strange, and worth an entire episode.
+
+Hamilton has been handed the hardest, most concrete, most practical objection in the whole ratification debate. A question about money, and states, and who gets to collect what.
+
+He answers it by talking about geometry.
+
+Before we get to why, you have to hear the objection properly, because the people making it were not cranks, and this was not some fringe worry. Of every argument raised against the Constitution, this was the one that landed hardest.
+
+Five days before Hamilton's paper appeared, on the twenty seventh of December, seventeen eighty seven, a rival essay ran in a rival New York newspaper, the New York Journal. It was signed Brutus. And it opened with a question so blunt it barely needs translating. Should the general government of the United States be framed so as to absorb and swallow up the state governments?
+
+Then it made the case, and the case was tight. Look at what this document actually says, Brutus told his readers. First, Congress may lay taxes, duties, and excises, and nothing at all is fenced off from that power. Second, federal law is declared the supreme law of the land. And third, Congress may make every law it judges necessary and proper for carrying its own powers into effect. Now set those three side by side and follow them honestly, without assuming that anybody cheats. When a state tax collides with a federal one, which of them gives way? The federal one wins. Every time. By the plain words on the page.
+
+So the national government would never need to abolish the states. It would only need to keep taxing. Take the best sources of revenue first, then the next best, and go on taking, and leave the states to scrape at whatever nobody in the capital has claimed yet. The states would not be conquered. They would be starved. And a government that cannot fund itself, as Hamilton had spent the entire previous paper explaining, is not really a government at all. It is a building with a nameplate on it.
+
+That is an unusually good argument. It uses Hamilton's own logic as the murder weapon.
+
+And nobody knows for certain who made it. Brutus was a mask. For a long time the traditional guess was Robert Yates, a New York judge who had actually sat in the Constitutional Convention in Philadelphia that summer and walked out of it before it finished. More recent scholarship has increasingly pointed somewhere else, to Melancton Smith, a veteran New York politician who would go on to lead the opposition on the floor of the state's own ratifying convention. The honest answer is that the case is not closed.
+
+Which leaves us with a detail worth savoring. The two greatest sustained arguments in American political writing, the case for the Constitution and the case against it, were both conducted from behind invented Roman names, in competing newspapers, in the same city, days apart, by men who were reading each other closely and answering each other almost in real time. Publius and Brutus. Neither name real. Both arguments deadly serious.
+
+So Hamilton sits down to answer the strongest thing his opponents have got. And he begins, of all places, with a claim about how human beings know anything at all.
+
+In every kind of inquiry, he says, there are certain primary truths, or first principles, that all later reasoning has to rest on. Things you do not arrive at by argument, because there is nothing underneath them to argue from. You simply see them, and the seeing is the whole of it. And if somebody looks straight at one of these and refuses to agree, Hamilton says, something has gone wrong with that person. Either the equipment is faulty, or some strong interest, or passion, or prejudice has gotten in the way.
+
+Then he gives his examples, and they come out of a schoolbook.
+
+Of this nature are the maxims in geometry, that the whole is greater than its part; things equal to the same are equal to one another; two straight lines cannot enclose a space; and all right angles are equal to each other.
+
+If that sounds like the opening page of a textbook, it is because that is exactly what it is. Those lines come from Euclid, the Greek mathematician of Alexandria, whose book called the Elements had been the way educated people learned to think for something like two thousand years by the time Hamilton picked up his pen. Euclid does not begin his geometry with shapes. He begins with a short list of things he intends to assume, because they cannot be proved and do not need to be. The whole is greater than the part. Things equal to the same thing are equal to each other. All right angles are equal. Three of the four items on Hamilton's list are lifted straight off that opening page. The fourth, that two straight lines cannot enclose a space, was not originally Euclid's at all, but it had been printed in the standard editions for so long that everybody had learned it as part of the set, and Hamilton rattles it off with the rest without a second thought.
+
+And here is what Euclid actually taught, which matters far more than any single line on that list. He taught that if you are honest about your starting assumptions, and you move one careful step at a time, you can build something that nobody can knock down.
+
+That idea had extraordinary reach. Let me jump forward for a moment, because the best illustration of it comes from an American who had not been born yet when Hamilton wrote this. In his own campaign autobiography in eighteen sixty, Abraham Lincoln mentioned, in the third person and almost in passing, that he had studied and nearly mastered the six books of Euclid. The story he told about why is that he kept running into the word demonstrate in his law reading and slowly realized that he did not actually know what it meant. What am I doing when I demonstrate, he asked himself, that is more than when I reason or prove? So he put the law books down and worked through Euclid until he could give any proposition in those six books at sight. A working lawyer with almost no formal schooling, a grown man in the middle of a career, taught himself geometry in order to find out what proof is.
+
+That is the world Hamilton is gesturing at. To his readers, geometry was not a school subject. It was the model of what an argument looks like when it actually works.
+
+And now watch him turn it.
+
+Of the same nature are these other maxims in ethics and politics, that there cannot be an effect without a cause; that the means ought to be proportioned to the end; that every power ought to be commensurate with its object; that there ought to be no limitation of a power destined to effect a purpose which is itself incapable of limitation.
+
+Read that last one again, because Hamilton has just done something quietly outrageous.
+
+There ought to be no limitation of a power destined to effect a purpose which is itself incapable of limitation. That is the entire argument of the previous paper. Defending a country is a job with no fixed size, so the power to pay for it cannot have a fixed size either. And Hamilton is not offering that as a conclusion anymore. He is filing it alongside the whole is greater than the part. He is saying, this is not my clever opinion. This is arithmetic. You already agree with it. You agreed with it before I opened my mouth.
+
+And having planted that flag, he restates his whole case in four quick propositions, almost like a man reading back a list. First, that a government must contain every power needed for the jobs it is trusted with. Second, that defending a country against dangers nobody can measure in advance cannot itself be bounded in advance. Third, that revenue is the engine by which those dangers get answered. And fourth, that asking the states to supply that revenue has been tried, and does not work. Every one of those four was argued and settled in the last paper. He is not making the case over again. He is stacking it into a pile so that he can turn and face the objection.
+
+A fair question here is whether he is entitled to do any of that. Because there is an enormous difference between a truth about triangles and a truth about tax policy, and Hamilton knows it. He spends the next stretch of the paper on exactly that difference, and it turns out to be the most interesting thing in the essay.
+
+Why, he asks, do people accept the hard truths of geometry without a murmur, and fight the obvious ones in politics to the last ditch?
+
+He starts by pointing out something genuinely funny about mathematics. It is not that math is easy. Some of it is deeply weird. He reaches for the strangest thing he can find, the infinite divisibility of matter, the idea that you can go on halving a finite thing forever and never once reach the end of it, down past the smallest speck anyone could imagine. Mathematicians agree on that, he says. And it is no less baffling to plain common sense than any mystery in religion that the skeptics have spent centuries firing cannon at.
+
+So people will swallow the infinitely strange in geometry. And they will not swallow the obvious in politics. Why?
+
+Because, Hamilton says, geometry is safe. Its subject matter sits so far away from anything you want, or fear, or own, that the unruly passions of the human heart never get involved. Nobody's farm is at stake in a pair of parallel lines. Nobody's tax bill turns on right angles.
+
+Morals and politics are not safe. They are about your money, your land, your church, your standing, your side. And here Hamilton is careful, and fair, in a way that is easy to miss. He does not say that resistance is stupid. Caution and investigation, he writes, are a necessary armor against error and imposition. Being hard to convince is a virtue in a free people. It is how you avoid being had. His complaint is only that the virtue can be run well past its stopping point, into obstinacy and into something worse than obstinacy.
+
+And then he lands the sentence that is the real heart of this paper.
+
+The obscurity is much oftener in the passions and prejudices of the reasoner than in the subject. Men, upon too many occasions, do not give their own understandings fair play; but, yielding to some untoward bias, they entangle themselves in words and confound themselves in subtleties.
+
+The obscurity is in the reasoner, not in the subject. In plain English, the question is not that hard. You are that hard.
+
+And men do not give their own understandings fair play. What a phrase that is. He is describing something you have watched happen a hundred times, and have probably done yourself. It is not that people lie. It is that somewhere underneath the argument a person has already settled how it has to come out, and from that moment on their intelligence stops being a tool for finding the answer and becomes a tool for defending it. The smarter they are, the better the defense. They entangle themselves in words. They confound themselves in subtleties. Not you fooling me. You fooling you.
+
+That is a description of motivated reasoning, written in seventeen eighty eight, and it has held up rather better than most of what has been written on the subject since.
+
+It has also been tested, which is where this gets interesting. Some years ago a team of researchers ran an experiment built almost exactly to Hamilton's specification. They handed people a set of numbers from a study and asked them to say what the numbers showed. For half the participants, the study was about a skin cream and whether it cleared up a rash. For the other half, the identical numbers were relabeled as a study of whether a gun control law had raised or lowered crime. Same arithmetic. Same table. One version touches nothing you care about. The other version touches your whole identity.
+
+On the skin cream, the result was what you would hope. The better someone was with numbers, the more often they got the right answer. Math worked.
+
+On the gun law, the researchers reported that the pattern broke. People's answers started tracking their politics rather than the table in front of them, and the finding that made the study famous was that the people who were best at math did not seem to be rescued by it. They appeared to be the most skilled at steering the numbers home.
+
+Now, honesty requires a second paragraph here, and it is the more interesting one. In two thousand twenty three, a much larger study using a nationally representative sample tried to reproduce that result across five different political topics, and could not. What it found instead was a split verdict. The political bias itself was solidly there. People really were more accurate when the answer happened to flatter their side. But being good with numbers helped everybody, on every topic, whether the answer flattered them or not. So the bias is real. The claim that being clever makes it worse did not survive the retest.
+
+Where does that leave Hamilton? Half vindicated and half rebuked, which is about right for anybody making claims this sweeping. His central observation, that the difficulty in a political argument usually sits inside the arguer rather than inside the question, has survived contact with the evidence. His sharper implication, that the cleverest people are the worst offenders, is exactly the kind of satisfying claim that ought to be held loosely. And there is one more thing worth saying out loud, since we are being fair. Telling your opponents that their objection is really a prejudice is the oldest move in politics, and Hamilton is aiming it at people who had reasons. Brutus was not confused about geometry. Brutus had read the supremacy clause.
+
+So why does any of this matter? Because Hamilton is not simply insulting his critics. He is doing something far more deliberate. He is trying to establish, before the fight begins, what is going to count as a fair argument. And that is the actual subject of this paper.
+
+Here is the move.
+
+He takes the objection, the one about the states being starved, and he cuts it into two pieces that had been traveling together disguised as one.
+
+The first piece is a fear that the government will cheat. That it will seize a power it was never given, or twist one it was, and use taxation as a pretext to wipe out the states on purpose. Call that the fear of usurpation.
+
+The second piece is a fear that the government will not cheat at all. That it will use exactly the powers written on the page, honestly and in good faith, and that the honest use of them will crush the states anyway, purely by arithmetic.
+
+Only the second one, Hamilton says, is an argument. The first one is not, and here is why.
+
+The moment we start guessing at usurpations, he writes, we launch into an unfathomable abyss and put ourselves out of the reach of all reasoning. And then he gives the image this paper is remembered for.
+
+Imagination may range at pleasure till it gets bewildered amidst the labyrinths of an enchanted castle, and knows not on which side to turn to extricate itself from the perplexities into which it has so rashly adventured.
+
+The enchanted castle. He is picturing the enchanted palace out of the old romances, the one where every corridor leads to another corridor and the doors move when you are not looking, and the knight who marched in full of confidence eventually cannot even find his way back out. That, Hamilton says, is what happens to a mind that starts asking what if they abuse it. Whatever the powers of the union turn out to be, he points out, it is easy to imagine an endless train of possible dangers. Endless. That is the trouble. Not that the dangers are unimaginable, but that they are infinitely imaginable, and a test that everything fails is not a test.
+
+At this point you might be wondering whether that is an answer or a rather elegant way of ducking one. People do abuse power. Refusing to discuss it seems like a strange thing to be proud of.
+
+And Hamilton has the reply ready, and it is the best sentence in the essay.
+
+All observations founded upon the danger of usurpation ought to be referred to the composition and structure of the government, not to the nature or extent of its powers.
+
+He is not saying stop worrying about abuse. He is saying that you are looking in the wrong place for the safeguard. If you are afraid of a government misusing power, the protection is not a shorter list of powers. It is how the thing is built. Who chooses the people inside it. How often. How they can be removed. Who is watching them. Whether its own parts are set against each other.
+
+And then he makes the move that ought to have stopped his critics cold, because it turns their own furniture against them.
+
+Your state government, he points out, is completely sovereign. Within its own sphere it has all the power there is. The state constitutions did not hand out carefully rationed slices of authority. They created governments with the whole thing. So why are you not lying awake about that? What actually protects you from the legislature sitting in your own state capital?
+
+Not the smallness of its powers. Its powers are not small. What protects you is that you elect it, and that it was built to depend on you. That is the entire security. You have been living peacefully under an unlimited government your whole life, and the reason you sleep at night is structural, not arithmetical.
+
+So apply that same test to this one, Hamilton says. Examine the new federal government honestly, look at how it is put together, and if it gives you the same kind of security to a proper extent, then all the talk of usurpation ought to be discarded. Not answered. Discarded. It was never the real question.
+
+It is worth noticing that this is still exactly how we do it. Nobody keeps a modern president in check by trying to shrink the office's powers down to something harmless. We do it with elections on a fixed calendar, with terms that end, with a Congress that holds the money, with courts, with a free press. Structure, not scope. Hamilton's rule won so completely that it stopped looking like an argument and started looking like the furniture.
+
+Though it is only fair to add that his opponents got something out of this fight too, and it was not nothing. The people who kept insisting that some things ought to be flatly off limits, no matter how nicely the government is built, are the reason the Bill of Rights exists. Structure was a good answer. It turned out not to be the only answer anybody needed.
+
+Now, having cleared away the fear of cheating, Hamilton turns to the honest version of the objection, and his response is a piece of pure political nerve.
+
+You are worried, he says, that the union will encroach on the states. Fine. Has it occurred to you that the traffic might run the other way?
+
+A disposition in the state governments to encroach upon the rights of the union, he writes, is quite as probable as a disposition in the union to encroach upon the rights of the states. And then he goes further and picks a winner. In a republic, strength ultimately sits with the people. And the state governments, he says, will commonly hold more influence over the people than a distant national one ever could. So if the two ever come to a genuine contest, the likely loser is the union.
+
+That is not a throwaway line. It is Hamilton returning to something he built earlier in this series, back in Number Seventeen, when he argued that loyalty follows proximity. The government you can see, the one that settles your father's will and fixes the road outside your house, will always own more of your affection than the one three hundred miles away. He believed that. He thought the national government was the fragile one.
+
+So you might be asking the obvious question. Nearly two hundred and forty years later, who turned out to be right?
+
+The blunt answer is that Hamilton was wrong about the direction and Brutus was wrong about the destination.
+
+Hamilton's prediction that the states would swallow the union has not aged well. What happened is the reverse, and the single biggest step of it came in nineteen thirteen, when the Sixteenth Amendment gave Congress a clean and unquestioned power to tax incomes. That one change turned the federal government into the primary tax collector in American life, and it made possible very nearly everything the twentieth century went on to ask of it. Brutus, watching that, would have said he told us so.
+
+But Brutus did not predict federal growth. He predicted that the states would be swallowed up. Starved into husks. And that did not happen either. State and local governments in this country took in something on the order of four trillion dollars in general revenue in a recent year. They run the schools, the police, the roads, and the courts where nearly every legal matter in an ordinary life is settled. They are not a residue. They are enormous. The states did not lose their revenue to the federal government. Both governments got vastly bigger, taxing the same people at the same time, which is a possibility that neither man on that page fully saw coming, and which is precisely the subject Hamilton is about to take up next.
+
+So the honest scorecard is that each of them saw something real and neither of them saw the whole thing. Which brings us to how Hamilton ends this paper, and the ending is the most surprising part.
+
+He gives up.
+
+Not on the argument. On prediction itself. After all of that, he says that all conjectures of this kind, his own very much included, are extremely vague and fallible, and that by far the safest course is to lay them altogether aside and confine our attention wholly to the nature and extent of the powers as they are actually written down in the Constitution. Stop imagining the future. Read the document.
+
+And then he hands everything past that point to somebody else.
+
+Every thing beyond this must be left to the prudence and firmness of the people; who, as they will hold the scales in their own hands, it is to be hoped, will always take care to preserve the constitutional equilibrium between the general and the State governments.
+
+The people hold the scales.
+
+That is the same note he struck back in Number Twenty Eight, when he argued that the final safeguard against a government gone wrong in this country is not a clause but a population. Here it comes back with a new job. The balance between the national government and the states was never going to be fixed once and settled forever by clever drafting. It is a living thing, held up by ordinary citizens, and adjusted in every generation by what they will and will not put up with. Every argument about federal overreach that has happened since, and there have been two centuries of them, is that adjustment still going on.
+
+A fair question to end on is whether this paper is a dodge. Because look at what Hamilton has actually delivered. He has not shown that the states will keep their power to tax. He has not shown how two governments can tax the same citizen without one of them destroying the other. He has not answered Brutus. He closes by saying that on this ground it will not be difficult to obviate the objections, which is a promissory note, not a payment.
+
+That is fair. But I would defend him, because of what he was actually trying to do.
+
+Hamilton spent this entire essay on the rules of the fight rather than on the fight. He established that some things in politics are close enough to axioms that you have to argue with them rather than around them. He established that the reason people cannot see those things is usually sitting inside the person rather than inside the problem. He established that if you are allowed to win by imagining abuses, then nobody can ever build anything at all, and that the real protection against abuse lives in how a government is put together. He cleared the table.
+
+There is a reason that has to come first. An argument can only settle something between people who already agree about what would count as being wrong. If one side is producing evidence and the other side is producing nightmares, the two of them can go at it forever and nothing will ever be decided, because they are not playing the same game. Before you can answer an objection, you have to establish what an answer is.
+
+That is what Number Thirty One is. It is Hamilton putting down the rules, on New Year's Day, in a newspaper, in the middle of the loudest argument of his life. And it is the reason the next paper gets to be short and specific and devastating.
+
+Because he does pay the note. Immediately.
+
+This has been The Federalist Papers: Explained. Episode Thirty One. Next time: Federalist Number Thirty Two, still Alexander Hamilton, finally giving the concrete answer. That the states keep their own power to tax. That both governments can reach into the same pocket at the same time. And that there is exactly one kind of tax the union gets to keep for itself alone.
