@@ -2,9 +2,9 @@
 
 ## Overview
 - Total papers: 85
-- Episodes completed: 32 (audio produced)
-- Episodes scripted: 32
-- Next episode to produce: Episode 33 (Federalist No. 33)
+- Episodes completed: 33 (audio produced)
+- Episodes scripted: 33
+- Next episode to produce: Episode 34 (Federalist No. 34)
 
 ## Episode Status
 
@@ -42,7 +42,8 @@
 | 30 | The Power of the Purse | Hamilton | DONE | DONE | - |
 | 31 | The Rules of the Argument | Hamilton | DONE | DONE | - |
 | 32 | What the States Kept | Hamilton | DONE | DONE | - |
-| 33-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
+| 33 | The Clause That Added Nothing | Hamilton | DONE | DONE | - |
+| 34-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
 
 ## Authorship reference (first 10 papers)
 1. Hamilton

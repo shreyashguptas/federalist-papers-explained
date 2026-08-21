@@ -1,0 +1,259 @@
+At the end of the last episode, Hamilton had just finished proving something about silence.
+
+He took the one clause in the Constitution that forbids the states to tax imports and exports, and he showed that a rule fencing off a single room tells you about every other room in the house. The states keep every taxing power they never handed over. Two governments may reach into the same paycheck on the same day. And the only tax the union gets entirely to itself is the duty collected at the docks.
+
+It was a beautiful argument. It was also only half an answer.
+
+Because Brutus, the anonymous Antifederalist he had been sparring with in a rival New York newspaper, never claimed the taxing clause made taxation exclusive. His argument was about two other sentences entirely. Federal law is declared supreme. Congress may make whatever law it judges necessary and proper to carry its own powers into effect. And between those two clauses, Brutus said, it would not matter in the slightest what the taxing clause said. The states would be ground down anyway.
+
+Hamilton spent an entire essay proving that the taxing clause was safe. Brutus had never attacked the taxing clause.
+
+So today he finally turns and looks at the two sentences everybody was actually afraid of.
+
+This is Federalist Number Thirty Three. And he does not wait a week to get to it. It ran in the Independent Journal of New York on the second of January, seventeen eighty eight, in the same issue as Number Thirty Two, under the same title, as one continuous piece of writing. The split into two numbered essays came later, when the papers were gathered into a book. So when he finishes the taxing argument and reaches for the harder half, he is not turning to next week's column. He is turning to the next column on the same page, mid-thought.
+
+Now, before we get to what he says, let me show you what is actually at stake. And it is not an eighteenth century thing.
+
+Go and read Article One, Section Eight of the Constitution. The whole thing. It is the list of everything Congress is allowed to do, and it is four hundred and twenty eight words long. That is shorter than the terms of service you scrolled past this morning without reading. Out loud, it takes about three minutes.
+
+Three minutes. That is the entire grant of power to the legislature of the United States.
+
+Now think about what that legislature actually does. It runs an air force. It writes the rules for broadcasting, for air travel, for prescription drugs, for what a bank may do with your deposit. It sends people to prison for crimes that appear nowhere on that list. The laws it has made fill fifty four titles of the United States Code, and nobody alive has read all of them.
+
+Between those two things, the three minute list and the shelf of volumes, there is one sentence. It sits at the very end of the list, and it runs thirty nine words.
+
+To make all laws which shall be necessary and proper for carrying into execution the foregoing powers, and all other powers vested by this Constitution in the government of the United States, or in any department or officer thereof.
+
+That is the bridge. Everything on the far side of it stands on those thirty nine words. Its opponents in seventeen eighty seven already had a nickname for it. They called it the sweeping clause.
+
+And the man defending it, in the essay we are covering today, calls it harmless.
+
+That is the claim. Let me show you how he gets there, because it is stranger and better than it sounds.
+
+There are two clauses on trial in this paper, and it is worth hearing them both plainly before anybody starts arguing about them.
+
+The first is the one I just read, and Hamilton places it exactly where it lives, as the last clause of the eighth section of the first article. Congress may make all laws necessary and proper for carrying its listed powers into effect.
+
+The second lives in Article Six, and here is the way Hamilton quotes it in the essay.
+
+That the Constitution and the laws of the United States made in pursuance thereof, and the treaties made by their authority shall be the supreme law of the land, any thing in the constitution or laws of any State to the contrary notwithstanding.
+
+Those are the two. In seventeen eighty seven and eighty eight they were, without much competition, the most feared sentences in the document. Hamilton says they had been held up to the people in every exaggerated color of misrepresentation, painted as the engines that would destroy the state governments, described as a hideous monster whose jaws would spare nobody.
+
+And then he makes the claim that organizes the entire essay. He says the two clauses are only declaratory. They do not create anything. They announce something that was already true the moment you make a government and give it powers at all.
+
+To prove it, he does not argue about federalism. He asks you four questions about the meaning of a word.
+
+So let me slow down here, because this is the part of the paper worth carrying around with you.
+
+What is a power, but the ability or faculty of doing a thing? What is the ability to do a thing, but the power of employing the means necessary to its execution? What is a legislative power, but a power of making laws? What are the means to execute a legislative power but laws?
+
+Read it as a staircase. Every step is obvious. Together they walk you somewhere you did not expect to end up.
+
+A power is the ability to do something. But an ability to do something that does not come with the ability to do what that something takes is not an ability at all. It is a wish. So a power to do a thing must include the power to use the means of doing it. And when the thing being empowered is a legislature, the means are laws. Therefore a power to lay and collect taxes always was a power to pass tax laws. Nobody had to say so.
+
+Here is the same idea in a kitchen instead of a constitution.
+
+Suppose you hire someone to paint your house. You write it down. Paint the house.
+
+You do not then add a second sentence granting them permission to buy paint. Or to open the can. Or to set up a ladder, or to park in the driveway while they do it. If you had to list all of that you would never finish, and worse, the day you forgot one of them the job would stop. When you granted the end, you granted the ordinary means of reaching it. That is not a loophole in the agreement. That is what an agreement is.
+
+Now run it on the Constitution and watch how fast it moves. Congress may establish post offices. So Congress may buy mail trucks, hire carriers, print stamps, and make it a crime to rob a mailbox. Congress may maintain a navy. So Congress may build a dry dock, buy the timber, and pay the man who mills it. None of that is on the list. All of it is inside the word.
+
+At this point a fair question is why anybody bothered to write the clause down, if it was true anyway. Hold that thought for one minute, because Hamilton is about to make a much bolder claim first, and I do not want you to miss it.
+
+He says that the constitutional operation of the intended government would be precisely the same, if these clauses were entirely obliterated, as if they were repeated in every article.
+
+Take that seriously for a second. Take a knife to the two most controversial sentences in the Constitution and cut them out of the page.
+
+Hamilton says nothing changes. Not a comma of the government's actual power. And by the same token, if you copied those clauses into every article, over and over, that would not change anything either. They are not a dial. They are a label.
+
+That is a startling thing to say about the sentences your opponents built their entire case on. And notice what it does to the argument. He is not saying the sweeping clause is small. He is saying it is a description. If it frightens you, your quarrel is not with the clause. It is with the powers the clause describes, which are listed right above it, in plain sight, where you can read them one at a time and object to whichever ones you like.
+
+That is exactly what he tells them to do. If there is anything objectionable, look for it in the specific powers the declaration rests on. And then he shrugs at his own clause with a candor that is almost funny. The declaration itself, he says, though it may be chargeable with tautology or redundancy, is at least perfectly harmless.
+
+Which brings us back to the question we parked. If it is redundant, why is it there?
+
+Hamilton's answer is one word. Caution. It went in, he says, out of greater caution, to guard against the cavilling refinements of people who might later feel a disposition to curtail and evade the legitimate authorities of the Union.
+
+And then he says something that ought to stop you cold, because it tells you which direction he thought the danger ran.
+
+He says the Convention probably foresaw what these papers have been trying all along to teach: that the danger which most threatens our political welfare is that the state governments will finally sap the foundations of the Union.
+
+Read that again. The clause every Antifederalist in America was reading as a weapon aimed at the states was put in, by Hamilton's account, out of fear of the states. He is not defending a sword. He is defending a shield, and he thinks it faces the other way.
+
+Two centuries have not been kind to that prediction, and we said so last time. The states did not sap the foundations of the union. The union grew into something Hamilton never imagined. But it is worth knowing that when he looked at the sweeping clause, he genuinely was not looking at a tool for national aggrandizement. He was looking at a lock on a door he expected people to try from the other side.
+
+Now, Hamilton knows the real objection is still standing, so he raises it himself.
+
+Fine. The clause is declaratory. But who decides what is necessary? Who judges what is proper? If Congress gets to decide for itself which laws are necessary to carry out its own powers, then Congress has been handed a blank sheet of paper and told to fill it in.
+
+The answer comes in two parts, and the first is a dodge that happens to be completely correct.
+
+He says the question arises just as fully without the clause as with it. If a power carries its means, then somebody has to judge what the means are, clause or no clause. You have not escaped the problem by deleting the sentence. You have only hidden it.
+
+Then the second part, which is his real answer. The national government, like every other government, must judge in the first instance of the proper exercise of its powers. And its constituents in the last.
+
+The government decides first. The people decide last.
+
+If the federal government overshoots, he says, the people, whose creature it is, must appeal to the standard they have formed and take whatever measures the situation calls for. That is the same bet he made at the close of Number Thirty One, when he said the people hold the scales. It has now come back twice in three papers, which tells you it is not a flourish. It is what he actually thinks the safeguard is.
+
+Now you might notice something missing from that answer. Something quite large.
+
+There are no courts in it.
+
+He names two judges of federal power in this paper, the government and the people, and a Supreme Court striking down an act of Congress is not one of them. That is not carelessness. In January of seventeen eighty eight, judicial review as we know it does not exist. Marbury against Madison is fifteen years in the future. He gets closer to the idea later in this series, in Number Seventy Eight. But here, in the paper about the limits of federal power, the safeguard he reaches for is an election and, if it comes to that, a public that has had enough. He is describing the tools that existed.
+
+And he does not leave the limit purely theoretical. He gives two concrete tests, and they are deliberately homely.
+
+First, suppose Congress decided to change the law of descent in some state. The law of descent is the law of inheritance: who gets the farm when a man dies without a will. Hamilton says a federal statute rewriting it would plainly exceed federal jurisdiction and invade the state's. Not because anybody wrote down that Congress may not do it, but because no power on the list gets you there.
+
+Second, suppose Congress complained that a state tax was interfering with federal revenue and passed a law abolishing that state's land tax. Same answer. That is an invasion of the concurrent jurisdiction over taxation that the whole previous essay was spent establishing.
+
+Two examples, two federal laws, both unconstitutional, and neither of them forbidden anywhere in the text. That is the point. The limit is not a list of prohibitions. The limit is the grant itself. If you cannot trace a law back to a power on the three minute list, the law has nothing to stand on.
+
+So that is Hamilton's account of what these two clauses are and why they exist. What actually happened in Philadelphia is stranger. Because neither of the most feared sentences in the Constitution arrived the way you would expect.
+
+Go back to the summer of seventeen eighty seven, into the room.
+
+On the twenty sixth of July, the Convention handed everything it had agreed on to a small working group called the Committee of Detail, whose job was to turn a pile of resolutions into an actual draft. Up to that point the plan had described the legislature's power in one broad general sentence. The committee threw that out and wrote what we have now: a list. Specific, one power at a time. And at the bottom of the list, to make the list work, it added the necessary and proper clause.
+
+The committee reported its draft on the sixth of August. The Convention went through it clause by clause over the following weeks, arguing ferociously about the things you would expect. And on the twentieth of August, seventeen eighty seven, it reached the last item in Section Eight.
+
+It approved it unanimously. There was no substantial debate.
+
+Sit with that. The single most consequential sentence in the American constitutional order, the one Patrick Henry would use to terrify the Virginia ratifying convention, the one that would split Washington's cabinet three and a half years later, went through without an argument. Nobody in that room stood up and fought it. It looked like plumbing.
+
+Now the second clause, and this one is even better.
+
+The supremacy clause did not come from the nationalists at all. It came from the other side.
+
+On the fifteenth of June, seventeen eighty seven, William Paterson introduced what history calls the New Jersey Plan. It was the small states' counterproposal, drafted to stop the big states from swallowing everybody, and it kept the basic shape of the Articles of Confederation rather than replacing it. Tucked inside it was a provision declaring that the acts of the United States, made in pursuance of its powers, and its treaties, would be the supreme law of the states.
+
+The Convention rejected the New Jersey Plan. But a month later, on the seventeenth of July, a delegate stood up and moved that supremacy provision back onto the floor by itself. The Convention adopted it unanimously.
+
+The delegate who moved it was Luther Martin of Maryland.
+
+And Luther Martin, within a year, would become one of the loudest and angriest Antifederalists in the country. He walked out of the Convention before it finished. He refused to sign. He went home and wrote a long public denunciation of the whole document called The Genuine Information, and spent the ratification fight arguing that the Constitution would destroy the states and end in tyranny. He came to regard what the drafters eventually did to his own supremacy clause as having made it worse than useless.
+
+So the two sentences at the heart of this paper have a shared and slightly absurd history. One of them was written by a committee to make a list of limits work properly, and passed without debate. The other was proposed by a man who would shortly become its enemy, out of a plan designed to keep the national government small, and passed unanimously.
+
+Neither was born in a fight. Both were born quietly, in a room full of people who thought they were doing housekeeping. The fight arrived afterwards, in the newspapers, once the country got a look at them.
+
+Which is a genuinely useful thing to know about how documents work. The line that ends up carrying the most weight is very often not the line anybody argued about.
+
+So why does that matter? Because it explains the shape of the essay you are listening to. Hamilton is not defending a compromise somebody hammered out across a table. He is explaining, after the fact, two sentences nobody in the room thought needed explaining, to a public that had decided they were a monster. That is a much harder job, and it is why he has to go all the way back to the meaning of the word power to do it.
+
+Now we turn to supremacy, and his treatment of it is so brisk it is easy to miss how much work it does.
+
+The objection was simple and it was frightening. Federal law is the supreme law of the land. So whenever a state law and a federal law disagree, the state loses. Which means the states hold their powers at the pleasure of Congress.
+
+Hamilton's response is to ask what the alternative would even look like.
+
+A law, by the very meaning of the term, includes supremacy. It is a rule which those to whom it is prescribed are bound to observe.
+
+That is a definition, not a political claim. A rule that yields to you whenever you disagree with it is not a rule. It is advice. If the laws of the United States were not supreme within their sphere, they would not be weaker laws. They would not be laws at all.
+
+And a few lines later he names what you would have instead. Without supremacy, he writes, it would otherwise be a mere treaty, dependent on the good faith of the parties.
+
+A mere treaty. Dependent on good faith.
+
+Now, Hamilton's readers did not have to imagine what that looked like, because they had just spent years living inside it. And there is a specific story here that makes the point better than any argument can, so let me tell it.
+
+The war ended with the Treaty of Paris, signed in seventeen eighty three. It was a good treaty for the United States. It won recognition of independence and it won the western lands. But it had terms, and one of them, Article Four, said creditors on either side should meet no lawful impediment to recovering the debts they were owed. In plain English: British merchants owed money by Americans from before the war could go to court and collect it.
+
+The states did not comply. Not some of them, and not occasionally. Across the country, legislatures passed laws blocking those suits, courts shut the door on British creditors, and states went on confiscating Loyalist property in defiance of the treaty's other terms.
+
+Britain noticed, and Britain had a response ready. Under the treaty, British troops were supposed to withdraw from a string of forts along the northwestern frontier. They did not. They stayed for years, citing American violations as the reason, and from those forts they kept their grip on the fur trade and their influence with the tribes of the interior.
+
+So Congress asked its Secretary for Foreign Affairs to look into the British complaints and report back. That secretary was John Jay. The same John Jay who opened this series, who argued across Federalist Numbers Two through Five that a divided America would be prey to the outside world. Jay went through the state laws one by one, and on the thirteenth of October, seventeen eighty six, he laid his report before Congress.
+
+He told them Britain was right.
+
+Writing to John Adams a few weeks later, he summed up what he had found in a single sentence.
+
+The result of my inquiries into the conduct of the States relative to the treaty, is, that there has not been a single day since it took effect, on which it has not been violated in America, by one or other of the States.
+
+Not one day. Not a single day since the treaty came into force when the United States, taken as a whole, was keeping its word.
+
+And Congress could do nothing about it. On the twenty first of March, seventeen eighty seven, it passed a resolution declaring that a treaty, once made, is part of the law of the land and binding on the states, and that no state legislature may pass acts interpreting it or getting in the way of it. Then it sent the states a letter, drafted by Jay, asking them to repeal the offending laws. Asking. That was the entire enforcement machinery available to the government of the United States. A strongly worded request.
+
+That is what a mere treaty dependent on the good faith of the parties actually looks like. A national government whose solemn international obligations are optional, thirteen times over, and a foreign army sitting on your territory pointing at your own statute books to explain why it is staying.
+
+And notice the date on that resolution. Two months later the Convention opened in Philadelphia, and the sentence Congress had just been reduced to asking for is the sentence Luther Martin moved onto the floor in July, and the sentence Hamilton is defending here.
+
+So when Hamilton says a law by definition includes supremacy, he is not being pedantic. He is describing the exact disease the country had. The supremacy clause is the cure. It is the sentence that turns the union's acts from requests into law.
+
+But, and this is the part the objectors kept skipping past, supremacy comes with a fence around it, and the fence is three words.
+
+Go back to the clause. The Constitution and the laws of the United States made in pursuance thereof. In pursuance thereof. Not every act of Congress is supreme. Only the ones made pursuant to the Constitution.
+
+Hamilton hammers on this. An act of the larger society that is not pursuant to its constitutional powers, that instead invades what belongs to the smaller societies, does not become the supreme law of anything.
+
+These will be merely acts of usurpation, and will deserve to be treated as such.
+
+Usurpation. Not bad policy. Not overreach. A thing taken that was never granted, carrying no more legal force than if you or I had written it on a napkin.
+
+So you might ask who gets to decide whether a given act really is pursuant to anything. And Hamilton has already answered that, a few paragraphs earlier, with the same answer. The government judges first. The people judge last. He is not going to pretend the fence enforces itself.
+
+And then Hamilton adds an aside that is easy to skate past, and it connects straight back to last episode. He notes that the clause expressly confines supremacy to laws made pursuant to the Constitution, and says he mentions this merely as an instance of caution in the Convention, since the limitation would have been understood even if nobody had written it.
+
+There it is again. That is the third time in two essays Hamilton has said the same structural thing: this important protection did not need writing down, and they wrote it down anyway out of caution. He said it about the states keeping their unsurrendered powers, which got written down as the Tenth Amendment. He said it about the necessary and proper clause. He says it here about the word pursuant.
+
+So a pattern is showing. Hamilton keeps insisting the document's most important guarantees are the ones already implied by its structure, and the country keeps refusing to take his word for it and demanding they be spelled out. He thought that was unnecessary. It turns out to have been the most useful thing his opponents ever did, because the words that got written down are the words courts have to work with two centuries later.
+
+Which brings us to the question this whole episode has been building toward. Was he right that the clause added nothing?
+
+For that we go three years forward, into a room where the argument gets settled by people who have to actually govern.
+
+In February of seventeen ninety one, Congress passed a bill chartering a Bank of the United States. Hamilton, now the first Secretary of the Treasury, had designed it and thought it essential to the country's finances. But the objection to it was constitutional. There is no clause in Article One, Section Eight authorizing Congress to create a corporation. Read the list. Banks are not on it.
+
+President Washington, who did not pretend to be a constitutional lawyer, asked his cabinet to put their arguments in writing.
+
+Thomas Jefferson, the Secretary of State, delivered his opinion on the fifteenth of February. His argument went straight at the word necessary. The Constitution, he wrote, allows only the means which are necessary, not those which are merely convenient. It restrains Congress to those means without which the grant of power would be nugatory, which is to say useless, empty, a dead letter. Congress could already collect taxes and pay debts without a bank. So a bank is convenient, not necessary. So Congress may not create one.
+
+Edmund Randolph, the Attorney General, agreed with him. Two of the three opinions on the President's desk said the bill was unconstitutional. Washington sent the papers to Hamilton and asked for a reply.
+
+Hamilton delivered it on the twenty third of February, and it is one of the great documents of American constitutional argument. He took Jefferson's definition apart. Necessary, he wrote, often means no more than needful, requisite, incidental, useful, or conducive to. Jefferson's reading would require Congress to prove, before every single act, that the government could not possibly function otherwise. That is a standard no government on earth could meet.
+
+And then he gave the test that has essentially been the law ever since. If the end is clearly within one of the specified powers, and the measure has an obvious relation to that end, and nothing in the Constitution forbids it, then it falls within the national authority.
+
+Three questions. First, is the goal one the Constitution actually assigns to Congress? Second, does this measure plainly relate to that goal? And third, is it forbidden anywhere? If yes, yes, and no, it is constitutional.
+
+Washington signed the bank bill on the twenty fifth of February, seventeen ninety one.
+
+Now hold that against Federalist Number Thirty Three and notice something. Hamilton's position never moved an inch. In seventeen eighty eight he said the clause adds nothing because the means always came with the power. In seventeen ninety one he said the bank is authorized because the means always come with the power. Same argument, same man, three years apart. One of them written to reassure a nervous public, the other written to build a national bank.
+
+Both were honest. And that is the twist in this episode. He was telling the truth when he said the clause added nothing. It really did not add anything. It was only that nothing turned out to be enormous, because what was already implied in the structure was already vast, and nobody had done the arithmetic.
+
+Which brings the last piece into place, in a case we have met before. In eighteen nineteen, McCulloch against Maryland reached the Supreme Court. Last episode we took the half of it that asks whether Maryland could tax the national bank. The other half, the first half, is this exact question. Could Congress charter the bank at all?
+
+Chief Justice John Marshall made two moves that were pure Hamilton.
+
+First, he looked at where the clause sits on the page. It is in Section Eight, among the powers of Congress. It is not in Section Nine, which is the list of things Congress may not do. If the framers had meant it as a restriction, they put it in a very strange place.
+
+Second, he did something with the Tenth Amendment that is a little bit delicious. The old Articles of Confederation had said each state kept every power not expressly delegated to the United States. Expressly. That one word had strangled the old government, because nothing was ever expressly enough. The Tenth Amendment dropped it. It says only that the powers not delegated are reserved. Marshall pointed out that the men who wrote that amendment had lived under the other version, knew exactly what the word had cost them, and left it out on purpose.
+
+Then he wrote the sentence.
+
+Let the end be legitimate, let it be within the scope of the constitution, and all means which are appropriate, which are plainly adapted to that end, which are not prohibited, but consist with the letter and spirit of the constitution, are constitutional.
+
+That is Hamilton's three part test from his bank opinion, twenty eight years later, in the voice of the Supreme Court. It is still the law today.
+
+Now, a fair question to end on. Does that mean the Antifederalists were simply paranoid, and the clause never mattered?
+
+No. And the honest answer cuts both ways.
+
+They lost the argument, and they were right about the direction. The clause did become the hinge the federal government swung open on. It is why a government whose powers fit in four hundred and twenty eight words can run an air force, insure your deposits, and prosecute crimes the founders never heard of. When Brutus warned that the general clauses would carry the union far past its list, he was not imagining things. He was reading correctly.
+
+What he got wrong was the consequence. He predicted the states would be reduced to husks, and instead both governments grew enormous together, exactly as we said last time.
+
+And the clause is not infinite. It has a floor, and courts have found it. In two thousand twelve, in the case testing the Affordable Care Act, the Supreme Court held that the necessary and proper clause did not authorize Congress to require Americans to buy health insurance. The reasoning ran along a line Hamilton would have recognized. The clause carries you to the means of exercising a power you already hold. It cannot manufacture the power itself. It is a bridge, and a bridge has to start somewhere on your own bank of the river.
+
+Which is, in the end, exactly what Hamilton spent this essay saying. The clause is not a power. It is a description of what having a power means. If you are frightened of where it takes the government, do not look at the last thirty nine words of Section Eight. Look at the four hundred before them, and argue about those. That is why he could call the most feared sentence in the Constitution harmless without blinking. Not because it is small. Because it is honest.
+
+He closes by walking back to where he began. A federal tax law is supreme, and no state may nullify it. But a federal law abolishing a state's tax, imports and exports aside, is not supreme law at all. It is usurpation. The two governments will simply have to live with each other, and he hopes their mutual interest keeps them from making a mess of it. The states, he concludes, keep an independent and uncontrollable authority to raise whatever revenue they need, by every kind of taxation except duties on imports and exports.
+
+And then he promises one more thing, which is the subject of the next paper. He says he will show that this concurrent jurisdiction in taxation was the only admissible substitute for putting the states entirely under the union in matters of money. Not the ideal arrangement. The only workable one.
+
+This has been The Federalist Papers: Explained. Episode Thirty Three. Next time: Federalist Number Thirty Four, still Alexander Hamilton, arguing that two governments taxing the same people is not the awkward compromise it looks like, and reaching all the way back to the Roman republic for proof that two rival authorities can share a country without either one destroying the other. He is also going to do something he has avoided until now. He is going to try to put a number on what the United States will need to spend, and to explain why the real measure of a government's future needs is not what it costs to run a country in peacetime, but what it costs to survive a war.
