@@ -1,0 +1,207 @@
+At the end of the last episode, Hamilton had spent an entire paper refusing to answer the question in front of him.
+
+He had been handed the sharpest objection in the whole ratification fight. A government free to tax anything will eventually tax everything, and the states will be starved out of existence without anyone ever having to abolish them. And instead of answering it, Hamilton talked about geometry. He talked about Euclid, and first principles, and the difference between a claim you can argue with and a claim you can only argue around. He said that if imagining an abuse counts as winning, then nothing can ever be built. He said the real protection against abuse of power lives in how a government is put together, not in how short its list of powers is.
+
+Then he closed with a promise. On this ground, he said, it will not be difficult to obviate the objections. Which is a promissory note. Not a payment.
+
+Today he pays it.
+
+That is Federalist Number Thirty Two. It ran in the Independent Journal in New York on the second of January, seventeen eighty eight, and appeared in the Daily Advertiser the following day. Still Alexander Hamilton. Still signed Publius.
+
+And notice what the calendar was doing that week. The previous paper had run on New Year's Day, when three states had ratified. On the second of January, Georgia became the fourth. So the essay that finally answers the money question went to the printer on the exact day the count moved. New York, the state all of this was actually aimed at, had still not moved at all.
+
+Here is the other thing about this paper. It is short. Under sixteen hundred words. It is one of the briefest essays in the entire series, and it does more constitutional work per sentence than almost anything else Hamilton wrote. The whole modern architecture of American federalism is sitting inside it, mostly in a form that nobody at the time would have recognized as a landmark.
+
+So let me start somewhere that has nothing to do with seventeen eighty eight.
+
+Look at a pay stub.
+
+Not the total. The lines above it. There is a line for federal withholding. And in forty one states, there is a second line, right underneath it, for state withholding. Two different governments, reaching into the same paycheck, on the same day, taking a share of the same dollar. Neither one asked the other's permission. Neither one had to.
+
+That arrangement is so ordinary that it is invisible. It is also not written down anywhere. Go looking in the Constitution for the sentence that says both the national government and the states may tax the same person at the same time, and you will not find it, because it is not there. There is no such sentence.
+
+What there is, instead, is this essay. The arrangement you live under was argued into existence, in a newspaper, in about sixteen hundred words, by a man answering a rival columnist.
+
+At this point a fair question is why it needed arguing at all. Why would anyone think two governments could not both collect taxes? And the answer is that Brutus, the anonymous Antifederalist we met last time, had built a very tight case that they could not. Not because the Constitution forbade it, but because of what would happen in practice. First, Congress can tax anything. Second, federal law is supreme. And third, Congress can pass whatever law it judges necessary and proper. Put those three together and follow them honestly, and when a state tax runs into a federal one, the federal one wins, every time, on the plain words. So the union takes the best sources of revenue first, then the next best, and the states are left scraping at whatever nobody in the capital has bothered to claim. Nobody gets abolished. Everybody gets starved.
+
+Hamilton's answer begins with something that looks, at first, like surrender.
+
+He opens by saying he does not actually believe there is any real danger here. He thinks the sense of the people would prevent it. He thinks any national government that tried it would be taking an enormous risk with the resentment of the state governments. And he thinks everyone understands that local administration is genuinely necessary for local purposes, which is the argument he made all the way back in Number Seventeen, when he said that people's loyalty follows the government they can actually feel.
+
+And then, having said all that, he throws it away.
+
+He says he is willing to allow, in its full extent, the justness of the reasoning on the other side. Fine. Grant it. Say the states absolutely must have an independent and uncontrollable authority to raise their own revenue. Concede the whole premise.
+
+And then here is what he does with it.
+
+And making this concession, I affirm that, with the sole exception of duties on imports and exports, they would, under the plan of the convention, retain that authority in the most absolute and unqualified sense; and that an attempt on the part of the national government to abridge them in the exercise of it, would be a violent assumption of power, unwarranted by any article or clause of its Constitution.
+
+Read that again for what it actually claims. He is not saying trust us. He is not saying it probably will not happen. He is saying that if the national government ever tried to strip the states of their power to tax, that act would be illegal. Not unwise. Not aggressive. Unconstitutional, with no article or clause anywhere in the document to stand on.
+
+That is a much larger promise than reassurance, and it is a much riskier one, because it can be checked. Reassurance cannot be falsified. A claim about what the document permits can be held up against the document. Hamilton is inviting exactly that.
+
+Which brings us to the move at the center of this paper, and it is not really about taxes at all.
+
+Everyone in this argument, on both sides, had been asking the same question. What does the Constitution give the states? Which powers does it leave them? And Hamilton, in a couple of sentences, says that is the wrong question, and that asking it that way has already conceded more than anybody noticed.
+
+An entire consolidation of the states into one national sovereignty, he says, would mean the parts are entirely subordinate, and whatever they had left would exist at the pleasure of the whole. But that is not what this document does.
+
+But as the plan of the convention aims only at a partial union or consolidation, the State governments would clearly retain all the rights of sovereignty which they before had, and which were not, by that act, exclusively delegated to the United States.
+
+Which they before had. That is the whole thing, in four words.
+
+The states were not created by the Constitution. They existed first. Every one of them had been governing, and taxing, and passing laws for years before anybody met in Philadelphia. Virginia had a government. Massachusetts had a government. They arrived at the Convention already holding a full set of powers in their hands.
+
+So the Constitution is not a document that hands power to the states. It is a document in which the states hand some of their power away. And that means the burden of proof runs the other direction from the way everyone had been running it. You do not have to find the clause that lets a state tax you. The other side has to find the clause where the state gave that up.
+
+You might reasonably think this is a lawyer's trick about where the burden sits. It is a lawyer's trick about where the burden sits. It is also the single most consequential sentence in this essay, because a default rule does not decide one case. It decides every case nobody thought to have. Every question that never got asked in Philadelphia, every power that had not been invented yet, every argument that would not come up for another century, all of it falls automatically to whoever holds the default. Hamilton is not winning an argument about taxes here. He is claiming the ground on which all the future arguments will be fought.
+
+And this is worth knowing. Three years later, that rule was written into the Constitution in almost those words. The Tenth Amendment, ratified the fifteenth of December, seventeen ninety one, says that the powers not delegated to the United States by the Constitution, nor prohibited by it to the states, are reserved to the states respectively, or to the people.
+
+Here is the irony, and it is a real one. Hamilton's whole position in January of seventeen eighty eight is that this rule is already true and does not need writing down. That is why he can assert it as obvious. The people he is arguing against did not trust that, and they insisted it be written down anyway. They won that fight. And what they got written down is the thing Hamilton was already claiming, which means the Tenth Amendment is at once a defeat for his side and a monument to his argument.
+
+Now, Hamilton still has to prove the default rule actually applies to taxation. And the way he proves it is by teaching his readers how to read.
+
+So let me slow down here, because this is the part of the paper worth carrying around for the rest of your life.
+
+Imagine a house with a rule posted on the wall. It says: no shoes in the living room.
+
+You have just learned two things, and only one of them was written down.
+
+The first is obvious. Keep your shoes off in the living room. But the second thing is the one that matters. You have also just learned that shoes are fine in the kitchen. And in the hallway. And on the stairs. Nobody said so. Nobody had to. The moment somebody bothers to fence off one room, they have told you about every other room in the house, because a person who wanted shoes off everywhere would not have named a room.
+
+And there is a third thing hiding in there, quieter than the other two. Somebody wrote that rule because shoes in the living room were possible. You do not post a sign forbidding a thing that could not happen. The existence of the rule is evidence that, without it, people would have walked in with their shoes on.
+
+Now go look at the Constitution.
+
+Article One, Section Ten says that no state shall, without the consent of Congress, lay any imposts or duties on imports or exports, except what is necessary for executing its inspection laws.
+
+Run the house rule on it. What has that sentence just told you?
+
+First, that without it, the states would have had that power. You do not forbid what nobody could do anyway. And second, and much more importantly, it has told you that about every other kind of tax, the document is saying nothing at all. And in a document that has just demonstrated it knows perfectly well how to fence off a room when it wants to, saying nothing is saying yes.
+
+Hamilton gives this a name, and the name is wonderful.
+
+The restriction in question amounts to what lawyers call a negative pregnant, that is, a negation of one thing, and an affirmance of another; a negation of the authority of the States to impose taxes on imports and exports, and an affirmance of their authority to impose them on all other articles.
+
+A negative pregnant. A no that is carrying a yes inside it. It is an old term from the law of pleading, and it is one of those phrases that sounds like nonsense until you see it, and then you cannot stop seeing it.
+
+And Hamilton presses the point hard, because he wants to close the escape route. If the objectors were right, he says, if the general grant of taxing power to the union already excluded the states all by itself, then this restriction is both unnecessary and dangerous. Unnecessary, because why bother forbidding the states to do a thing they already could not do. And dangerous, because the moment you write it, every reader draws exactly the conclusion the objectors are trying to deny.
+
+Then he runs their reading out to the end, to show what it would produce. If the clause really means the states are absolutely barred from import duties but free to lay other taxes subject to federal control, then the Constitution says something no one would ever draft on purpose. It would mean the states may tax imports as long as Congress agrees, and may tax everything else unless Congress objects. Two completely different rules, in one sentence, pointing opposite directions. Hamilton's judgment on that is short. It will not bear a construction of the kind.
+
+This way of reading is not a period curiosity. Lawyers still use it constantly, under a Latin name, expressio unius, the expression of one thing is the exclusion of another. Courts decide real cases with it every year. When a warranty lists what it covers, it has told you about everything it does not cover. When a lease bans one pet, it has told you about the others. Hamilton is not inventing a technique. He is applying a very ordinary one, at a very high stakes moment, to a document three months old.
+
+So the general power to tax stays with the states. But that raises the obvious next question, which is what would it actually take for a power to become the union's alone. And Hamilton gives a straight answer: there are exactly three ways, and no others.
+
+First, the document says so outright. Somewhere in the text it grants the union an exclusive authority in so many words.
+
+Second, the document grants a power to the union in one place, and separately forbids the states to exercise the same power in another place.
+
+And third, the document grants a power to the union that a matching state power would not merely inconvenience but flatly contradict. Not awkward. Not overlapping. Logically impossible at the same time.
+
+His example for the first one is a small delight. The Constitution provides that Congress shall exercise exclusive legislation over the district that will become the seat of government. There it is, in the text, the word exclusive, no interpretation required.
+
+And in January of seventeen eighty eight, that place did not exist. There was no district. No site had been chosen, no land had been ceded, no city had been built. The capital would not even be located until the Residence Act of July sixteenth, seventeen ninety, and it would not open for business until eighteen hundred. Hamilton's cleanest, most airtight example of an exclusive federal power was a stretch of ground that nobody had picked yet. Which tells you something about how he read the document. He was not describing a country. He was reading a blueprint.
+
+His example for the second one is the one this whole paper turns on, and we will come back to it in a moment.
+
+And his example for the third is naturalization. The Constitution gives Congress power to establish a uniform rule of naturalization, and Hamilton's argument about it takes one line.
+
+This must necessarily be exclusive; because if each State had power to prescribe a distinct rule, there could not be a uniform rule.
+
+That is not a policy judgment. It is arithmetic. The word uniform is doing all the work. If thirteen states each write their own rule for who becomes an American, then by definition there is no uniform rule, and the clause has been erased by being obeyed. This is the only one of the three categories where the contradiction is inside the meaning of the words rather than in anybody's preferences.
+
+And once you have those three tests, you can just apply them. Does the general power of taxation fit any of them? No expression in the granting clause makes it exclusive. No separate clause prohibits the states. And two governments taxing the same whiskey is not a logical impossibility. It is just expensive.
+
+Which brings up the objection Hamilton knows is coming, and it is the strongest one left. Fine, someone says, it is not impossible. But it is a mess. If a state has already taxed an article heavily, a further federal tax on the same article might be a terrible idea. The two systems will get in each other's way constantly. Does not that friction amount to a real contradiction?
+
+Hamilton says no, and he draws the line with unusual precision.
+
+It is not, however a mere possibility of inconvenience in the exercise of powers, but an immediate constitutional repugnancy that can by implication alienate and extinguish a pre-existing right of sovereignty.
+
+In plain English: annoying is not the same as illegal. Yes, one government's tax may make the other government's tax a bad idea. That is a question of prudence, and Hamilton says the two sides will simply have to practice what he calls reciprocal forbearances, which is a very polite eighteenth century way of saying they will need to watch each other and not be greedy. But a difficulty is not a contradiction. And nothing less than a real contradiction is enough to take away, by implication, a power a state was holding before the country existed.
+
+That standard is demanding on purpose. Hamilton is saying you cannot strip a government of a power just because keeping it is inconvenient for you.
+
+And it is why the modern arrangement is not a constitutional crisis. Both governments tax gasoline. Both tax cigarettes. Both tax income. The rates stack, the compliance is a headache, the interaction is genuinely messy, and none of it raises a constitutional question at all. It is just two governments being expensive at the same time, exactly as predicted, in exactly the way Hamilton said was permitted.
+
+Now let me go back to that one exception, because everything in this paper is built around a single carve out, and the carve out has a story.
+
+Why imports? Why is that the one tax the union gets to keep for itself?
+
+For that you have to go to Philadelphia, in August of seventeen eighty seven, into a room where the Convention had reached the money clauses and the temperature was rising.
+
+On the sixteenth of August, George Mason of Virginia moved to forbid Congress from taxing exports at all. Not to limit it. To ban it outright.
+
+To understand why that mattered so much, you have to see the southern economy from the inside. Virginia's wealth was tobacco. South Carolina and Georgia were rice and indigo. North Carolina had naval stores. Every bit of that wealth left the continent through a door, and the whole value of the crop depended on what happened at that door. Now hand a national legislature, in which the northern states had more votes, the power to tax whatever went out through it. You have not just created a revenue tool. You have handed a majority a permanent lever on a minority's entire economy, one they can pull whenever they need money or leverage.
+
+Pierce Butler of South Carolina put it about as plainly as a man can. Madison's notes record that Butler was strenuously opposed to a power over exports, as unjust and alarming to the staple states.
+
+The other side was not stupid, and it was not merely northern. Gouverneur Morris of Pennsylvania, James Wilson of Pennsylvania, and James Madison himself, a Virginian, all argued to keep the power. Their case was practical. Exports are real money, and the country was going to need real money. And here was the sting in it: what does a country buy with that money? A navy. And who does a navy protect? The people whose goods are out on the water. Madison was telling his own state's planters that the tax they were afraid of would pay for the fleet that guarded their cargo.
+
+The debate came back around on the twenty first of August, and Madison tried to broker it. Let Congress tax exports, he proposed, but only with a two thirds vote in each house. Make it possible, but make it hard. It was a reasonable compromise, and it failed by a single state, five to six.
+
+Then they voted on the outright ban. It passed, seven to four.
+
+And the shape of that vote is worth looking at, because it is not the shape people expect. Voting for the ban: Massachusetts, Connecticut, Maryland, Virginia, North Carolina, South Carolina, and Georgia. Voting against: New Hampshire, New Jersey, Pennsylvania, and Delaware. Massachusetts and Connecticut, two New England states, sided with the staple states. This was not a clean north against south tally. It was a coalition, assembled in a hot room over several days.
+
+There is a harder thing to say about that week, and it should be said plainly. Historians have long connected the export ban to a larger bargain being struck at the same time. The delegates from the Deep South accepted that Congress could pass navigation acts by simple majority, which the northern commercial states badly wanted. In return, the slave trade was protected from federal interference until eighteen oh eight, and taxes on exports were banned permanently. How tightly those pieces were tied together is still argued over by scholars, and the record does not give us a signed agreement. But they moved through the Convention together, and the export clause did not arrive in the Constitution as a piece of clean fiscal theory. It arrived as part of a settlement.
+
+So here is what Hamilton is actually defending in Federalist Number Thirty Two. The states are barred from taxing imports and exports without the consent of Congress. And the union, by a separate clause, is barred from taxing exports at all, ever, by anybody. Which leaves exactly one thing standing: duties on imports. That, and nothing else, is the union's private tax.
+
+Now, that raises a question that should bother you, because it bothered people at the time. If imports are the only tax the union gets to itself, was Brutus not right that the union would grab the best revenue first?
+
+In a way, yes. Duties on imports were not a modest little revenue stream. Before the War of Eighteen Twelve, customs duties were roughly ninety percent of federal revenue. Ninety percent. For decades the United States government was funded almost entirely by money collected at the docks. The one exclusive tax Hamilton is carving out in this paper turned out to be the whole federal budget.
+
+And he knew what he was doing. This is not an abstract exercise for him. Within two years he would be the first Secretary of the Treasury, building the entire financial architecture of the United States, and the pipe carrying the water into it would be exactly this one. When Hamilton writes about the union's exclusive power over import duties, he is describing the plumbing he is about to install.
+
+What neither man could see is that the balance would eventually be settled by an entirely different mechanism. The federal government did not starve the states by taking the best taxes first. It grew by finding a tax nobody in seventeen eighty eight had thought of, when the Sixteenth Amendment made an income tax possible in nineteen thirteen. And the states, which Brutus was certain would wither, are today collecting trillions and running most of the government that ordinary people encounter. The argument between Hamilton and Brutus was resolved, but not on the terms either of them set.
+
+Hamilton has one move left, and it is the most lawyerly thing in the essay, and also the most convincing.
+
+He says, in effect, do not take my word for how this document works. Watch how it behaves.
+
+Go look at Article One, Section Ten. Read the whole thing. It is nothing but prohibitions on the states. No state shall enter into any treaty. No state shall coin money. No state shall pass any bill of attainder, or ex post facto law, or law impairing the obligation of contracts. No state shall, without the consent of Congress, lay any imposts or duties on imports or exports. Top to bottom, clause after clause, the entire section is a list of things the states may not do.
+
+We there find that, notwithstanding the affirmative grants of general authorities, there has been the most pointed care in those cases where it was deemed improper that the like authorities should reside in the States, to insert negative clauses prohibiting the exercise of them by the States.
+
+The most pointed care. Meaning: these people had a habit. When they wanted to shut a state out of something, they said so, out loud, in a dedicated section, in unmistakable language, over and over. They were not subtle about it even once.
+
+So when a power as enormous and as obvious as general taxation is simply not in that list, the silence is not an oversight and it is not ambiguity. It is evidence. Because the drafters were demonstrably not silent whenever they meant to exclude the states, silence has to mean they did not mean to.
+
+That is reading a document by its own behavior instead of by a theory about it, and it is the strongest kind of textual argument there is. It does not require you to trust Hamilton about anyone's intentions. It just requires you to notice a pattern and take it seriously.
+
+Which leaves us with one last question. Was he right?
+
+Mostly. And the place where he was not right is worth knowing, because it took thirty one years and a bank officer in Baltimore to find it.
+
+In eighteen sixteen, Congress chartered the Second Bank of the United States. It was not popular, particularly in states that had their own banks and did not enjoy the competition. In eighteen eighteen, Maryland passed a law taxing banknotes issued by any bank operating in the state that had not been chartered by Maryland. Which, in practice, meant one bank.
+
+James McCulloch was the cashier of the Baltimore branch. He refused to pay.
+
+The case reached the Supreme Court in eighteen nineteen, and Chief Justice John Marshall began exactly where Hamilton had begun. He accepted the Hamiltonian premise completely. The states' power to tax, Marshall said, is an original right. It does not come from the Constitution. It was theirs before, and they keep it except where they gave it up.
+
+And then Marshall says something about it that is worth stopping on. He lists the propositions: that the power of taxation is retained by the states, that it is not abridged by granting a similar power to the union, that it is to be concurrently exercised by the two governments. And then he calls those propositions truths which have never been denied.
+
+Never been denied. That is a Chief Justice, in eighteen nineteen, describing as self evident the exact claim that Hamilton had to spend an entire newspaper essay proving in seventeen eighty eight, against an opponent who had very much denied it. Thirty one years is all it took for a contested argument to become a thing nobody argues about. Which is, if you think about it, what winning actually looks like.
+
+And then Marshall found the collision that Hamilton had not named.
+
+Because the power to tax, he wrote, involves the power to destroy. If Maryland can tax the bank at all, Maryland can set the rate wherever it likes, and a rate high enough is not a tax, it is a demolition order. Which would mean a single state could unmake a thing the whole country had lawfully made.
+
+So Maryland's tax fell. Not because taxing is exclusive to the union. Hamilton was right that it is not. It fell because concurrent and coequal turned out to contain an asymmetry that a sixteen hundred word newspaper essay could not have anticipated: the state and the federal taxing powers are both real, but they are not perfectly symmetrical when one of them is aimed at the other.
+
+You might ask whether that means Hamilton was wrong. He was right about the rule and incomplete about the edge, which is the ordinary fate of a good argument. His default rule, that the states keep what they did not give away, is still the law of the United States. His claim that the two powers coexist in the same country, over the same people, over the same dollar, is so thoroughly the law that we have stopped noticing it. It is only the perfect coequality that did not survive contact with a hard case.
+
+And notice what he has, and has not, actually delivered here. He has proved that the plain text of the Constitution does not make taxation exclusive to the union. That is real, and it is the thing he promised at the end of the last paper.
+
+But he has not touched the other half of Brutus's argument. Brutus never claimed the text made taxation exclusive. Brutus claimed that federal law is supreme, and that Congress may pass whatever it deems necessary and proper, and that between those two clauses the states would be ground down regardless of what the taxing clause says. That objection is still sitting there, entirely unanswered, at the end of Federalist Number Thirty Two.
+
+Hamilton knows it. That is the next paper. And here is a detail worth knowing about the next paper. It did not wait a week. Numbers Thirty Two and Thirty Three ran in the same issue of the same newspaper, on the same day, on the second of January. Some editors still print them as one continuous essay, because that is how they first appeared. So when Hamilton finishes this argument and reaches for the harder half, he is not turning to the following week. He is turning to the next column on the page.
+
+And there is one last thing to carry out of this one. Look at what Hamilton reached for when he needed to prove something about power. Not a promise. Not a prediction about how officials would behave. He reached for a rule about how to read a sentence, and a pattern in how a document treats its own subjects. He is making the same bet he made at the end of Number Thirty One, when he said the people hold the scales. The structure is what protects you, and structure means the actual words, arranged in an actual order, doing work you can check.
+
+Which is why, when you look at that pay stub and see two lines where you might have expected one, you are looking at the outcome of an argument about punctuation and silence, made in a newspaper, by a man who thought that was where liberty actually lived.
+
+This has been The Federalist Papers: Explained. Episode Thirty Two. Next time: Federalist Number Thirty Three, still Alexander Hamilton, finally turning to face the two clauses Brutus built his entire case on. The necessary and proper clause, and the supremacy clause. And his answer is going to be that they add nothing at all. That they are only declaratory of a truth that would have been true anyway, from the mere act of creating a federal government. He will even shrug and admit the wording may be redundant, and say that this is exactly why it is harmless. It is a startling thing to claim about the two most feared sentences in the document, and he claims it without blinking.
