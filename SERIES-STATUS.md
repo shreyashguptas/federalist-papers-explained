@@ -2,9 +2,9 @@
 
 ## Overview
 - Total papers: 85
-- Episodes completed: 24 (audio produced)
-- Episodes scripted: 24
-- Next episode to produce: Episode 25 (Federalist No. 25)
+- Episodes completed: 31 (audio produced)
+- Episodes scripted: 31
+- Next episode to produce: Episode 32 (Federalist No. 32)
 
 ## Episode Status
 
@@ -34,7 +34,14 @@
 | 22 | We the People, Not the States | Hamilton | DONE | DONE | - |
 | 23 | Strong Enough to Defend Us | Hamilton | DONE | DONE | - |
 | 24 | The Army That Scared Everyone | Hamilton | DONE | DONE | - |
-| 25-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
+| 25 | Who Should Hold the Army | Hamilton | DONE | DONE | - |
+| 26 | What Really Guards Our Freedom | Hamilton | DONE | DONE | - |
+| 27 | Why Good Government Needs No Army | Hamilton | DONE | DONE | - |
+| 28 | The People Hold the Balance | Hamilton | DONE | DONE | - |
+| 29 | The Citizen in Arms | Hamilton | DONE | DONE | - |
+| 30 | The Power of the Purse | Hamilton | DONE | DONE | - |
+| 31 | The Rules of the Argument | Hamilton | DONE | DONE | - |
+| 32-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
 
 ## Authorship reference (first 10 papers)
 1. Hamilton
