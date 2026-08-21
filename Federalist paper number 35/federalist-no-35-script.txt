@@ -1,0 +1,241 @@
+At the end of the last episode, Hamilton had just done something almost nobody does in the Federalist Papers. He made a prediction you could check.
+
+He said the union would carry the expensive part of American government, the wars and the debts and the defense, and the states would need comparatively little. He put a number on it. And we graded him. He was wrong about the number by an enormous margin, and he was right about the rule underneath it, which was that you must never write a ceiling over the category of things you cannot see coming.
+
+He ended that paper by saying there remained a few other lights in which the subject of taxation would claim further consideration.
+
+Today he turns on two of them.
+
+This is Federalist Number Thirty Five. It ran in the Independent Journal on the fifth of January, seventeen eighty eight. Still Alexander Hamilton. Still signed Publius. Four states had ratified by that morning. Delaware in early December, then Pennsylvania, then New Jersey, and then Georgia on the second of January, unanimously, twenty six votes to nothing. Connecticut would come four days later. New York, the state Hamilton was actually writing for, would be the eleventh, and it would be the closest vote of any of them.
+
+Now, if you sit down and read this essay cold, the first thing you notice is that it appears to be two essays.
+
+The first half is about tariffs. Who pays them, what happens when they get too high, and why funding a government out of a single source is a bad idea. It is dense, practical, and surprisingly technical.
+
+And then, halfway down, Hamilton changes the subject completely. He starts talking about who sits in Congress. Whether working people will ever send working people to represent them. And he says something so blunt about the answer that it has been making readers uncomfortable for two hundred and thirty eight years.
+
+Most summaries of this paper treat those as two separate arguments that happen to share a page.
+
+I want to make the case that they are the same argument, told twice.
+
+Because both halves of this essay are about the gap between what something is called and what it actually is. A tax has a name on it, and a person the law says will pay it, and Hamilton's point is that the name and the payer are frequently two different people. Then he turns to representation, and says the same thing in a different key. Your representative has a name, and a job, and a background, and Hamilton's point is that none of those things is the bond between you. Something else is.
+
+The label is not the thing. That is the whole essay.
+
+So let us start with the money, and with a problem that is much older than the United States and is happening in your country right now.
+
+What happens to a government that has exactly one way to raise money?
+
+Not a bad way. Not an unfair way. Just one way. Picture a government that can tax imported goods and nothing else. That is what a large part of the opposition wanted. Let the union tax what comes in through the ports, and leave everything else to the states. It sounds modest. It sounds like a limit. That is precisely why it was popular.
+
+Hamilton's answer is that a limit like that does not shrink the government. It concentrates it.
+
+Because the government's needs do not shrink to match its permissions. A war costs what a war costs. A debt payment comes due whether or not you have a convenient way to meet it. And if there is exactly one faucet in the building, then every time the government is thirsty, it turns that one faucet harder. Two things follow, and Hamilton names them at the very top of the paper. The first is that particular branches of industry get crushed, because the whole weight of the government lands on them and on nobody else. And the second is that the burden falls unevenly, both between the states and between the citizens inside any one state.
+
+A fair question here is whether that is really a law of nature, or just a worry.
+
+It is closer to a law of nature, and we have watched it operate in living memory.
+
+In twenty fifteen, the Justice Department published an investigation into the police department of Ferguson, Missouri. What it found was not mainly a story about any single incident. It was a story about a budget. The city had come to lean heavily on the money it collected from court fines and fees. Between twenty ten and twenty fifteen that revenue roughly doubled as a share of what the city took in, from about twelve percent to a budgeted twenty three percent. And once the city needed that money, the city began managing the police department to produce it. The report says it about as plainly as a federal document can, that Ferguson's law enforcement practices were shaped by the city's focus on revenue rather than by public safety needs.
+
+That is Hamilton's mechanism exactly. One available source of money, leaned on past what it should bear, and the cost landing on whoever happens to be easiest to reach. He is not describing a policy error. He is describing what pressure does to an instrument when there is nowhere else for the pressure to go.
+
+And then he gets specific about the first thing that breaks.
+
+Exorbitant duties on imported articles, he writes, would beget a general spirit of smuggling, which is always prejudicial to the fair trader, and eventually to the revenue itself.
+
+Read that last clause again, because it is the clever part. High duties do not merely fail to collect more. They collect less. Push the rate past what people will tolerate and you do not get a bigger number, you get a black market, and the black market takes the honest importer's business first and the treasury's money second. The man who pays the duty is undercut by the man who does not, so paying becomes the losing strategy, and eventually almost nobody pays.
+
+Now, there is an obvious objection to all of this, and Hamilton raises it himself rather than waiting for an opponent to do it for him. Surely a government would never push a tax that far. The government wants the money. A rate so high that it kills the revenue is a rate that hurts the treasury first. Self interest ought to apply the brake automatically.
+
+Hamilton concedes the point, and then takes it away again. That brake works, he says, only as long as other resources are open. Close off every other avenue, and a government that still has bills to pay does not conclude that it should stop. It concludes that it should try harder. It writes stiffer penalties and tighter precautions, and for a while those appear to work, and that early success teaches it exactly the wrong lesson, which it may then take years of painful experience to unlearn.
+
+He puts the whole trap into one sentence that deserves to be better known.
+
+Necessity, especially in politics, often occasions false hopes, false reasonings, and a system of measures correspondingly erroneous.
+
+Which is a careful eighteenth century way of saying that a desperate government is a bad economist.
+
+Hamilton did not have to explain any of this to his readers. They had lived it.
+
+Let me take you back twenty years, to a wharf in Boston.
+
+In May of seventeen sixty eight, a sloop called the Liberty tied up in Boston harbor carrying a cargo of Madeira wine. The sloop belonged to John Hancock, the richest merchant in Massachusetts, the man whose signature would end up the largest on the Declaration of Independence. When customs officials came aboard the next day, there were twenty five casks of wine in the hold. There was supposed to be a great deal more. The obvious conclusion was that most of the cargo had gone over the side and into the town overnight, without clearing customs and without paying a penny of duty.
+
+On the tenth of June, the crown moved. Marines came off a fifty gun warship in the harbor and took possession of the Liberty.
+
+And Boston exploded. A crowd gathered on the wharf, and the two customs officers responsible were beaten, and the mob went to their houses and broke every window, and then dragged one officer's pleasure boat out of the water, hauled it to the Common, and burned it. The customs men fled the town entirely and set up their operation on an island fortress in the harbor, because the mainland was no longer safe for them. Hancock was charged with smuggling. John Adams defended him. The charges were dropped for want of evidence.
+
+That is what a general spirit of smuggling looks like when it is fully grown. It does not look like a few criminals. It looks like an entire city deciding that the law is the enemy and the smuggler is the neighbor.
+
+So when Hamilton warns about it in January of seventeen eighty eight, every reader in New York knows exactly what he means, and a fair number of them had done a version of it themselves.
+
+Here is what makes this passage worth stopping on, though. It is not just that Hamilton saw the problem. It is what he did about it afterward.
+
+Back in November, in Federalist Number Twelve, he had already sketched the answer in a line we spent some time on in that episode. A few armed vessels, he wrote, judiciously stationed at the entrances of our ports, might at a small expense be made useful sentinels of the laws.
+
+In September of seventeen eighty nine, Hamilton became the first Secretary of the Treasury of the United States. Which meant that the smuggling problem he had been writing about as a private citizen was now, personally, his problem. The new government had chosen to fund itself almost entirely on import duties, exactly as he had recommended, and smuggling was eating the revenue.
+
+So he went to Congress and asked for the ships. On the fourth of August, seventeen ninety, Congress authorized ten cutters to patrol the coast from Massachusetts to Georgia and enforce the customs laws.
+
+Those ten boats are the ancestor of the United States Coast Guard. It is the oldest continuously serving sea service the country has.
+
+Sit with that sequence for a second, because it is unusual for any writer. In November he describes the remedy in an essay. In January he warns what happens without it. Twenty months later he is the official responsible for collecting the money. Within a year of taking that job, the fleet exists. The Federalist Papers are usually read as argument. This is one of the places where you can watch an argument turn directly into an institution that is still floating.
+
+Now to the harder idea in the first half, and the one economists would not get around to formalizing for another hundred years.
+
+Who actually pays a tariff?
+
+The intuitive answer is the importer, because the importer is the one who hands over the money at the dock. The slightly more sophisticated answer, the one people reach for next, is that the importer just raises his price, so really the customer pays. Hamilton says both answers are too simple, and then he explains why with a precision that is genuinely startling for seventeen eighty eight.
+
+When the demand is equal to the quantity of goods at market, he writes, the consumer generally pays the duty. But when the markets happen to be overstocked, a great proportion falls upon the merchant, and sometimes not only exhausts his profits, but breaks in upon his capital.
+
+In plain English. If the shelves are bare and buyers are competing for what little there is, the seller can add the tax to the price and the buyer will pay it, because where else is the buyer going to go. But if the warehouses are full and goods are sitting unsold, the seller cannot raise the price, because the moment he does the customer buys from someone else. So the seller eats the tax. And if the tax is big enough, he does not just lose his profit. He loses part of what he put in.
+
+Hamilton goes on to say that a division of the duty between the seller and the buyer happens more often than people imagine.
+
+What he has described is what modern economists call tax incidence, which is the study of who bears a tax as opposed to who is billed for it. It is a whole field now. It did not get a systematic treatment until a Columbia economist named Edwin Seligman sat down and wrote one in eighteen ninety two, a hundred and four years after Hamilton tossed the idea off in the middle of a newspaper column. And the answer that field gives is Hamilton's answer, that it depends on how much room each side has to walk away.
+
+So why does that matter beyond the eighteenth century?
+
+Because we ran the experiment again very recently, and the results made news. When the United States sharply raised tariffs in twenty eighteen and twenty nineteen, several teams of economists went looking for where the money actually came from. The headline finding was that foreign exporters did not cut their prices to absorb the tariffs. Which meant the cost stayed on this side of the ocean, landing on American importers and American consumers rather than on the countries being taxed.
+
+That is a very old lesson arriving with new data. The government that levies a tariff names a target. The economy decides who actually pays. Those are not the same decision, and the second one is not up to anybody.
+
+And now Hamilton does something that I think is the bravest move in the essay, because he turns all of this on the people reading it.
+
+He tells New Yorkers that the position many of them hold would hurt New York worse than anyone.
+
+The argument goes like this. Some states can supply a lot of their own needs from their own workshops. Those states buy fewer imported goods relative to how wealthy they are, so under an imports only system they underpay. States that import heavily overpay. And New York was the importing state.
+
+New York is an importing State, he writes, and is not likely speedily to be, to any great extent, a manufacturing State. She would, of course, suffer in a double light from restraining the jurisdiction of the Union to commercial imposts.
+
+Now, to feel how pointed that is, you need to know what New York's finances actually looked like in seventeen eighty eight.
+
+New York had its own state tariff, adopted in seventeen eighty four, and that tariff was the cornerstone of the whole state government. In the years under the Articles of Confederation it brought in somewhere between a third and a half of New York's entire annual income.
+
+And here is the part that made it beloved. Much of it was paid by people who did not live in New York. About half of everything Connecticut and New Jersey imported from abroad came in through the port of New York, which meant Connecticut farmers and New Jersey shopkeepers were quietly helping to fund the government in Albany every time they bought anything from overseas. Governor George Clinton, who led the opposition to the Constitution in that state, had built a recovery program on that money. In February of seventeen eighty seven the New York Assembly had killed the proposed federal tariff while carefully keeping the state one alive.
+
+So Hamilton is writing to a public that has grown comfortable with a tax that somebody else pays. And what he is telling them, in the politest possible language, is that the arrangement they are defending would flip that around and make them the ones paying.
+
+Which is not how you flatter an audience. It is how you level with one.
+
+And that is the end of the money half of the essay. What comes next looks like a different subject, and it is the reason people still argue about this paper.
+
+The objection Hamilton takes up is one he says his opponents repeated more than any other. The House of Representatives, they said, is simply too small. Too few seats to hold every kind of person in the country. Farmers, tradesmen, shopkeepers, laborers. If those classes have no members of their own in the room, how can the room possibly understand them, let alone tax them fairly?
+
+You can hear why that argument worked. It sounds like democracy itself.
+
+Hamilton calls it fair sounding words, and then he takes it apart, and the first swing is the one people remember.
+
+The idea of an actual representation of all classes of the people, by persons of each class, he writes, is altogether visionary.
+
+Visionary, in the eighteenth century, was not a compliment. It meant dreamy. Unreal. A thing that exists in the imagination and nowhere else.
+
+And his reason is not that such people should not be elected. His reason is that they will not be, and that the ones not electing them will be the very people the argument is trying to help.
+
+Unless the Constitution literally required each occupation to send a member, he says, it would simply never happen, because tradesmen and manufacturers will vote for merchants instead. Given a free choice, working people will hand their votes to the commercial class.
+
+At this point you might reasonably be wondering why on earth they would do that.
+
+Hamilton gives three reasons, and they get progressively harder to hear.
+
+The first is economic, and it is fair enough. The crafts supply the raw material of trade. Many tradesmen work directly with merchants. Their fortunes rise and fall together, and they know it. The merchant, he says, is their natural patron and friend.
+
+The second is about leverage. A merchant carries weight in a room. When something hostile to trade and manufacturing starts moving through a legislature, the man with standing and connections is better equipped to stop it than a man without them.
+
+The third is the one that stings, and I am not going to soften it, because softening it would be dishonest. Hamilton says tradesmen themselves are aware that their habits in life have not given them what he calls acquired endowments. Education. Training in argument. The particular skills of a deliberative assembly. And without those, he says, even the greatest natural ability is mostly useless in such a room.
+
+He is saying that working people know they would be outmatched, and sensibly send someone who will not be.
+
+Whether that is clear eyed realism or pure class condescension is an argument that has never ended. It is probably some of both. But notice that Hamilton has put himself in a testable position, and the test came quickly, in his own city, six months later.
+
+Let me put you on Broadway on the twenty third of July, seventeen eighty eight.
+
+New York's convention had been sitting up in Poughkeepsie since the seventeenth of June, and it had opened badly for Hamilton. The delegates split forty six to nineteen against the Constitution. Every single Federalist delegate came from four places, the counties around New York City. Everywhere else in the state had sent opponents. The city was for it. The countryside was against it.
+
+So the city threw a parade, and it was not really a celebration. It was pressure. The Federalists organized it hoping the noise would carry seventy five miles up the Hudson and move the delegates who were still deciding.
+
+Roughly five thousand people marched. The column ran more than a mile and a half, organized into ten divisions, one for each state that had ratified so far. And the people marching were the tradesmen of the city, walking under their own banners, by craft. Foresters and farmers. Tailors and bakers and brewers. Coopers, butchers, cordwainers, carpenters. Blacksmiths, ship joiners, sail makers. The blacksmiths brought a working forge and hammered out an anchor as they went, chanting a little verse over the anvil. Forge me strong, finish me neat, I soon shall moor a Federal fleet.
+
+And the centerpiece, the thing everyone came to see, was a ship.
+
+It was a model of a thirty two gun frigate, twenty seven feet along the keel, ten feet across, crewed by more than thirty men dressed as sailors and marines, mounted on a carriage and pulled through the streets of Manhattan by ten horses.
+
+It was named the Hamilton.
+
+Now hold that image against the sentence he had published six months earlier. The tradesmen of New York, in their thousands, turning out by trade to haul a warship named for a lawyer through the streets, in support of a constitution written mostly by lawyers and merchants, three days before a convention full of landholders and lawyers would decide the question for them. The delegates the city had actually sent were merchants, bankers, land speculators, and attorneys. Men like Nicholas Low and Comfort Sands and Alexander Macomb.
+
+Hamilton said working people would put the commercial class in the room and cheer for them. And that is what New York City did.
+
+On the twenty sixth of July, three days later, the convention ratified, thirty votes to twenty seven. The narrowest margin in the country.
+
+But I want to give you the other half of that day, because leaving it out would make the parade into propaganda, and the truth is better than propaganda.
+
+That same night, when word of ratification reached the city, a mob of about five hundred men went to the home of Thomas Greenleaf. Greenleaf was a printer, and his paper had been the main outlet in New York for essays against the Constitution. He woke around one in the morning, went to the window with two pistols, and fired into the crowd. They came through the door with axes anyway, scattered and destroyed his type, and ruined the shop. He got his family out the back.
+
+So the unanimity on display in that procession was partly real and partly an absence. One Anti Federalist printer noted that the people who disagreed had mostly stayed home and minded their own business. Some of them, we now know, had extremely good reasons to.
+
+Hamilton was right about how working New Yorkers would vote. He was not describing a city that had freely and calmly agreed. He was describing a city where agreeing was much easier than not.
+
+Now to the claim in this paper I think is simply wrong, and wrong in a way his own state would eventually prove.
+
+Having disposed of tradesmen and the learned professions, Hamilton arrives at the last group, and makes his most confident statement of the day.
+
+Nothing remains but the landed interest, he writes, and this, in a political view, and particularly in relation to taxes, I take to be perfectly united, from the wealthiest landlord down to the poorest tenant.
+
+His argument is that a tax on land hits the owner of a million acres and the owner of one acre in the same direction, so everybody who touches land wants land taxes low, and common interest is the surest bond there is.
+
+There is a problem sitting right inside the sentence. A tenant is, by definition, a person who does not own the land. The tenant pays rent to the landlord. Their interests are not aligned. Their interests are the opposite of aligned, and Hamilton has quietly included the tenant in the landlord's camp by calling them both the landed interest.
+
+And of all the states in which to make that particular mistake, he made it in New York.
+
+Because up the Hudson from where he was writing sat the Van Rensselaer manor, an estate of roughly seven hundred thousand acres. It covered most of what are now Albany and Rensselaer counties and reached into two more. It was not farmland owned by farmers. It was a patroonship, a survival of the old Dutch system, and the families on it were tenants holding perpetual leases. They could work the land forever and never own it. If a tenant sold his lease, a quarter of the sale price went to the landlord.
+
+So why would anyone sign a deal like that?
+
+Because at the beginning it looked generous. The land was wilderness. You got a farm you could not otherwise have afforded, at a rent that was fixed and modest, on a lease that ran for a lifetime or forever depending on the paper in front of you. What nobody weighed properly was that last word. The farm your grandfather cleared and drained and fenced and built on was worth many times what it had been worth when he made his mark. And none of that increase was yours. Three generations of a family could pour their working lives into improving somebody else's asset, still owe rent on it every year, and still hand over a quarter of the price if they ever gave up and sold the lease.
+
+Stephen Van Rensselaer the Third held it for decades and was famously easygoing about collecting. He let arrears pile up for years. When he died in eighteen thirty nine, his will instructed his heirs to collect what was owed in order to settle his debts, and the sum they went after was around four hundred thousand dollars.
+
+The tenants refused.
+
+When the sheriff rode out to serve the papers and evict, the farmers of the Helderberg hills turned his posse back by force. What followed ran for six years and is remembered as the Anti Rent War. Tenants organized across counties, disguised themselves, blocked evictions, and made the countryside ungovernable for the landlords. It ended in the state constitution of eighteen forty six, which abolished feudal tenures in New York and made it illegal to write a lease longer than twelve years.
+
+The landed interest, perfectly united from the wealthiest landlord down to the poorest tenant, went to war with itself for six years and had to be separated by a constitutional convention.
+
+Which brings us to the sentence the whole second half has been building toward, and it is a good one.
+
+Hamilton has spent pages arguing that your representative will not look like you. So what, then, actually ties him to you? If it is not shared work, or shared background, or shared class, what is left?
+
+This dependence, he writes, and the necessity of being bound himself, and his posterity, by the laws to which he gives his assent, are the true, and they are the strong chords of sympathy between the representative and the constituent.
+
+Two things, and only two.
+
+The first is that he needs your vote again. The second, and this is the one Hamilton leans on hardest, is that he has to live under whatever he passes. So do his children. He cannot write a law for you and stand outside it.
+
+That is a genuinely different theory of representation than the one most of us carry around. It says the bond is not resemblance. The bond is shared exposure. Your representative is tied to you not because he is like you but because the thing he does to you, he also does to himself.
+
+And I want to be fair to how strong that idea is. It is the reason we notice, and get angry, when officials exempt themselves from their own rules. That instinct is not partisan and it is not modern. It is precisely the chord Hamilton is describing, and we feel it snap.
+
+So how did the whole thing hold up?
+
+Political scientists have a vocabulary for this argument that Hamilton did not have. In nineteen sixty seven, Hanna Pitkin drew a line between descriptive representation, meaning a legislature that resembles the people, and substantive representation, meaning a legislature that acts in their interest. Hamilton is choosing substantive, hard, and declaring descriptive impossible.
+
+On the descriptive question, he has been proven right beyond anything he could have wanted.
+
+Working class Americans, people in manual labor, service, and clerical work, are more than half of the American workforce. The average member of Congress has spent less than two percent of their career before Congress in a job like that. In state legislatures the figure is about one and a half percent of lawmakers, against fifty percent of workers. Two hundred and thirty eight years later, in a country with universal adult suffrage that Hamilton never imagined, the pattern he described is not merely intact. It is close to absolute.
+
+He said working people would not send their own. They do not.
+
+But being right about the prediction is not the same as being right about the conclusion, and the honest ending here is that Hamilton left one question unanswered.
+
+He argued that resemblance does not matter because shared exposure does the work instead. Which is a real argument, and it stands or falls on whether the exposure is genuinely shared. And the further a representative's life gets from the lives of the people he legislates for, the more of that law he can arrange not to feel. If the tax does not reach him, if the school is not his child's school, if the rule has an exception shaped like his own circumstances, then the chord Hamilton is describing has gone slack, and no election by itself puts the tension back.
+
+Hamilton would not have found that objection strange. It is his own logic. He is the one who told us to look at what happens rather than what ought to happen.
+
+And notice, finally, that both halves of the essay end in the same place. A tariff has one name and a different payer. A representative has one biography and a different bond. In both cases Hamilton is telling you not to trust the label, and to go looking for the mechanism underneath it, because the mechanism is where the truth is.
+
+He closes the paper by saying that no part of governing demands as much real knowledge as taxation does, and that the most productive system of finance will always be the least burdensome. Which sounds like a paradox and is not. A tax system that people can live with is a tax system people actually pay.
+
+This has been The Federalist Papers: Explained. Episode Thirty Five. Next time: Federalist Number Thirty Six, still Alexander Hamilton, the last of his great run on taxation. He finally faces the spectres his opponents have been raising for six essays. Double sets of tax collectors swarming the country. A duplicated burden. And above all the return of the poll tax, the head tax levied on a person simply for existing. His answer to that last one is not what anybody expects, because he begins by agreeing. He says plainly that he dislikes poll taxes and would be sorry to see the new government use them. And then he explains why he still will not let anyone write a ban on them into the Constitution.
