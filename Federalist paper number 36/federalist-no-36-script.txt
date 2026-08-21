@@ -1,0 +1,189 @@
+At the end of the last episode we watched Hamilton make an argument that most people find uncomfortable the first time they hear it. He said that the people you elect will almost never look like you. They will be landowners, merchants, and men of the learned professions, essentially forever, and no amount of good intention will change that. And then he said it does not matter. What ties a representative to you is not that his life resembles yours. It is that the law he writes lands on him too.
+
+We spent that episode on a single idea underneath both halves of the paper. The name on a thing is not the thing. A tariff has one name and a different payer. A representative has one biography and a different bond. Do not trust the label. Go find the mechanism.
+
+Today Hamilton finishes. This is Federalist Number Thirty Six, published in the New York Packet on the eighth of January, seventeen eighty eight. Still Alexander Hamilton. Still signed Publius. And it is the last of seven straight essays on the same question, which is how the new government would get its hands on money.
+
+The timing is worth holding in your head. The day after this essay appeared, Connecticut ratified the Constitution, a hundred and twenty eight votes to forty. That made five states. And in Massachusetts, a convention was gathering that would turn into the hardest fight yet.
+
+So Hamilton is writing on a rising tide, and you can hear it in the essay. He is not building anymore. He is cleaning up.
+
+Now, cleaning up sounds like the least interesting thing a writer can do. And if you read this paper quickly, it does look like a list of small technical answers to small technical complaints. That impression is wrong, and I want to show you why, because underneath the housekeeping there is one move that Hamilton makes over and over, and it is one of the most useful things in the whole series.
+
+Here is the move. Every single objection he answers in this paper has the same shape. Each one says: they could do something terrible. And Hamilton never once answers the way you expect a politician to answer. He never says they would not. He never asks you to trust anybody's character. Instead, every time, he asks a different question. What would it actually cost them to do the terrible thing, and what would they get out of it?
+
+That is an argument about incentives rather than intentions. It is the hardest kind of argument to make and the only kind worth much, because intentions change with the next election and incentives mostly do not.
+
+Before he gets there, he has one piece of leftover business from the last paper, and it is worth two minutes because it softens something that sounded harsh.
+
+In Federalist Number Thirty Five he had said the legislature will consist almost entirely of landholders, merchants, and members of the learned professions. An obvious objection is that this is just false. Go look at your state assembly. There are farmers in there. There are shopkeepers. Hamilton concedes it immediately. He says yes, there are exceptions, and then he says something I did not expect from him.
+
+There are strong minds in every walk of life that will rise superior to the disadvantages of situation, and will command the tribute due to their merit, not only from the classes to which they particularly belong, but from the society in general. The door ought to be equally open to all.
+
+The door ought to be equally open to all. That is Hamilton, the man who spent the previous essay explaining why a blacksmith will not be elected, saying plainly that nothing should stop one. He is drawing a line between a prediction and a permission. His prediction is that most legislators will come from three or four walks of life. His permission is that anyone should be allowed to try. He is not saying the outcome is right. He is saying it is likely, and that the rule should stay open anyway.
+
+He also makes one last jab at the objection itself. If the worry is that your trade needs someone from your trade in the room, then which trade? He asks what greater affinity there is between the carpenter and the blacksmith, or the linen manufacturer and the stocking weaver, than between any of them and the merchant. His point is that these trades are not one interest. They compete with each other. There is no single working man's seat that would satisfy them all. And then he drops the whole subject with a marvelous piece of dismissal, saying it has worn too loose a garb to admit even of an accurate inspection of its real shape or tendency. Roughly: this complaint is so baggy I cannot see what shape it is.
+
+Now the real business of the paper.
+
+And Hamilton opens it by naming his opponents' method out loud, in a sentence that gives this episode its spine.
+
+Many spectres have been raised out of this power of internal taxation, to excite the apprehensions of the people: double sets of revenue officers, a duplication of their burdens by double taxations, and the frightful forms of odious and oppressive poll taxes, have been played off with all the ingenious dexterity of political legerdemain.
+
+Spectres. Ghosts. Legerdemain is sleight of hand, the word you would use for a stage magician. Hamilton is saying his opponents are not making arguments. They are doing a magic act, and the trick is to make you look at a thing that is not there.
+
+And he names the three ghosts precisely. First, two armies of tax collectors instead of one. Second, your tax bill arriving twice. Third, and worst, the poll tax, a flat charge levied on a person for the crime of existing.
+
+Hold those three. We are going to take them in a different order than he does, because there is something he has to clear away first.
+
+Because there is a fourth objection in this essay that is not a ghost at all. It is the practical one, and it is the one a reasonable person would actually raise.
+
+The objection goes like this. Congress sits in one city. It is made up of a few dozen men from thirteen very different places. How on earth would those men know enough about my county to tax it fairly? They do not know our soil. They do not know what a farm here is worth in a bad year. They will guess, and the guess will be wrong, and I will pay for the guess.
+
+That is a serious complaint, and Hamilton takes it seriously. But watch how he answers, because he does not defend the competence of Congress. He attacks the premise.
+
+He asks how a state legislature handles the same problem. When something comes up in one county, how does the assembly in the capital learn about it? From the members who came from that county. That is the entire mechanism. And Hamilton says the national legislature has exactly the same mechanism, one step up. The men sent from each state carry the knowledge of that state with them.
+
+Then he asks what kind of knowledge we are even talking about. Is it, in his words, a minute topographical acquaintance with all the mountains, rivers, streams, highways, and bypaths in each State? Or is it a general acquaintance with a place's situation, its resources, the state of its farming and its trade, what it makes and what it consumes?
+
+That question does a lot of work in very little space. Nobody, at any level of government, has ever needed to know the bypaths in order to set a tax rate. What you need to know is roughly what a place produces and roughly what it can bear. And that is exactly the kind of knowledge that travels well.
+
+But the answer that actually settles the objection is the next one, and it is so simple that Hamilton put it in capital letters in the original.
+
+The national legislature can make use of the system of each State within that State.
+
+Read that again, because it is the most practical sentence in seven essays. He is saying the new government does not have to invent anything. Every state already has a way of valuing land and collecting money on it. Some do it by permanent valuations, some by periodic ones, some by sending officers around to make a judgment. Fine, says Hamilton. Whatever your state already does, the federal government can just do that, in your state.
+
+And notice what falls out of this. If the federal government uses your state's existing method, then it uses your state's existing people. The men who knock on your door are the same men who already knock on your door. Hamilton spells this out later: the law only needs to name the officers, say how they are chosen, fix how many there are, and sketch the outline of what they may do. The actual work, the part that requires knowing your county, gets handed to people who live in your county.
+
+So why does that matter? Because it makes the whole objection evaporate. You cannot complain that a distant government does not know your farm if the person assessing your farm is your neighbor.
+
+And here is the thing worth noticing. That is not a historical curiosity. It is how enormous parts of the American government still run.
+
+Your federal income tax is federal all the way down. But the property tax that pays for your schools is assessed by a county office. Medicaid is paid for largely with federal money and administered by your state, which is why the program looks different depending on which side of a state line you sleep on. Unemployment insurance is a federal framework with the actual benefits run through a state agency. Federal highway money mostly gets spent by state transportation departments.
+
+There is a name for this in political science, cooperative federalism, and the plain English version is Hamilton's version. The national government sets the outline and writes the check. Somebody local does the work. He sketched that arrangement in a newspaper column in January of seventeen eighty eight and it is a fair description of how a large share of the modern federal budget actually reaches the ground.
+
+So the prediction is good. Now let me show you what happened the first time somebody actually tried it.
+
+Ten years later, in the summer of seventeen ninety eight, the United States was drifting toward a war with France. Congress needed money in a hurry, and it did the thing Hamilton had spent seven essays insisting the government must be able to do. It reached inside the country and taxed property directly. Two million dollars, apportioned among the states exactly as the Constitution requires. Pennsylvania's share came to two hundred and thirty seven thousand dollars.
+
+The tax fell on land, on houses, and on enslaved people. And for houses, the law needed a way to estimate value quickly, without a real appraisal of every dwelling in America. So it used a proxy. Windows. The number of windows a house had, and how big they were.
+
+Now think about what that means in practice. It means that to collect this tax, somebody has to walk up to your house, stand in your yard, and count your windows. Measure them, in some cases. Write your house down in a book.
+
+In the German farming counties north of Philadelphia, in Bucks and Northampton and Montgomery, that did not go well.
+
+Part of it was the sheer intrusiveness of it. These were people who had left European states where officials came around and inventoried what you owned, and they had not expected to see it here. Part of it was who the assessors were. Many of them were Quakers and Moravians, from communities that had not fought in the Revolution, and they were now measuring the windows of men who had. That detail was remembered and it stung.
+
+The resistance started with refusal, then went further. Assessors would knock, and women would open the upstairs windows, the very windows the men had come to count, and pour boiling water down on them. That is not a legend anybody invented afterward. The uprising is still known in Pennsylvania German as the hot water war.
+
+By early seventeen ninety nine an itinerant auctioneer named John Fries, a veteran of the Revolution, was holding meetings about what to do. In March a federal marshal named Nichols arrested about a dozen tax resisters and held them at the Sun Inn in Bethlehem while he waited to move them to Philadelphia. On the seventh of March, seventeen ninety nine, Fries marched on the inn with an armed crowd. Accounts of its size vary a great deal, from around a hundred and forty men up to four hundred. Either way the marshal was badly outnumbered, and after some negotiating he handed the prisoners over.
+
+Fries was arrested, tried for treason, convicted, tried a second time, convicted again, and sentenced to hang. In May of eighteen hundred, President John Adams pardoned him and issued a general amnesty. It cost Adams dearly inside his own party and it is one of the better decisions of his presidency.
+
+At this point you might be wondering what all of that does to Hamilton's argument. It bruises it in a very specific way, and it is worth being precise about how.
+
+Because here is what the government actually did in seventeen ninety eight. It did not use the states' systems. It did not use the states' officers. It built its own. Each state got a federally appointed board of commissioners with the power to carve the state into districts and to raise or lower valuations. Beneath them, well over fifteen hundred federal assessors went out to put a number on essentially every house and farm in the country, with several hundred more senior federal officers hearing appeals from people who thought their number was too high.
+
+That is the first ghost, the one Hamilton called impossible, walking around in daylight ten years later. Two sets of officers. Federal men counting your windows.
+
+And it is fair to say that Hamilton did not build it. He had left the Treasury three years earlier and this was Adams's government, not his. But it was his power, argued for in his essays, and the first serious use of it went almost exactly the way his opponents said it would and almost nothing like the way he said it would.
+
+Which brings us to the safeguards, because Hamilton does not rest the whole case on good behavior. He points at two things written into the document itself.
+
+The first is that direct taxes are not left to the discretion of Congress at all. They are apportioned among the states by population, under the second section of the first article. Congress decides the total. The Constitution decides each state's share. Hamilton says a census effectually shuts the door to partiality or oppression, meaning that Congress cannot single out New York, or Virginia, for punishment, because the arithmetic is fixed before anybody votes.
+
+Two honest notes about that. First, it is a strange and blunt instrument. If two states have the same population, they owe the same amount, no matter that one is rich and one is poor. Apportionment protects you from favoritism by refusing to look at anything except how many people you have. Second, the census clause he is pointing at is the same clause that counted an enslaved person as three fifths of a person for exactly this purpose. The safeguard Hamilton is offering here is built out of that arithmetic, and it is worth saying so plainly rather than walking past it.
+
+The second safeguard is the uniformity rule. All duties, imposts, and excises shall be uniform throughout the United States. Whatever the tax on imported sugar is, it is the same in Charleston as in Boston.
+
+Now here is where the story gets almost too good, because Hamilton lived long enough to argue about his own safeguard, in front of the Supreme Court, and to help narrow it.
+
+In seventeen ninety four Congress taxed carriages. Not imported carriages. Carriages you owned and kept for your own use. And immediately the question arose: is that a direct tax? Because if it is, it has to be apportioned by population, and a tax on carriages cannot possibly be apportioned by population, since carriages are not distributed like people.
+
+The case was arranged to get an answer. A wealthy Virginian named Daniel Hylton was sued by the government for not paying, and the two sides simply agreed on the facts rather than going to trial. Hylton stipulated that he had kept a hundred and twenty five chariots for his own private use, a number chosen to push the amount in dispute high enough for the Supreme Court to hear it. Nobody involved was really arguing about Daniel Hylton's carriages. They were arranging a test.
+
+The case was argued in February of seventeen ninety six. And appearing for the government, defending the tax program he had designed as Treasury Secretary, was Alexander Hamilton. It was the only time he ever argued before the Supreme Court.
+
+He won. The Court held that the carriage tax was not a direct tax and therefore did not need apportionment. Direct taxes, the justices reasoned, were essentially taxes on land and head taxes on people, and not much else. Madison thought the ruling was wrong. Jefferson thought so too.
+
+You might ask why this matters to us. It matters because of what it set up. If direct taxes are a narrow category, then Hamilton's apportionment safeguard covers very little. And in eighteen ninety five the Supreme Court went the other way and struck down a federal income tax on the ground that it was a direct tax that had not been apportioned. The country's response was to remove the obstacle entirely. The Sixteenth Amendment, ratified in nineteen thirteen, lets Congress tax income from any source without apportioning it among the states at all.
+
+So the guardrail Hamilton points at in this essay is, for the tax that most Americans actually pay, gone. Not overthrown by anybody's bad faith. Amended away, in the open, by the country that inherited it.
+
+Back to the ghosts, because two remain.
+
+The second one is double taxation. The fear is straightforward: right now I pay my state, and afterward I will pay my state and the new government too, so my burden doubles.
+
+Hamilton's answer is arithmetic, and it is the cleanest thing in the paper. The wants of the Union have to be supplied one way or another. If the federal government raises the money, then the states do not have to. The quantity of taxes to be paid by the community must be the same in either case. Two hands in your pocket is not two bills, if what is being taken out is a fixed total. You are not being charged twice. You are being charged once by two different offices.
+
+Then he adds something that would surprise anyone who thinks of Hamilton purely as the friend of the wealthy. He argues that a government with real revenue powers will find it in its own interest to go as far as it practically can in making, as he puts it, the luxury of the rich tributary to the public treasury, precisely so it does not have to reach for the taxes that anger the poorer and more numerous part of the country. And then he says it is a happy thing when a government's interest in keeping its own power happens to line up with protecting the least wealthy part of the community from oppression.
+
+That is a claim about self interest, not about virtue, which is very much his style. Whether it held up is a longer argument than this episode, and honest people land in different places on it. What is worth noticing is the structure of the claim. He is not promising that the rulers will be kind. He is saying that a government which needs to keep collecting has a reason not to squeeze the people most likely to riot.
+
+And now the deepest idea in the paper, which is easy to miss because Hamilton spends only a paragraph on it. It answers a question you have probably been holding since the start of this episode. Why would anyone fight this hard for a power they are hoping not to use?
+
+Somebody had proposed a compromise. If internal taxation turns out to be inconvenient, the federal government can always stop and go back to asking the states for money instead. Requisitions, the old system from the Articles of Confederation that we watched fail across Episodes Fifteen and Sixteen. And an opponent asked the obvious follow up. If requisitions are the backup, why not just make them the plan and leave this frightening power out of the document altogether?
+
+Hamilton gives two answers. The first is ordinary: direct taxation, if it works, is better, and you cannot know whether it works without trying. The second answer is the interesting one.
+
+The existence of such a power in the Constitution will have a strong influence in giving efficacy to requisitions. When the States know that the Union can apply itself without their agency, it will be a powerful motive for exertion on their part.
+
+Sit with that, because it is a genuinely different way to think about power. Hamilton is saying that the taxing power does its most important work when it is not used. A state that knows the federal government cannot reach past it will pay when it feels like it. A state that knows the federal government can go collect the money directly will pay on time, so that nobody comes. The power is not a hammer. It is the reason the hammer stays on the shelf.
+
+You already understand this from ordinary life. The reason a contract gets honored is usually not that anyone sues. It is that everyone knows suing is available. Deterrence works exactly this way, and so does an audit you will never receive, and so does a rule your employer has never had to invoke. The visible use of a power is a tiny fraction of its effect.
+
+That idea is the bridge to the last ghost, and it is the one Hamilton saved for the end because it is the one people were most afraid of.
+
+The poll tax. A flat charge on a human being, the same for the rich man and the poor one, owed because you exist. It is the most regressive tax anyone has ever devised, and eighteenth century Americans knew it in their bones.
+
+Hamilton opens on it in a way nobody expects. He agrees.
+
+As to poll taxes, I, without scruple, confess my disapprobation of them. And a few words later: I should lament to see them introduced into practice under the national government.
+
+Understand how unusual that is. He is in the middle of a ratification fight, arguing for a document, and he stops to say that one of the powers in it is a power he personally dislikes and hopes is never used. He is not spinning. He is conceding.
+
+So a fair question here is why he does not simply agree to strike it out. If he dislikes the thing, and his opponents dislike the thing, that looks like the easiest concession in the entire ratification debate. He will not make it, and the reason is the whole point of this paper.
+
+And he knew exactly what he was conceding. In his own footnote he says poll taxes had long been used by the states most jealous of their rights, and he names them: the New England states. Massachusetts in particular leaned on a head tax heavily. Estimates of how heavily vary, somewhere around a third of what the state collected, with some accounts putting it higher. It fell on farmers in the western part of the state who lived largely by barter and rarely saw hard money at all.
+
+And about a year and a half before Hamilton wrote this essay, those farmers rose. Shays' Rebellion, which we met back in Episode Six, was in significant part a tax revolt, and the head tax was one of the grievances underneath it. Hamilton is writing about poll taxes as an abstract power roughly eighteen months after a poll tax helped set off the armed uprising that frightened the entire American political class into meeting in Philadelphia in the first place.
+
+So when he says he dislikes them, he is not posturing. He has seen the bill.
+
+And then he refuses to give the power up, and his reasoning is the reasoning of this whole episode. He asks: does it follow, because there is a power to lay them, that they will actually be laid? Every state already has this power. In several states it is simply never used. Are we going to call those state governments tyrannies for possessing an authority they decline to exercise? If not, why is the same authority damning in the new government?
+
+Then he makes the case for keeping a tool you hope to leave in the drawer. There are emergencies, he says, in which measures that ought to be avoided in ordinary times become essential, and a government ought to have the option. There may exist certain critical and tempestuous conjunctures of the State, in which a poll tax may become an inestimable resource. And he finishes with this.
+
+I acknowledge my aversion to every project that is calculated to disarm the government of a single weapon, which in any possible contingency might be usefully employed for the general defense and security.
+
+Never disarm the government of a single weapon. That is the sentence, and it is the argument that every emergency power in every constitution since has rested on. You do not write your rules for the ordinary Tuesday. You write them for the worst week you can imagine, and then you hope the drawer stays shut.
+
+Now. History has something to say about that, and it does not let anybody off easily.
+
+The poll tax did not disappear. It moved. Beginning in the eighteen nineties, southern states rewrote their constitutions and attached the poll tax to something Hamilton never contemplated. Not to revenue. To the ballot. You paid your poll tax, or you did not vote. Often the payments accumulated, so a man who had missed a few years had to clear all of them at once before he could register.
+
+The effect was exactly what it was designed to be. It removed Black voters from the rolls across the South, and it removed a great many poor white ones as well. In nineteen thirty seven, in a case called Breedlove against Suttles, the Supreme Court looked at Georgia's version and unanimously upheld it.
+
+It took two separate acts of the country to undo. The Twenty Fourth Amendment, ratified in January of nineteen sixty four, banned the poll tax as a condition of voting in federal elections. Five states still used one at that point: Alabama, Arkansas, Mississippi, Texas, and Virginia. And because that amendment reached only federal elections, poll taxes survived in state elections for two more years, until nineteen sixty six, when the Supreme Court struck them down entirely in Harper against the Virginia Board of Elections, six votes to three.
+
+I want to be careful about what this does and does not prove, because it would be easy to be unfair here.
+
+Hamilton was arguing about a federal head tax used to raise money in an emergency. The poll taxes that disenfranchised millions of Americans were state taxes, levied under a power every state already had, doing a job that has nothing to do with revenue. He did not create them and no reading of this paper causes them. On that, he is clear.
+
+But his central claim in this passage is not narrow. His claim is that possessing a power tells you very little about how it will be used, and that we should judge governments by what they do rather than by what they could do. And he offers as proof the very thing that later fails. Look at the states, he says. Several of them have this power and never touch it. Are they tyrannies?
+
+The honest answer, from the far side of two centuries, is that some of them became exactly that, using this exact tax, in a way he did not foresee, because the name stayed the same while the machinery underneath it was rebuilt for a different purpose. Which is, of course, the lesson from the last episode arriving from a direction nobody wanted. The label is not the thing. A poll tax in seventeen eighty eight was a way to raise money. A poll tax in nineteen thirty seven was a way to keep people from voting. Same two words.
+
+Hamilton was right that a power is not a prophecy. He was wrong to be as comforted by it as he was.
+
+And with that, he stops. The last paragraph of Federalist Number Thirty Six is a man setting down a load. He says he has now gone through the powers proposed for the new government that relate to what he calls the energy of the government, and has tried to answer the main objections to them. He passed over the smaller powers, either because nobody bothered to attack them or because nobody could. The judiciary, he says, would have belonged in this section, but it makes more sense to take it up whole later.
+
+That is the end of a run of fourteen essays that began back at Federalist Number Twenty Three. Standing armies, the militia, the power to defend the country, and then seven straight papers on money. All of it answering one question: is this government allowed to be strong enough to survive.
+
+And here is what makes this a genuine turning point rather than just another sign off. The Federalist Papers are usually divided into parts, and this is the seam. Everything so far has been about why the union is worth having and why a real government is necessary to hold it. Everything after this is about the thing they actually built. The structure. The branches. The separations. The checks.
+
+Which means that starting next time, we get a new writer.
+
+This has been The Federalist Papers: Explained. Episode Thirty Six. Next time: Federalist Number Thirty Seven, published on the eleventh of January, seventeen eighty eight, and it is James Madison, taking the pen back for a long stretch. And he does something completely unlike anything we have seen in this series so far. He does not open by arguing that the Constitution is good. He opens by arguing that writing one at all was nearly impossible. He walks his readers through how hard the convention's job actually was, why the result is imperfect, and why he thinks the imperfection is not a scandal but the ordinary price of a group of human beings trying to design a government using words. It is the most modest paper in the collection, and it might be the wisest.

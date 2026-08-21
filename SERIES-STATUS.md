@@ -2,9 +2,9 @@
 
 ## Overview
 - Total papers: 85
-- Episodes completed: 35 (audio produced)
-- Episodes scripted: 35
-- Next episode to produce: Episode 36 (Federalist No. 36)
+- Episodes completed: 36 (audio produced)
+- Episodes scripted: 36
+- Next episode to produce: Episode 37 (Federalist No. 37)
 
 ## Episode Status
 
@@ -45,7 +45,8 @@
 | 33 | The Clause That Added Nothing | Hamilton | DONE | DONE | - |
 | 34 | The Bill You Can't See Coming | Hamilton | DONE | DONE | - |
 | 35 | Nobody in Congress Looks Like You | Hamilton | DONE | DONE | - |
-| 36-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
+| 36 | The Power He Hoped Nobody Would Use | Hamilton | DONE | DONE | - |
+| 37-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
 
 ## Authorship reference (first 10 papers)
 1. Hamilton
