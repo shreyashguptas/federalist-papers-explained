@@ -2,9 +2,9 @@
 
 ## Overview
 - Total papers: 85
-- Episodes completed: 30 (audio produced)
-- Episodes scripted: 30
-- Next episode to produce: Episode 31 (Federalist No. 31)
+- Episodes completed: 32 (audio produced)
+- Episodes scripted: 32
+- Next episode to produce: Episode 33 (Federalist No. 33)
 
 ## Episode Status
 
@@ -40,7 +40,9 @@
 | 28 | The People Hold the Balance | Hamilton | DONE | DONE | - |
 | 29 | The Citizen in Arms | Hamilton | DONE | DONE | - |
 | 30 | The Power of the Purse | Hamilton | DONE | DONE | - |
-| 31-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
+| 31 | The Rules of the Argument | Hamilton | DONE | DONE | - |
+| 32 | What the States Kept | Hamilton | DONE | DONE | - |
+| 33-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
 
 ## Authorship reference (first 10 papers)
 1. Hamilton
