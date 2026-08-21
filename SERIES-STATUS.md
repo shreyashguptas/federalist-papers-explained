@@ -2,9 +2,9 @@
 
 ## Overview
 - Total papers: 85
-- Episodes completed: 33 (audio produced)
-- Episodes scripted: 33
-- Next episode to produce: Episode 34 (Federalist No. 34)
+- Episodes completed: 34 (audio produced)
+- Episodes scripted: 34
+- Next episode to produce: Episode 35 (Federalist No. 35)
 
 ## Episode Status
 
@@ -43,7 +43,8 @@
 | 31 | The Rules of the Argument | Hamilton | DONE | DONE | - |
 | 32 | What the States Kept | Hamilton | DONE | DONE | - |
 | 33 | The Clause That Added Nothing | Hamilton | DONE | DONE | - |
-| 34-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
+| 34 | The Bill You Can't See Coming | Hamilton | DONE | DONE | - |
+| 35-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
 
 ## Authorship reference (first 10 papers)
 1. Hamilton

@@ -1,0 +1,237 @@
+At the end of the last episode, Hamilton had just finished calling the two most feared sentences in the Constitution harmless.
+
+The necessary and proper clause and the supremacy clause. Brutus had built his entire case on them. Hamilton's answer was that they add nothing at all. They are declaratory. They describe what having a power already means. Strike them both out of the document, he said, and the government's power would be exactly what it was before. That is why they are harmless. Not because they are small. Because they are honest.
+
+And then, in his last paragraph, he made a promise. He said he would show that letting both governments tax the same people was not an awkward compromise the Convention settled for. It was the only admissible substitute for putting the states entirely under the union in matters of money. Not the ideal arrangement. The only workable one.
+
+Today he pays that.
+
+This is Federalist Number Thirty Four, and it ran in the New York papers in the first days of January, seventeen eighty eight. Still Alexander Hamilton. Still signed Publius. The sources actually disagree by a day about which morning it appeared, and that small mess tells you something true about how fast this was all moving.
+
+Because look at the pace the man was keeping. Federalist Number Thirty ran on the twenty eighth of December. Number Thirty Six would run on the eighth of January. That is seven essays, each of them around two thousand words, in twelve days, on a single subject, while he was also practicing law. And he was not writing into silence. On the third of January, Brutus published his seventh essay, demanding that the Constitution set defined limits on what Congress could raise and how much. Hamilton is answering him inside of a day.
+
+Four states had ratified by then. Delaware, Pennsylvania, New Jersey, and Georgia. Connecticut would make five before the week was out. New York, the state all of this was actually aimed at, had still not moved at all.
+
+Now, before we get to the argument, I want to flag what makes this paper unusual, because it is the reason we are giving it an episode.
+
+Eighty five essays, and this is the one where Hamilton does something none of the others do. He makes a forecast. A real one. About the far future, with a number attached, in writing, where anybody can check it.
+
+He tells you what American government is going to cost. He tells you which of the two governments is going to do the expensive part. And then he puts an actual figure on the other one.
+
+Two hundred and thirty eight years later, we get to grade his work.
+
+And the grade is strange. Because he got the number spectacularly wrong. Not a little wrong. Wrong by a factor you would not believe if I said it out loud right now. And at the same time, the rule he built on top of that wrong number turned out to be so right that it is fair to wonder whether the country would have survived without it.
+
+That is the episode. How a man can be that wrong about the answer and that right about the method.
+
+So let me start with the method.
+
+Hamilton says that when you write a constitution, you are not writing a budget for next year. You are writing rules for people who have not been born yet, who will face problems you cannot picture.
+
+Here is how he says it.
+
+Constitutions of civil government are not to be framed upon a calculation of existing exigencies, but upon a combination of these with the probable exigencies of ages, according to the natural and tried course of human affairs.
+
+Exigencies just means pressing needs. The things that have to be paid for, right now, whether you planned for them or not. And his claim is that if you size a government's powers to the emergencies you can currently see out your window, you have built something that breaks the first time history does something new.
+
+Then he takes that idea and drives it to the only place it can go.
+
+There ought to be a capacity to provide for future contingencies as they may happen; and as these are illimitable in their nature, it is impossible safely to limit that capacity.
+
+That sentence is the whole paper compressed into one line, so it is worth taking slowly.
+
+The needs are illimitable. Not large. Not hard to predict. Illimitable, meaning there is no ceiling on them, because there is no ceiling on what can go wrong in the world. And if the thing you are trying to cover has no ceiling, then any ceiling you put on your ability to cover it is a guess about how bad things are allowed to get. You are not being prudent. You are betting.
+
+At this point a fair question is why the estimate has to be so hopeless. Surely you could sit down with the numbers and work out a generous provision, add a cushion for bad years, and cap it there. That is what any careful person would do with a household budget.
+
+Hamilton anticipates exactly that, and his answer is not an argument. It is a challenge. Bring me your data, he says. Anyone can assert in general terms that a rational judgment about probable dangers is possible. Fine. Produce the figures. And he predicts they would turn out to be about as solid as a calculation of how long the world is going to last.
+
+He is being a little unfair and mostly right, and you can test it against your own lifetime. Nobody drafting a government budget in twenty eighteen had a line item for a global pandemic. Nobody in nineteen twenty eight had a line for a world war. The costs that actually break budgets are, by their nature, the ones that were not on the list, because if they had been on the list somebody would have prepared for them.
+
+Now. That is the principle. But the paper does not open there, because Hamilton has an objection to clear out of the way first, and it is not an objection about money at all. It is an objection about logic.
+
+The Antifederalist case, at its most rigorous, was not that concurrent taxation would work badly. It was that it could not exist. Two supreme authorities operating over the same people in the same territory is a contradiction in terms. You cannot have two ultimate powers. One of them will turn out to be the real one, and the other will turn out to be furniture.
+
+Hamilton's response to that is one of the most useful sentences in the whole series, and it applies to a great deal more than taxation.
+
+To argue upon abstract principles that this co-ordinate authority cannot exist, is to set up supposition and theory against fact and reality.
+
+Notice what he does not do. He does not build a better theory. He does not out-argue the logic. He says the logic is beside the point, because the thing you are proving impossible has already happened, and you can go look it up.
+
+And then he goes and gets his example. And it is not from anywhere in the modern world. He reaches back about two thousand years.
+
+He goes to Rome.
+
+Now, this series has been to Rome before, and always for the same reason. In Episode Twenty One, Rome was where Julius Caesar took a republic's armies and its discontent and rode them into one-man rule. In Episode Twenty Nine, Rome was the cautionary tale about what standing armies do to free peoples. Every time Rome has come up in these essays, it has come up as a warning.
+
+This time Hamilton wants it as a success story. Same republic. Opposite lesson. Let me tell you what he is pointing at, because most people have never had it explained.
+
+The Roman republic had more than one assembly of citizens, and the two that matter here were built on completely different principles.
+
+The first was the centuriate assembly. In Latin, the comitia centuriata. It was organized as an army, which is what Rome originally was, and it was divided into one hundred and ninety three voting units called centuries. Here is the part that matters. Those centuries were not equal in size, and they were not assigned by geography. They were assigned by wealth. The richest citizens were sorted into a large number of very small centuries. The poorest citizens were packed together into a handful of enormous ones.
+
+So one wealthy Roman's vote sat inside a unit of a few dozen men. One poor Roman's vote sat inside a unit of thousands. Both units counted for exactly one.
+
+And it gets sharper. The voting was not simultaneous. It went in order, from the wealthiest classes down. And the moment a majority of centuries was reached, the voting stopped and everyone still waiting was sent home. The top classes between them held a majority. Which means that in practice, on a great many questions, the poorest citizens of Rome walked to the assembly, stood there, and never voted at all, because the matter had already been decided by the time the line got to them.
+
+That was the assembly the patricians and the wealthy controlled, and it was the one with the heaviest jobs. It elected the consuls. It ratified the census. And it was the only body that could declare war.
+
+The second was the tribal assembly. The comitia tributa. That one was organized by residence, into thirty five tribes, and inside it the ordinary count of heads did the work. There was no wealth sorting. The plebeian interest ran it, and by the later republic it was doing most of the actual legislating.
+
+So here are two bodies, sitting in the same city, made of the same citizens, sorted two completely different ways, with their centers of gravity at opposite ends of Roman society, both making law for the same state. And Hamilton's point is the simplest one available.
+
+And yet these two legislatures coexisted for ages, and the Roman republic attained to the utmost height of human greatness.
+
+They did not tear each other apart. They did not resolve into one. Rome ran that way for centuries and became the dominant power of the ancient world while doing it.
+
+Now I have to be straight with you about something, because this is the kind of thing this show should not skate past.
+
+Hamilton's history here is bent.
+
+He describes the two assemblies as distinct and independent legislatures, each with the power to annul or repeal the acts of the other. That is not really what they were. They were not two rival legislatures with two separate constituencies. They were the same Roman people, assembled twice, under two different sets of rules for counting. And there was no formal power on either side to strike down what the other had passed. A later law could supersede an earlier one, the way it can in any legal system, but that is not two bodies vetoing each other.
+
+He is also blurring two institutions together. The body where the plebeian interest had genuinely total control was the plebeian council, which patricians could not join at all, and whose resolutions became binding on every Roman after a law passed in two hundred and eighty seven before Christ. Hamilton folds that into the tribal assembly. Eighteenth century writers did this routinely. It was the received picture of Rome at the time. It is still not accurate.
+
+And there is a real irony in it, which I do not think Hamilton would have enjoyed. This is the paragraph where he tells his opponents to stop reasoning from theory and look at the facts. And the fact he reaches for is one he has partly reshaped to fit the argument.
+
+So does the example survive? I think it mostly does, and here is why.
+
+Strip off the part Hamilton got wrong and something solid is still standing. Two bodies with opposite class interests, deciding law for the same state, over centuries, without the arrangement collapsing into a single authority or into civil war over the arrangement itself. That happened. It is a fact about the world. And it is a fact that the tidy little argument from contradiction says should not be possible. Hamilton did not need the annulment power to make his point. He reached for it because it made the parallel look tighter, and in reaching for it he weakened a case that was already good enough.
+
+And then he makes the move that actually matters, which is to say that his own situation is easier than Rome's.
+
+Because whatever was going on between those two Roman assemblies, the American arrangement has less friction in it, not more. Neither government here can annul the acts of the other. A federal tax does not repeal a state tax. A state tax does not repeal a federal one. They simply both land on the same person, on the same dollar, and neither one has to ask permission. That is what we spent all of last episode establishing, and it is why the whole objection from contradiction misses. There is no clash of supremacies here to resolve, because nothing is being overruled. Two hands are reaching into the same pocket, and the pocket is the only thing either of them is fighting over.
+
+So that clears the logical objection. Two governments can share a country's revenue. Fine.
+
+But that raises the next question, and it is the one the rest of the paper is about. Fine, they can both tax. But why should the national government get the unlimited version of the power, and the states get whatever is left over? Why not the reverse, or an even split?
+
+Hamilton's answer is a budget argument, and it is the most concrete stretch of writing in this whole run of essays.
+
+He starts by asking what actually costs money. Not what feels expensive. What the ledger says.
+
+And his answer is that the expensive part of government is never the governing. It is not the legislature, or the courts, or the clerks, or the roads, or encouraging farmers and manufacturers. All of that, taken together, is small. The expensive part is defending the country and paying for the last time you had to.
+
+He names the two culprits directly. Wars and rebellions. Everything expensive, in his words, is the support of those institutions which are necessary to guard the body politic against these two most mortal diseases of society.
+
+Then he does something I did not expect, and it is why I like this paper. He does not just assert it. He goes and gets a number.
+
+He points at Britain. And he says that in Great Britain, with all the expense of a monarchy to keep up, not more than a fifteenth part of what the government spends each year goes to running the country. The other fourteen fifteenths are eaten by interest on war debt and by keeping up the fleets and the armies.
+
+That is a striking claim, and it is exactly the kind of eighteenth century statistic you would expect to be a rhetorical flourish. So I went and checked it.
+
+Modern reconstructions of the British budget, built from historical statistics, put total central government spending in seventeen eighty eight at about sixteen point three million pounds. Of that, interest on the national debt took about nine point four million. Defense took about four point four million. And the entire cost of general government, the actual running of the country, came to about one point two million.
+
+One point two out of sixteen point three is a little over seven percent. A fifteenth is a little under seven percent.
+
+Hamilton was right. Not directionally right. Right to within a rounding error, working in seventeen eighty eight, in a newspaper column, about a foreign country's finances, off whatever figures he had at hand. The man could do arithmetic.
+
+And he presses it home with the American case, which his readers did not need explained to them. Look at the debt we just piled up, he says, in a single war. One war. And that is with only an ordinary share of the trouble that disturbs the peace of nations.
+
+Which brings him to his number.
+
+He says the states have debts of their own right now, but those are leftovers from the Revolution and, under the new system, that will not happen to them again. Once those debts are paid off, the only serious expense a state government will have left is its civil list. Its officials, its courts, its ordinary administration. Add in every contingency you like, he says, and the total in any state ought to come in comfortably under two hundred thousand pounds a year.
+
+Hold onto that number. We are coming back to it.
+
+His conclusion from it is straightforward. If the states need a small, predictable, permanent amount, and the union needs an amount with no ceiling on it at all, then it makes no sense to hand the states an exclusive claim on a big slice of the country's revenue. That would be taking resources out of the hands that need them and putting them into hands that have no use for them.
+
+Now, so far this has all been arithmetic. But sitting in the middle of this paper is a passage that is not arithmetic at all, and it is the most alive writing in the essay.
+
+Hamilton stops and looks across the ocean.
+
+A cloud has been for some time hanging over the European world. If it should break forth into a storm, who can insure us that in its progress a part of its fury would not be spent upon us?
+
+Now, a modern reader slides right past that as generic eighteenth century foreboding. His readers did not. They knew exactly which cloud he meant, because they had been reading about it in those same newspapers for months.
+
+So here is what he was looking at.
+
+The Dutch Republic had spent several years coming apart. On one side were the Patriots, a democratic movement that had been steadily stripping power from the Prince of Orange, William the Fifth, the hereditary stadtholder. On the other side were the Orangists, who wanted him restored. In seventeen eighty six the province of Holland stripped William of his command of its troops.
+
+Then, in June of seventeen eighty seven, his wife Wilhelmina made a decision that ended the whole thing. She set out for The Hague to rally support in person. Patriot militia stopped her carriage at a village checkpoint on the way, held her for a day, and turned her back.
+
+That was a mistake, because Wilhelmina was the sister of the King of Prussia.
+
+Prussia demanded an apology. None came. And here is where the Americans watching should have leaned forward, because the question was no longer about the Netherlands. It was about whether France would defend its allies.
+
+France had a treaty relationship with the Patriots. The French foreign minister, Montmorin, let it be understood that France would stand behind them, and let word get out that an army was being assembled near the border at Givet.
+
+It was a bluff. There was no army coming. And once the Prussians and the British were satisfied that it was a bluff, the last obstacle was gone.
+
+On the thirteenth of September, twenty six thousand Prussian troops under the Duke of Brunswick crossed into the Dutch Republic. Amsterdam held out for ten days and then gave in. William the Fifth was restored. Thousands of Patriots fled into exile in France.
+
+France did nothing. Not because France did not care, and not because France lacked soldiers. Because France was broke. That same year the French crown, unable to raise money any other way, had summoned an Assembly of Notables to approve new taxes, and the Notables had refused and told the king to call the Estates General instead. That refusal is the first tremor of the French Revolution, and it is two years before the Bastille. The most powerful monarchy in Europe could not afford to back a bluff, and everybody found out at once.
+
+The following year Britain, Prussia, and the restored Dutch government signed an alliance that left France diplomatically isolated.
+
+That is the cloud. And now go back and read Hamilton's other line about it, the one that sounds like a throwaway. Who could have imagined, he asks, at the end of the last war, that France and Britain, both of them wrung out and exhausted, would so soon be looking at each other with such hostility?
+
+He is not speculating. He is describing the newspaper. Four years after those two nations signed the peace that made the United States a country, they had just finished lining up on opposite sides of a European crisis.
+
+And out of that observation comes the hardest sentence in the paper.
+
+Let us recollect that peace or war will not always be left to our option; that however moderate or unambitious we may be, we cannot count upon the moderation, or hope to extinguish the ambition of others.
+
+That is the argument for the unlimited taxing power, stated without a single number in it. Your defense budget is not set by you. It is set by people who have never asked your opinion and are not going to. You can be as peaceful as you like. It buys you nothing, because peacefulness is not a policy that other countries are required to reciprocate.
+
+And this is a place where two and a half centuries have been brutally kind to Hamilton. The cloud did break. In seventeen ninety two, France went to war with most of Europe, and the wars ran for more than twenty years. Part of the fury was spent on us, exactly as he said. American shipping got caught between the two sides. By seventeen ninety eight the United States was fighting an undeclared naval war against France, its own former ally, in the Caribbean. And the long grinding fight over neutral shipping and the seizure of American sailors ended with the United States at war with Britain in eighteen twelve, a war in which the capital city was burned.
+
+Every one of those bills was paid by a taxing power that Brutus wanted capped in seventeen eighty eight.
+
+So now we come to the last piece, and it is the one that actually closes the argument. Because a reasonable person can accept everything so far and still ask the obvious question.
+
+Fine. The union needs more money than the states. Granted. But why does that mean both governments have to tax everything? Why could the Convention not simply divide the sources? You take these taxes, we take those, and we all know where we stand.
+
+This is where Hamilton stops arguing from principle and just does the math in public, and it is the most quietly devastating part of the paper. He takes every line you could draw and shows you it does not work.
+
+Take the first and most obvious line, the one everybody proposed, between external and internal taxes. The union gets the customs houses, the states get everything inland. Run the numbers, Hamilton says, and you have handed the states roughly two thirds of the country's total resources in order to pay for somewhere between a tenth and a twentieth of its expenses. And you have left the union one third of the resources to cover nine tenths to nineteen twentieths of the bill. You have put nearly all the money on the side with almost none of the obligations.
+
+Take the second line. Forget imports, and just give the states an exclusive claim on taxing houses and land. Better, but still one third of the country's resources reserved to cover, at the very most, a tenth of its needs.
+
+So take the third option, and this is the clever one. Suppose you could design a fund that fit the states perfectly. Sized exactly to what they need, not a shilling more. Hamilton's answer is that if it were really sized to their ongoing needs, it would be too small to pay off the war debts they were already carrying, and they would come to the union for help with those, and you would be right back where you started, with the states dependent on the national government for money.
+
+Do you see the shape of it? The problem is not that the Convention was not clever enough to find the right line. The problem is that a fixed source of revenue cannot be matched to a need that moves. Any line you draw is correct for exactly one year and wrong forever after. Too little for the states now, too much for them later. And a line drawn in a constitution is not easy to move.
+
+Which is why he lands where he lands.
+
+A concurrent jurisdiction in the article of taxation was the only admissible substitute for an entire subordination, in respect to this branch of power, of State authority to that of the Union.
+
+Read that carefully, because there is a threat buried in it that is easy to miss. He is not saying concurrent taxation beat a tidier division. He is saying it beat subordination. The alternative on the table, once you accept that no line can be drawn, was not a better map. It was putting the states under the union in money matters entirely and letting Congress decide what they got. The Convention looked at that and chose the messier thing. Two governments, same pocket, neither one in charge of the other.
+
+So. Time to grade the forecast.
+
+Hamilton made two predictions in this paper. He was catastrophically wrong about one and quietly right about the other, and the interesting part is that being wrong about the first did not damage the second at all.
+
+Start with the number, because that is where he gets destroyed.
+
+He predicted the states would need something under two hundred thousand pounds a year, each, forever. That the demands on them would shrink into what he called a very narrow compass, and then just stay there.
+
+Converting money across two and a half centuries is rough work, and anyone who gives you a precise figure is overselling it. But in the neighborhood, two hundred thousand pounds in seventeen eighty eight is something in the low tens of millions of dollars today.
+
+State and local governments in the United States now spend, between them, on the order of three to four trillion dollars a year.
+
+He was not off by a bit. He was off by orders of magnitude, and he was off in the direction he was most confident about. The states did not shrink into a narrow compass. They became enormous. They run schools, roads, universities, prisons, police, courts, and the largest share of American health spending for the poor. Almost none of that existed as a government function when he was writing, and every bit of it costs money.
+
+Now the second prediction, and this is where it gets genuinely interesting.
+
+He predicted that the national government's needs would have no ceiling, and that the thing with no ceiling would be war.
+
+Half right. Devastatingly half right.
+
+The ceiling never appeared. The federal government spent about seven trillion dollars last year, which is not a number anyone in seventeen eighty eight could have formed a mental picture of. And the capacity he insisted on was used, over and over, for exactly the reason he gave. A civil war he did not foresee. Two world wars nobody foresaw. A depression. A pandemic. Every one of them a bill that arrived without an invoice, and every one of them paid out of an authority with no upper limit written into it.
+
+But look at what the money actually goes to now. Defense is about thirteen cents of every federal dollar. It is not the biggest thing anymore. It is not close. The largest single line is Social Security, at a little over twenty two cents of every dollar, and Medicare is another fourteen. The unbounded thing in the American budget turned out not to be war. It turned out to be old age and medicine.
+
+So a fair question to end on. Does that mean Hamilton was simply wrong about what the money was for?
+
+About the content, yes, completely. He thought the illimitable category was foreign danger. It turned out to be human longevity and the cost of keeping people alive, which is not a thing he could have imagined as a public expense, because in his century it was not one.
+
+But look at what happened to the argument. He said the category of things you cannot foresee will always be full, and you must never write a ceiling over it. He was wrong about what would fill it. He was right that it would fill. And the specific way in which he was wrong is itself the proof, because if the founders had sized the taxing power to the threats Hamilton could actually name in seventeen eighty eight, the government would have been perfectly equipped for a war with France and completely unable to do the single largest thing it now does.
+
+That is the strongest possible vindication of his method, and it arrives in a form he would have found bewildering. He was not asking to be trusted with the right amount of money. He was asking not to be locked into an answer, by people who could not see any further ahead than he could.
+
+Which is the same thing he has been saying since Number Thirty One, in a different key. The protection against a government abusing its powers is not a short list of powers. It is the structure. It is elections, and division, and the states sitting there with a full taxing power of their own, which is precisely what this run of essays has been defending.
+
+He ends the paper by saying there remain a few other lights in which this subject of taxation will claim further consideration. Which is Hamilton for: I am not finished.
+
+This has been The Federalist Papers: Explained. Episode Thirty Four. Next time: Federalist Number Thirty Five, still Alexander Hamilton, on why confining the government to taxes on imports would not be the safe, modest choice it sounds like, but a recipe for smuggling, for crushing some industries while others go untouched, and for unfairness between the states. And then he turns to something much more uncomfortable, and much more modern. He is going to argue that you do not need a farmer in Congress to represent farmers, and that the whole idea of every class of society sending one of its own is, in his words, altogether visionary. It is one of the most elitist passages in the Federalist Papers, and one of the hardest to dismiss.
