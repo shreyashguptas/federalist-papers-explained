@@ -2,9 +2,9 @@
 
 ## Overview
 - Total papers: 85
-- Episodes completed: 36 (audio produced)
-- Episodes scripted: 36
-- Next episode to produce: Episode 37 (Federalist No. 37)
+- Episodes completed: 37 (audio produced)
+- Episodes scripted: 37
+- Next episode to produce: Episode 38 (Federalist No. 38)
 
 ## Episode Status
 
@@ -46,7 +46,8 @@
 | 34 | The Bill You Can't See Coming | Hamilton | DONE | DONE | - |
 | 35 | Nobody in Congress Looks Like You | Hamilton | DONE | DONE | - |
 | 36 | The Power He Hoped Nobody Would Use | Hamilton | DONE | DONE | - |
-| 37-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
+| 37 | Why Nobody Could Write It Perfectly | Madison | DONE | DONE | - |
+| 38-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
 
 ## Authorship reference (first 10 papers)
 1. Hamilton

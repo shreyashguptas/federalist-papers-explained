@@ -1,0 +1,199 @@
+At the end of the last episode, Alexander Hamilton set down a load he had carried for fourteen straight essays. Standing armies. The militia. And then seven papers in a row on money. All of it answering one question in different clothes, which was whether this government would be allowed to be strong enough to survive.
+
+His sharpest move came in that last paper. Every objection he answered had the same shape. Each one said the new government could do something terrible. And Hamilton never once replied that it would not. He never asked anybody to trust a character. He asked what the terrible thing would cost, and what it would buy. Incentives instead of intentions.
+
+And then he stopped, and handed the pen to somebody else.
+
+Today is Federalist Number Thirty Seven, published in the Daily Advertiser on the eleventh of January, seventeen eighty eight. Still signed Publius. But it is James Madison writing now, and he is going to hold the pen for a long stretch.
+
+This is the seam of the whole collection. Everything before this was about why the union is worth having and why a real government is needed to hold it together. Everything after this is about the thing they actually built. The branches. The separations. The checks. New subject, new writer.
+
+And Madison opens the way almost no political argument ever opens. He opens by telling you the Constitution is flawed.
+
+Not flawed in some small correctable way he is about to explain away. Flawed as a matter of principle. His argument is that a group of human beings in a room could not have produced a clean document, that nobody could have, and that whatever imperfection you find in this one is not a scandal and not a failure of the men involved. It is the ordinary price of trying to describe a government using words.
+
+It is the most modest paper in the collection. It might also be the wisest. And by the end of this episode I want to show you that the modesty is not a pose. It is a design principle, and it is still doing work in American courtrooms.
+
+Here is where things stand on the day this essay runs. Five states have said yes. Delaware, Pennsylvania, New Jersey, Georgia, and then Connecticut two days ago. Nine are needed. And on the very same day Connecticut ratified, a convention opened in Boston that everybody on both sides had been dreading, the largest ratifying convention any state would hold, in a state that had put down an armed rebellion barely a year earlier. Massachusetts is going to argue about this until February.
+
+So Madison is not writing into a vacuum. He is writing into a real fight, at the moment it is getting hard. And what he chooses to say, right then, is that the document is imperfect and always was going to be.
+
+To understand why that is a brave thing to write and not a foolish one, you need to know something about the man who is now holding the pen. Because the difference between Madison and Hamilton here is not a difference of style. It is a difference of position.
+
+Hamilton spent that summer of seventeen eighty seven mostly somewhere else. He was there in late May, gave one enormous speech in June that nobody took up, went home at the end of that month, and came and went through the summer on legal business. He was there at the start, and he was there at the end to sign, and he signed alone, because the other two New York delegates had walked out. But he missed most of it.
+
+Madison missed none of it. Not one day.
+
+He says so himself, years later, in a preface he wrote for his own records. He was not absent a single day, he tells us, nor more than a casual fraction of an hour in any day, so that he could not have lost a single speech unless it was a very short one.
+
+Now picture the room he never left. The Pennsylvania State House in Philadelphia, from the twenty fifth of May to the seventeenth of September. On the twenty ninth of May they adopted a rule of secrecy, and they meant it physically. They shut the windows. They posted sentries at the doors. And then they sat there through a Philadelphia summer, in eighteenth century clothing, in a sealed room, arguing.
+
+Madison, at thirty six, was not built for that. He was about five feet four, he rarely weighed much over a hundred pounds, he was sick often, and he suffered from what he himself called a liability to sudden attacks somewhat resembling epilepsy. His voice was so quiet that people had trouble hearing him speak.
+
+And he chose a seat at the front, facing the presiding officer, with the other delegates to his right and left. He picked it, he said, because it was a good position for hearing everything. Then, day after day, in that heat, he wrote down what was said. Abbreviations and marks he could read back. Every evening, or as soon after as he could manage, he expanded the shorthand into full sentences.
+
+Nobody asked him to do it. It nearly broke his health. And when it was finished he had, by a very long way, the fullest record of how the United States Constitution was written.
+
+I should be straight with you about one thing, because it is the kind of thing this episode is about. Historians who have gone through the physical manuscript find that Madison kept working on those notes for decades, revising, patching in new slips of paper, softening a phrase here and there. So the record is not a perfect camera. Even the account of how the words were chosen turns out to be a document that got edited.
+
+Then he locked it away. His notes were not published in his lifetime. He wanted them to appear only after everyone who had been in that room was gone, and since he was the last of them to die, that meant waiting until he died. He died in eighteen thirty six. The notes came out in eighteen forty, fifty three years after the summer they describe.
+
+That is the man writing this paper. Not a lawyer arguing from the outside. The stenographer of the whole thing, writing about his own work, not quite four months after signing it, for an audience that has no idea what happened in that room and will not find out for two generations.
+
+So when Madison tells New Yorkers that the plan is imperfect, he is not being modest for effect. He is the one writer in this series who could not possibly pretend otherwise.
+
+His opening move is unlike anything else in the collection. He asks his readers to approach the Constitution in a particular frame of mind, and part of that frame is accepting in advance that a faultless plan was not to be expected. And then he adds a line that is easy to skip past and is doing a lot of work. Readers should not merely make allowances for the mistakes the convention was liable to make, because the convention was only a body of men. They should also keep in mind that they themselves are only men, and should not assume they are infallible while they sit in judgment on other people's fallible opinions.
+
+At this point you might be wondering whether that is just flattery in reverse. A politician saying we are all only human so please go easy on us.
+
+It is not, and here is how you can tell. He does not stop there and move on to the sales pitch. He spends the rest of the essay explaining exactly why the errors were unavoidable, and the explanation has almost nothing to do with the men in the room. It is about the limits of human knowledge and the limits of language. He is not asking for a pardon. He is telling you about a wall that every constitution ever written runs into.
+
+Start with the simplest part of the problem. They had nothing to copy.
+
+We have spent whole episodes in this series on that point without quite putting it that way. Back in Episodes Eighteen, Nineteen, and Twenty, Madison and Hamilton together walked us through every confederacy they could find, ancient and modern, and every one of them was a corpse. The Greek leagues. The Holy Roman Empire. Poland. The Dutch republic. Madison collects all of that in a single sentence here, and he is blunt about how little help it was.
+
+Those other confederacies, he writes, can therefore furnish no other light than that of beacons, which give warning of the course to be shunned, without pointing out that which ought to be pursued.
+
+A beacon on a coastline is not a map. It does not tell a ship where the harbor is. It tells the ship where the rocks are. That is all the past gave them. Every previous attempt told the convention what would sink them, and not one told them what would float. So, Madison says, the most they could do was avoid the known errors, and build in a decent way of fixing their own errors later, as experience turns them up.
+
+Hold on to that last part. The ability to fix errors later is going to turn out to be the whole point of this paper.
+
+Now we get to the heart of it, and it is one of the strangest passages in American political writing, because it is not political writing at all. It is philosophy. In the middle of a ratification fight, Madison stops the campaign to explain why precise definitions are impossible.
+
+He arrives there through the hardest of the convention's problems, which was drawing the line between what the national government controls and what the states control. Not less arduous, he calls it, than anything else they had to do. And then, instead of describing the fight over that line, he asks a bigger question. Why is a line like that so hard to draw in the first place?
+
+His answer has three parts. He scatters them through the passage and gathers them at the end into one line, so let me put that line in front of you first.
+
+Here, then, are three sources of vague and incorrect definitions, he writes. Indistinctness of the object. Imperfection of the organ of conception. Inadequateness of the vehicle of ideas.
+
+Let me translate that into plain English, because underneath the eighteenth century vocabulary it is very simple and very modern.
+
+First, the thing you are trying to describe may not have sharp edges of its own. Second, the mind doing the describing is a limited instrument. And third, words are a bad tool for carrying ideas from one head to another. Any one of those, Madison says, will produce some fog. The convention, drawing the line between federal and state power, ran into all three at once.
+
+Watch what he does to prove the first one, because this is where a paper defending the Constitution suddenly turns into a nature documentary.
+
+If you think clean boundaries are normally available, he says, look at how badly we do at drawing them in easier subjects. Take the mind itself. Sense, perception, judgment, desire, will, memory, imagination. Philosophers have been at these for centuries and still cannot say exactly where one ends and the next begins. They are separated, he writes, by such delicate shades and minute gradations that their boundaries have eluded the most subtle investigations.
+
+The second example leaves philosophy entirely and walks into biology. The naturalists, he says, the most patient and skilled observers we have, have never managed to trace with certainty the line that separates plant life from ordinary unliving matter, or the line where plant life ends and animal life begins.
+
+So why does a man writing campaign literature stop to talk about botany?
+
+Because he is making an argument you cannot answer. If the best scientists alive cannot say precisely where life begins, then a room full of politicians in Philadelphia was never going to say precisely where federal power ends. And notice that his example has not aged into quaintness. It has aged into a live question. Biologists today still argue about whether a virus is alive. It carries genetic material, it evolves, it makes copies of itself. It also cannot do a thing without hijacking a cell that belongs to something else, and it has no metabolism at all. There is no agreed definition of life to settle it with. Nearly two hundred and forty years later, Madison's example is not a dusty illustration. It is an open file.
+
+And then he says the thing that makes this paper unforgettable.
+
+Even if the object were perfectly distinct, and even if the mind observing it were perfect, he says, there would still be the problem of the medium. The medium through which the conceptions of men are conveyed to each other, he writes, adds a fresh embarrassment. Meaning: we have to use words, and words are leaky.
+
+But no language is so copious as to supply words and phrases for every complex idea, or so correct as not to include many equivocally denoting different ideas.
+
+Read that slowly, because there are two separate complaints in it. The first is that no language has enough words. Some ideas are more complicated than the vocabulary available to express them, so you end up reaching for a word that is close rather than a word that is right. The second is that the words we do have carry more than one meaning, and often the wrong ones travel along with the right one. So even a perfectly understood idea, put into perfectly chosen words, arrives at the reader slightly bent.
+
+And then Madison, a man who spent his political life fighting for the separation of church and state, writes one of the boldest sentences any founder ever put in print.
+
+When the Almighty himself condescends to address mankind in their own language, his meaning, luminous as it must be, is rendered dim and doubtful by the cloudy medium through which it is communicated.
+
+Sit with what he just claimed. Suppose God speaks. Suppose the idea being transmitted is perfect, and the sender is perfect. The moment it enters human language it goes cloudy. That is not a shot at religion. It is the opposite of a shot at religion. He is saying the flaw is entirely on our end, in the vehicle, and that even a perfect message cannot survive the trip intact. And if that is true of scripture, then no, the Constitution is not going to come out crisp either.
+
+There is a famous version of this problem in modern law that makes it concrete. In nineteen fifty eight, a British legal philosopher named Herbert Hart, writing in the Harvard Law Review, offered up what has become the most quoted hypothetical in the English speaking legal world. Imagine a rule that says no vehicles in the park.
+
+Everyone knows what that means. And then you start asking. Bicycles? Roller skates? A child's toy car? An ambulance answering a call? A tank on a plinth as a war memorial? Hart's point was that a rule has a solid core of obvious meaning surrounded by a fuzzy edge where the words run out and somebody has to decide.
+
+That argument, the one law students still have in their first year, is Madison's argument. He got there a hundred and seventy years earlier, and he got there about a document he had just helped write.
+
+So here is the question that actually matters. If the words are always going to be fuzzy, what do you do about it?
+
+This is where Madison gives us the single most useful sentence in the paper, and he almost throws it away in passing.
+
+All new laws, though penned with the greatest technical skill, and passed on the fullest and most mature deliberation, are considered as more or less obscure and equivocal, until their meaning be liquidated and ascertained by a series of particular discussions and adjudications.
+
+That word liquidated has nothing to do with money or with going out of business. In the eighteenth century it meant to settle, to make clear, to resolve something that had been in dispute. And Madison's claim is that a law is not finished the day it is written. It is finished later, by being used, one hard case at a time, until the fuzzy parts get worn into a definite shape.
+
+Which means the Constitution, on the day it was ratified, was not a completed object. It was a draft that had to be lived in before anybody would know what it said.
+
+A fair question here is whether that is just a comfortable way of saying that judges make it up as they go along. And Madison would say no, and he would be strict about the difference. Practice can settle what an unclear provision means. Practice cannot rewrite a clear one. There has to be a genuine ambiguity in the text first, and then a real course of decisions, made deliberately and repeated over time, before anybody can say the matter is settled.
+
+We know he meant it, because he did it to himself, at enormous cost to his own pride.
+
+In seventeen ninety one, as a member of Congress, Madison stood up and argued that a national bank was unconstitutional. There was no clause authorizing it, and he would not let it in through the back door of implied powers. He lost. The bank was chartered anyway.
+
+Twenty five years later he was President of the United States, and a bill to charter a second national bank landed on his desk. He signed it, in eighteen sixteen.
+
+That is the sort of thing that gets a politician called a hypocrite for two centuries, so it is worth hearing his own explanation. Writing about it long afterward, he said the bank had received the executive signature out of respect for deliberate and repeated precedents, even though on the original question he had held it unconstitutional. It had been fully debated in every branch of the government, had run for twenty years with Congress acknowledging it every single year, and had been accepted by the states and by the nation. A veto at that point, he said, would have defied the whole course of precedent.
+
+Read that next to Federalist Number Thirty Seven and it stops looking like a flip flop. The meaning had been liquidated. He had told everyone in seventeen eighty eight that this was how constitutional questions get settled, and when the process ran and delivered an answer he did not personally like, he honored it anyway. He lost the argument to his own doctrine.
+
+And that doctrine did not die with him. In twenty nineteen a law professor named William Baude published an article in the Stanford Law Review called Constitutional Liquidation, reconstructing the whole idea out of Madison's scattered remarks and tracing it back to this paper as its first appearance. The following year, the Supreme Court decided a case about whether a state can punish presidential electors who break their pledge and vote for somebody else. The Court ruled unanimously that it can. And in explaining why long standing practice could settle a question the text had left open, the Court quoted Madison. Not this essay, as it happens, but a letter he wrote thirty one years afterward, saying that a regular course of practice can liquidate and settle the meaning of disputed or indeterminate terms and phrases. On the same page, the Court cited this paper too.
+
+A word Madison used in a newspaper essay in seventeen eighty eight, in a passage most readers skim, is now the name of a doctrine the Supreme Court reaches for.
+
+All right. Having explained why no constitution could be clean, Madison turns to why this particular one is not, and he does something risky here. He tells his readers where the compromises are. In a ratification fight, that is handing your opponents a map of the soft spots.
+
+The first admission is about a trade that no government gets to avoid. A government has to be stable, so that laws last long enough to be worth following, and it has to have enough energy to act quickly when something goes wrong. But stability means keeping the same people in power a long time, and energy means concentrating power in few hands, and liberty demands the exact opposite of both. Liberty wants frequent elections and many hands on the controls. You cannot have all of that at once. Every constitution has to pick a blend, and every blend disappoints somebody.
+
+And he is candid about why the country needs the stable end of that trade. Americans, he says, will never be satisfied until somebody fixes the vicissitudes and uncertainties which characterize the State administrations. Translated: the state legislatures had been passing laws, repealing them, and passing them again so fast that nobody could plan a business or a farm around them. He had been complaining about that for years. It is one of the reasons he wanted a new government at all.
+
+Then the fight everyone remembers. The interfering pretensions, he calls them, of the larger and smaller States. Big states wanted representation to match their population. Small states wanted every state counted equally. Neither would give in, so the thing could only end in a compromise.
+
+That is a remarkably calm sentence about the worst weeks of Madison's summer.
+
+The convention nearly died over it. On the sixteenth of July, seventeen eighty seven, the deal we now call the Great Compromise passed by five states to four, with one delegation split down the middle. Population would decide the House. Equality would decide the Senate.
+
+Madison hated it. He had come to Philadelphia with a plan for proportional representation in both chambers, and this was the fight he lost. The man we now call the Father of the Constitution lost the biggest structural argument of the convention, and then went home and spent the winter writing essays to persuade people to ratify the thing that beat him.
+
+Which is why he never accepted that nickname. Asked about it late in life, he said the Constitution was not, like the fabled goddess of wisdom, the offspring of a single brain, and ought to be regarded as the work of many heads and many hands. He was not being humble. He knew exactly which parts were not his.
+
+Then comes the sentence in this paper that a careful reader has to stop at. After the large and small states, Madison says there were other divisions too, and he describes them like this. Other combinations, he writes, resulting from a difference of local position and policy.
+
+Now you might ask why he does not simply say what he means.
+
+Because what he means is slavery. And he knows it, and he knows his readers know it, and he will not put the word on the page.
+
+We can be certain about this, and not by guessing, because we have his own notes. On the thirtieth of June, seventeen eighty seven, in that sealed room, Madison stood up and said it out loud. The states, he argued, were not really divided by size at all. The states were divided by other circumstances, the most important of which came partly from climate, but principally from the effects of their having or not having slaves. That division, he said, was the real one. It did not lie between the large and small states. It lay between the North and the South.
+
+That is Madison in June, in private, naming the fault line precisely. And here is Madison in January, in public, calling it a difference of local position and policy.
+
+He does the same softening a few lines later, when he says the convention was compelled to sacrifice theoretical propriety to the force of extraneous considerations. That is a beautiful phrase and it is doing ugly work. Among the things it covers are the clause counting an enslaved person as three fifths of a person for representation, and the clause protecting the slave trade for twenty more years.
+
+I want to be careful about the charge here, because the interesting one is narrow. Madison is not lying. Everything in that sentence is true. Compromises were forced by considerations outside political theory. But he is writing so that a reader who does not already know can finish the paragraph without learning anything. The most honest paper in the collection, the one whose whole subject is the difficulty of saying exactly what you mean, contains a passage where the author is not trying to say exactly what he means. He knew better than anyone how much fog a phrase can hold. And here he uses it.
+
+There is one more claim in this paper worth testing, and it is the note he ends on.
+
+The real wonder, he writes, is that so many difficulties should have been surmounted, and surmounted with a unanimity almost as unprecedented as it must have been unexpected.
+
+Unanimity is a strong word, and the record does not quite support it. Fifty five men attended that convention at one point or another. Thirty nine signatures went onto the document. And three of the men who stayed to the end refused to sign it. Edmund Randolph, the governor of Virginia, who had introduced the very plan the convention started from. George Mason, also of Virginia, the author of Virginia's declaration of rights. And Elbridge Gerry of Massachusetts. Mason and Gerry both wanted a bill of rights and were not going to sign a document without one, and they went home and became leading opponents of ratification.
+
+What Madison can fairly claim is this. The delegates arranged the signature line so that the states, rather than the individuals, were doing the agreeing, which let a delegate sign as a witness to his state's consent rather than as a personal endorsement. On that reading, and only on that reading, the last day was unanimous. It is technically defensible. It is also, from the man who watched Mason and Gerry refuse in front of him, a little generous.
+
+And then there is the last thing he does, which is the part I find most human in the whole essay.
+
+Madison says that any candid man reflecting on how the convention succeeded has to feel astonished, and that a man of pious reflection cannot help seeing in it a finger of that Almighty hand which has so often been extended to America's relief.
+
+So why does Madison, of all people, reach for the Almighty here?
+
+Because he had watched that convention nearly fall apart, and he did not have a better explanation. But there is a story behind that sentence that he never told his readers, and it is in his own notes, and it is one of the great scenes of the founding.
+
+Go back to the twenty eighth of June, seventeen eighty seven. Two days before the speech where Madison names slavery as the real division. The convention is stuck, deep in the representation fight, tempers gone, no path visible. And the oldest man in the room stands up.
+
+Benjamin Franklin was eighty one years old. He moved that from then on, prayers imploring the assistance of Heaven and its blessings on their deliberations be held in that assembly every morning before they went to business. Roger Sherman of Connecticut seconded him.
+
+And then the convention declined.
+
+They did it politely. Hamilton and several others worried that bringing in a chaplain this late would look to the public like a confession that the convention was in trouble. Hugh Williamson of North Carolina pointed out that the convention had no money. Edmund Randolph suggested a sermon on the Fourth of July instead, and Franklin seconded that. And then, in Madison's own dry handwriting, this. After several unsuccessful attempts for silently postponing the matter by adjourning, the adjournment was at length carried, without any vote on the motion.
+
+They talked it to death and went home. No vote was ever taken. And Franklin, who kept the paper he had written his motion on, added a line at the bottom of it in his own hand. The convention, except three or four persons, thought prayers unnecessary.
+
+That is the room Madison is describing when he writes about the finger of the Almighty. He was there when they would not even vote on praying. Which tells you something about what that closing line is really doing. It is not a claim about divine intervention that he expects a skeptic to accept. It is a man who spent nearly four months watching fifty five difficult people fail to agree about anything, looking at what came out the other end, and finding that he cannot fully account for it.
+
+He closes with one last comparison, and it lands hard because we have been there. Look at the Dutch, he says, and their repeated failed attempts to reform their own constitution. That was Episode Twenty, and it was a graveyard. The history of almost every great council ever convened to reconcile people's opinions and adjust their interests, he says, is a history of factions, contentions, and disappointments.
+
+That is the standard he is measuring against. Not perfection. Every other time human beings tried this, it went badly. This time it did not. That is the whole claim.
+
+So what do you actually take out of Federalist Number Thirty Seven?
+
+I think it is this. For thirty six papers this series has been telling us why the union is necessary and why the new government is safe, and a great deal of that has been extremely confident. This paper is the one where somebody who was actually in the room turns around and tells you the truth about what a constitution is. It is not a machine that runs itself. It is a set of words about things too complicated for words, written by tired people who disagreed, and it will be unclear in places, and those places get settled later by argument and by use, and some of those settlements take a century.
+
+That is either a devastating admission or the most reassuring thing in the collection, and I think it is the second. A document that admits it is unfinished is a document that can be corrected. Madison is not asking you to believe the founders were geniuses who got it right. He is asking you to believe they were careful people who got it as close as anyone could, and who left room to fix the rest.
+
+Nearly two hundred and forty years later, that is still how it works. We are still arguing about where federal power stops. We are still asking judges what a phrase written in seventeen eighty seven means when it meets a situation nobody imagined. Madison told us in advance that we would be, and he would not be dismayed by any of it. He would say the fog was always there, and that arguing our way through it is not a sign the system is broken. It is the system working exactly as the man who took the notes expected it to.
+
+This has been The Federalist Papers: Explained. Episode Thirty Seven. Next time: Federalist Number Thirty Eight, published in the New York Packet on the fifteenth of January, seventeen eighty eight, and Madison stops being modest. He points out that in every ancient case we know of where a government was set up deliberately, the writing was done by one man rather than by an assembly. Minos in Crete. Lycurgus in Sparta. Solon in Athens. And then he asks how a people as jealous of their liberty as the Greeks ever agreed to hand their whole future to a single citizen, and argues that America, by using a convention instead, improved on the ancient method. From there he turns on the critics with the sharpest weapon he has, which is not an argument but a list, showing that they cannot agree with one another about a single thing, and that they have nothing to put in the Constitution's place. And his cleanest line in the whole paper is this. The new plan does not have to be perfect. It only has to be less imperfect than what we have now.
