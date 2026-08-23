@@ -1,0 +1,211 @@
+At the end of the last episode, James Madison did something almost nobody does in the middle of a campaign. He told the people he was trying to persuade that the thing he was selling them was flawed.
+
+Not flawed in a small way he was about to explain away. Flawed on principle. The subjects a constitution has to describe do not come with sharp edges, the human mind is a limited instrument, and words leak meaning no matter how carefully you choose them. So of course it is unclear in places. Any document would be. And the remedy is not better drafting. The remedy is time, and use, and one hard case after another until the fog burns off.
+
+That was Federalist Number Thirty Seven, the most modest paper in the collection.
+
+Today is Federalist Number Thirty Eight, published in the New York Packet on the fifteenth of January, seventeen eighty eight. Four days later. Same man. Same subject, officially. The title even says so. The same subject continued.
+
+And the tone could not be more different.
+
+Because Madison is about to do something with that confession you do not see coming. In Thirty Seven he laid the plan's imperfection on the table himself, before anybody could throw it at him. In Thirty Eight he picks it back up, turns it around, and points it at the people attacking him.
+
+Fine, he says. It is imperfect.
+
+Imperfect compared to what?
+
+That is the entire paper. And I want to hand you the punchline before we go anywhere near the argument, because Madison buries it about three quarters of the way in and it is easily the most useful sentence in the essay.
+
+It is not necessary that the former should be perfect, he writes. It is sufficient that the latter is more imperfect.
+
+The former is the new Constitution. The latter is the Articles of Confederation, the government America actually has on the morning this essay runs. And what Madison is saying is that the whole debate has been conducted on the wrong terms. Nobody is being offered a choice between the Constitution and perfection. That option is not on the table and never was on the table. The choice is between this document and the thing that exists right now, defects and all.
+
+He gives two homely little illustrations and they are both good. Nobody, he says, refuses to trade brass for silver or gold because the gold has some alloy in it. And nobody refuses to quit a shattered and tottering habitation for a firm and commodious building because the new one has not a porch to it, or because some of the rooms might be a little larger or smaller, or the ceilings a little higher or lower than his fancy would have planned them.
+
+You are standing in a house that is coming down around you. Somebody offers you a solid one. And you are objecting to the porch.
+
+Now, a fair question here is whether that is just a debating trick. It is a very convenient argument for the man selling the house.
+
+And the honest answer is that it is a real principle, and it got a name about a hundred and eighty years later. In nineteen sixty nine an economist named Harold Demsetz noticed that his opponents kept comparing the real world against an imagined ideal, finding a gap, and concluding that the real world was broken. He called it the nirvana approach. It is taught now as the perfect solution fallacy, and once you know it you cannot stop seeing it. Every real policy loses to an imagined one. Every actual candidate loses to the one who never has to run for anything.
+
+Madison is insisting the comparison be honest. And the reason he gets to insist is that he already conceded the first half. He is not claiming his plan is clean. He said four days ago that it is not, and that admission is what buys him the right to ask the question.
+
+So the natural thing to ask next is why the convention could not have simply found the flaws and fixed them before sending it out. They had nearly four months. They had the best political minds in the country. Why send out a document you already know is imperfect?
+
+Madison's answer is that you cannot find them. Not in advance. He thinks the errors in the plan came not from carelessness but from what he calls the defect of antecedent experience. Nobody had done this before. And so the mistakes will not be identified, he says, until an actual trial shall have pointed them out.
+
+That is Number Thirty Seven's idea wearing different clothes. Four days ago he told you that a law is not finished the day it is written, that it gets settled later by being used. Now he is telling you that a law's defects are not visible the day it is written either. They also get found by being used. Same insight, running in both directions.
+
+And here he does something a lesser writer would not have done. He proves it on his own side.
+
+Look at the Articles of Confederation, he says. When they went out to the states for ratification, the states sent back objections and proposed amendments. Piles of them. And among all of those objections and all of those amendments, Madison says, not one is found which alludes to the great and radical error which on actual trial has discovered itself.
+
+Read that again, because it is a remarkable thing to admit. The fatal defect of the Articles, the one this series has been hammering since Episode Fifteen, that the national government could act only on states and never on people, so it could ask and never require, was sitting in front of every state legislature in America in seventeen seventy seven. They read it. They wrote up their complaints. Not one of them saw it. It took years of watching the thing fail before anybody could name what was wrong.
+
+And then he tells one short story about how the Articles finally got adopted, and it is worth slowing down for, because it is not the story Americans usually get told.
+
+Ratifying the Articles required all thirteen states. Twelve of them came along. One did not. Maryland refused, and Maryland kept refusing for more than three years, from the autumn of seventeen seventy seven into the winter of seventeen eighty one. Not over sovereignty. Not over principle. Over land. Virginia and several other states held enormous colonial charter claims running west, and Maryland, hemmed in with no claims of her own, would not sign a union that let her neighbors grow to that size while she stayed small.
+
+Now hold the calendar next to that. The whole period Maryland was holding out, the Revolutionary War was going on. The British held Philadelphia. Charleston fell. Fighting moved into Virginia. Madison's own line about it is the coldest sentence in this stretch of the paper. One State, we may remember, persisted for several years in refusing her concurrence, although the enemy remained the whole period at our gates, or rather in the very bowels of our country.
+
+And when Maryland finally gave in, in the early weeks of seventeen eighty one, Madison will not even let her have that. She did not come around because she was convinced. Her pliancy, he says, was produced by nothing better than the fear of being blamed for prolonging the public calamities and endangering the outcome of the war. She folded because the finger was pointing at her.
+
+Thirteen governments reviewed a constitution, argued bitterly over things that turned out not to matter, and every one of them missed the flaw that would break the country. Which is why Madison will not promise you a clean document. Nobody has ever produced one, and nobody has ever spotted the flaws in one before it was used.
+
+Now, having set that up, Madison opens the paper proper with the strangest history lesson in the whole collection, and it takes a minute to see why it is there.
+
+He starts by observing that in every case reported by ancient history where a government was set up deliberately, with the consent of the people, the writing was not done by an assembly. It was done by one person.
+
+And then he simply lists them. Minos founded the government of Crete. Zaleucus did the same for the Locrians, and his is generally reckoned the first written law code in the Greek world. Athens got Theseus first, then Draco, whose penalties were so severe that we still use his name for a harsh law, and then Solon. Sparta had Lycurgus. Rome was laid out by Romulus and finished by two of his successors, Numa and Tullius Hostilius, and then when the kings were thrown out it was Brutus who stepped forward with the plan for consular government.
+
+And he says this holds for confederacies too. Amphictyon wrote the league that carried his name. The Achaean League was born twice, first from Achaeus and then again from Aratus.
+
+Those last two should sound familiar, because we spent three full episodes in that graveyard. Episodes Eighteen, Nineteen and Twenty were Madison and Hamilton walking us through every confederacy in recorded history to show how they died. So when he reaches for Amphictyon and Aratus here, he is not showing off. He is picking up a book he already made you read.
+
+So you might be wondering whether that claim is even true. Every ancient constitution written by one man. Surely not.
+
+Read him carefully, because his claim is narrower than it sounds. He says in every case reported by ancient history in which government has been established with deliberation and consent. He is not talking about governments that grew by accident, or were imposed by a conqueror, or drifted into being over centuries. Only the ones somebody sat down on purpose to design. And then he undercuts himself, deliberately. What degree of agency these reputed lawgivers might have in their respective establishments, he writes, or how far they might be clothed with the legitimate authority of the people, cannot in every instance be ascertained.
+
+That is the author of the argument telling you on his own third page that the evidence is thin.
+
+But the list is not the point. The list is the setup for the question, and the question is the good part.
+
+Why, Madison asks, would the Greeks of all people have done this?
+
+Whence could it have proceeded, he writes, that a people, jealous as the Greeks were of their liberty, should so far abandon the rules of caution as to place their destiny in the hands of a single citizen?
+
+Sit with how strange that is. The Athenians would not let one man command an army. From the very beginning of their democracy they elected ten generals, one from each of the ten tribes, and at the battle of Marathon those ten decided strategy by majority vote and took turns holding command day by day. Ten. Because one was too dangerous.
+
+And they had a second device, which is the one that tells you everything. Madison describes them as a people who required no other proof of danger to their liberties than the illustrious merit of a fellow citizen. He means ostracism. Once a year the Athenians could vote to exile a man for ten years, and he need not have committed any crime. Being too impressive was enough.
+
+There is a story about that, preserved by Plutarch, and it is one of those stories that survives because it is too good to lose.
+
+The year is four hundred and eighty two before Christ. The Athenians are holding an ostracism vote, and the leading candidate is a man named Aristides, who had held the highest offices in the city and had a reputation so spotless that people had taken to calling him Aristides the Just.
+
+The way the vote worked was that each citizen scratched a name onto a piece of broken pottery, a shard, an ostrakon, which is where the word comes from. And on the day of the vote an ordinary man who could not read or write approached a stranger in the crowd and asked him for help writing a name on his shard. The name he wanted written was Aristides.
+
+The stranger was Aristides.
+
+Aristides asked him, evenly, whether Aristides had ever done him any harm. He asked it in the third person, because the man plainly had no idea who he was talking to. And Plutarch records the answer. None at all, the man said. I do not even know the man. I am simply tired of hearing him everywhere called the Just.
+
+Aristides said nothing. He took the shard, wrote his own name on it, and handed it back.
+
+He was exiled that day.
+
+That is the political culture we are talking about. A city so frightened of any one person becoming too large that it threw out its most honest public man on the grounds that his honesty was getting famous. And those are the people, Madison is pointing out, who handed their whole constitution to a single citizen and let him write it alone.
+
+So why does that matter? Because of Madison's answer. These questions cannot be fully answered, he writes, without supposing that the fears of discord and disunion among a number of counsellors exceeded the apprehension of treachery or incapacity in a single individual. Meaning they were more afraid of a committee falling apart than of one man going bad.
+
+And notice who is saying that. This is a man who had just spent nearly four months of the previous summer inside exactly such a committee, watching fifty five people fail to agree about almost everything, writing down what was said. When Madison says the ancients feared discord among many counsellors more than treachery in one, he is not reading it out of a book. He watched it. He knows precisely how close that room came to producing nothing at all.
+
+He also does not pretend the method was pleasant for the man. Solon, he says, gave Athens not the government best suited to their happiness, but most tolerable to their prejudices. Plutarch puts it more bluntly. Asked whether he had given the Athenians the best laws, Solon answered: the best they could receive. He knew better ones existed. He also knew his countrymen would not take them.
+
+Lycurgus of Sparta paid more. He had to mix, Madison writes, a portion of violence with the authority of superstition, and secure his final success by a voluntary renunciation, first of his country, and then of his life. That is the legend in which Lycurgus made the Spartans swear to keep his laws until he came back, then walked to Delphi and never returned, starving himself so the oath would bind them forever.
+
+One honest note. Historians are not at all sure Lycurgus existed. Plutarch, who wrote his life, opens it by admitting that nothing about the man can be said with certainty, and the dates ancient sources give him span four centuries. Madison takes the tradition at face value, as everyone in his century did.
+
+The lesson Madison draws has two sides and he gives you both. On the one hand, admire what America did. We did not need a Lycurgus. We used a convention, a room full of ordinary politicians who argued and voted, and that is a genuine improvement on the ancient method. On the other hand, be admonished. Those ancient experiments were dangerous, they were difficult, and the men who ran them paid for it. So do not, Madison says, be imprudent enough to unnecessarily multiply them.
+
+And with that, he turns and faces the people who want to run the experiment again.
+
+Here he reaches for the best piece of writing in the paper, and I want to tell it the way he tells it, because it is a small piece of theater.
+
+Picture a man who is sick. His condition is getting worse by the day, and he has reached the point where putting off treatment has become the dangerous option. So he thinks it over coolly. He considers the different physicians available to him and their characters, and he chooses the ones he judges most capable and most worthy of his confidence, and he calls them in.
+
+The physicians come. They examine him carefully. They hold a consultation among themselves. And they come back unanimous on two points. The symptoms are serious. But the case is not hopeless. With proper treatment, and soon, he may come out of this in better condition than he went in. They are also unanimous about the treatment itself. Here is the prescription.
+
+And the moment that prescription is made public, a crowd of other people appear at the bedside. They do not deny the man is sick. They do not deny that the illness is dangerous. They tell him the prescription will be poison to him, and they forbid him, on pain of certain death, to take it.
+
+Then Madison asks the question the whole paper has been walking toward.
+
+Might not the patient reasonably demand, before he ventured to follow this advice, that the authors of it should at least agree among themselves on some other remedy to be substituted?
+
+The patient is America. That is the analogy, and Madison says it out loud. She knows she is sick. She got a unanimous recommendation from physicians she chose herself. And now she is being warned off by people who will not say what to do instead.
+
+If that scene feels familiar, it should. It is the position anyone lands in with a serious diagnosis and a search engine. The specialists agree. The chorus does not agree with them, and it does not agree with itself either, and it never once produces a treatment you could go and get. Madison's question is the right one to put to that chorus. What would you do instead, exactly, and can any two of you say the same thing?
+
+And then he runs the questions like a lawyer. Do the critics deny the reality of the danger? No. Do they deny the necessity of a fast and powerful remedy? No. Are they agreed, are any two of them agreed, on their objections or on the proper thing to put in its place?
+
+Let them speak for themselves, he says.
+
+And then he lets them.
+
+What follows is a catalog of the objections being made against the Constitution in the winter of seventeen eighty eight, arranged so they collide with each other. I am not going to read you all of it, but you should hear enough to feel the shape.
+
+One critic says the plan must be rejected because it is not a confederation of states but a government over individuals. The next one agrees it should be a government over individuals, just not this much. A third has no problem with either of those, but says there is no bill of rights. A fourth agrees completely about the bill of rights, but says it should protect the rights of states rather than the rights of persons. And a fifth says a bill of rights of any kind would be superfluous and out of place, and the plan would be beyond objection except for the business about regulating the times and places of elections.
+
+Then he moves to the pairs. A man in a large state is loudly furious about the unfair equality of representation in the Senate. A man in a small state is just as loudly furious about the dangerous inequality in the House. From one direction we are warned about the amazing expense of all the officials this government will need. From another direction, and Madison slides the knife in here, sometimes from the same quarter on another occasion, the complaint is that Congress will be a mere shadow of a representation and the whole thing would be far better if you doubled both the number and the expense.
+
+And then the four that I think are genuinely funny, and he means them to be.
+
+This politician, Madison writes, discovers in the Constitution a direct and irresistible tendency to monarchy. That one is equally sure it will end in aristocracy. Another is puzzled to say which of these shapes it will ultimately assume, but sees clearly it must be one or other of them. And a fourth is not wanting, who with no less confidence affirms that the Constitution is so far from having a bias towards either of these dangers that the weight on that side will not be sufficient to keep it upright and firm against its opposite propensities.
+
+So it will become a monarchy. It will become an aristocracy. It will definitely become one of those, unclear which. And it is not strong enough to lean either way.
+
+Then Madison runs the thought experiment. Suppose we grant the critics everything. Suppose they really are the wisest men in America, and the convention really was unequal to the job. So the country forms them into a second convention with full powers to redo the work.
+
+He says he will leave it to the sample of opinions just exhibited to decide whether those men, for all their enmity to their predecessors, would depart from the first convention's example in any one point so widely as in the discord and ferment that would mark their own deliberations. And then he lands one of his best lines by reaching back to Sparta. The Constitution as it stands, he says, would have as fair a chance at immortality as Lycurgus gave to Sparta's, if it were adopted now and stayed in force not until a better one, but until another one was agreed on by this new assembly of lawgivers.
+
+Which is a joke with a blade in it. Lycurgus made his laws permanent by leaving and never coming back. A second convention would make this Constitution permanent the same way, by going into a room to find something better and never emerging.
+
+Now here I owe you the fair objection, because that list is a weapon and not a proof. The fact that your critics disagree with each other is not evidence that you are right. In any real controversy the other side is a coalition, and coalitions always contain people who want opposite things. If a hundred people object to a bridge design, some will say it costs too much and some will say it is built too cheaply, and none of that tells you anything about the bridge. Madison, one of the best arguers in American history, is doing something here that is closer to mockery than to analysis.
+
+But it is not all he does, and the next part is much stronger, because it is a real comparison instead of a jab.
+
+He goes back through the objections and points out that most of the heaviest ones land harder on the government America already has.
+
+Are you afraid of an unlimited power to raise money? The Confederation Congress can issue requisitions for any amount it likes, and the states are constitutionally obliged to pay. It can print paper money for as long as it can afford the paper. It can borrow at home and abroad as long as a single shilling will be lent to it.
+
+Are you worried about mixing the different powers of government together in one set of hands? Under the Articles there are not three branches to mix. Congress is a single body of men holding every federal power there is.
+
+Does it alarm you to put the keys of the treasury and the command of the army in the same hands? The Articles already do exactly that.
+
+Is a bill of rights essential to liberty? The Confederation has no bill of rights.
+
+And then he plays a card that stops the paragraph cold. Is the importation of slaves permitted by the new Constitution for twenty years, he asks. By the old it is permitted forever.
+
+I want to be careful there, because Madison is technically right and is also doing something worth naming. The clause he is defending did not ban the slave trade. It forbade Congress from touching it for twenty years, which is a protection dressed as a deadline. It is still more than the Articles offered, which gave the national government no power over the question at all, ever. But this is a man who owned people, counting a twenty year shield for the slave trade as a selling point, four days after writing a paper that described the sectional divide in language so careful it never used the word slavery. Same man, same week.
+
+Now, at this point you might be wondering how any of this can be dangerous. If the Articles government is as feeble as this series has spent dozens of episodes insisting, who cares what powers it has on paper? A power that cannot be exercised is not a threat.
+
+That is exactly the objection Madison expects, and he even states it for you. You will tell me, he says, that this mixture of powers is harmless because Congress depends on the states for the means to carry anything out. However large the mass of powers may be, it is in fact a lifeless mass.
+
+His answer is the least known passage in the essay and very likely the most important one in it. Out of this lifeless mass, he writes, has already grown an excrescent power. Here is what he is pointing at.
+
+While the Constitutional Convention was sitting in Philadelphia in the summer of seventeen eighty seven, the Confederation Congress was sitting in New York, and on the thirteenth of July it passed the Northwest Ordinance. That ordinance took the enormous territory north and west of the Ohio River and did four things with it. First, it organized the land into a single territory under national administration. Second, it erected temporary governments there. Third, it appointed the officers to run them. And fourth, it laid down the terms on which new states carved out of that land would eventually be admitted to the Union.
+
+That is empire building. That is the creation of new American states by an act of the national legislature. And there is nothing in the Articles that gives Congress the authority to do any of it. Not the land, not the governments, not the officers, not the admission of states.
+
+And the part that should stop you is not the usurpation. It is the silence around it.
+
+All this has been done, and done without the least color of constitutional authority. Yet no blame has been whispered. No alarm has been sounded.
+
+Nobody objected. The same public that was at that moment filling New York newspapers with warnings that the proposed Constitution would produce a monarchy had watched the existing Congress conjure a western empire out of nothing, and had not said one word about it.
+
+It is the one place in this paper where Madison raises his voice. In the original printing he throws words into capital letters, which he almost never does. A great and independent fund of revenue, he says, is passing into the hands of a single body of men, who can raise troops to an indefinite number, and appropriate money to their support for an indefinite period of time.
+
+A single body. No separated powers. No limit on the army, no limit on the money, and a continent coming in as revenue to pay for it.
+
+And here is the turn that makes the whole thing land. Having built that case, Madison refuses to blame Congress for any of it. He means not to throw censure on their measures, he writes, because he is sensible they could not have done otherwise. The public interest, the necessity of the case, imposed upon them the task of overleaping their constitutional limits.
+
+They had to. Somebody had to govern the western territory. Settlers were already moving, and the land had to be surveyed and sold and defended. The only body in America that could do it had no legal authority to do it. So it did it anyway, because the alternative was chaos.
+
+Which leaves exactly one conclusion, and it is the sentence this entire paper has been walking toward.
+
+A dissolution or usurpation is the dreadful dilemma to which it is continually exposed.
+
+That is the argument. A government too weak to do its job does not stay weak and harmless. It has two roads. Either it fails to act and the union comes apart, or it acts without authority and the rules stop meaning anything. Dissolution or usurpation. A feeble constitution guarantees you one of them eventually.
+
+You do not have to go looking for the modern version. Every time a legislature deadlocks and cannot pass something the country plainly needs, pressure builds on the executive to act alone. Somebody does. The action is usually popular, and the precedent is permanent. Madison is telling you in seventeen eighty eight that this is not a failure of character in the officeholder. It is what a system does when its formal powers do not match its actual responsibilities. The gap gets filled. The only question is whether it gets filled legally.
+
+So where does that leave the paper? I think Madison wins the big argument and loses the small one. The comparison holds. The list does not, because his critics did agree about something, and his own catalog gives it away. Of the first five objections he lines up to knock down, three of them are about a bill of rights. He is using their disagreement about its shape to hide their agreement that it was needed.
+
+And they were about to prove it. Three weeks after this essay ran, on the sixth of February, seventeen eighty eight, the Massachusetts convention that was arguing in Boston while Madison wrote found the way through. They ratified, by a vote of one hundred and eighty seven to one hundred and sixty eight, the narrowest margin yet, and attached a list of recommended amendments to the ratification. Ratify now, amend after. It broke the deadlock, six more states copied it, and it is a large part of why the Constitution got over the line.
+
+And then the last turn, which I love. Madison thought a bill of rights was pointless. He wrote to Thomas Jefferson that such guarantees were parchment barriers, words on a page that overbearing majorities would ignore whenever it suited them. Jefferson wrote back that a bill of rights is what the people are entitled to against every government on earth. And on the eighth of June, seventeen eighty nine, it was Madison who stood up in the House and introduced the amendments himself. Ten of them were ratified on the fifteenth of December, seventeen ninety one, and we have called them the Bill of Rights ever since.
+
+So the man who spent this paper insisting his opponents could not agree on anything ended up writing the one thing they agreed on.
+
+And I do not think that is a mark against him. I think it is his own doctrine catching up with him, exactly as he said it would. He told us in this paper that the plan's defects would only be discovered in actual trial. The first trial the Constitution ever faced was the ratification fight. That trial found a defect. And the man who predicted it would happen turned out to be the man who fixed it.
+
+This has been The Federalist Papers: Explained. Episode Thirty Eight. Next time: Federalist Number Thirty Nine, published in the Independent Journal on the sixteenth of January, seventeen eighty eight, and Madison finally stops clearing his throat and starts taking the machine apart. He opens with a question that sounds easy and is not. Is this government even republican? He points out that the word had gone almost useless, because Holland was called a republic though not a particle of its authority came from the people, and so was Venice, run by a small body of hereditary nobles, and so were Poland and England. So he writes his own definition. Then he turns to the harder charge, that the convention built a national government where it was told to build a federal one, and answers it by splitting the Constitution along five different seams and showing it comes out federal on some and national on others. His conclusion has shaped every argument about American federalism since. It is neither a national nor a federal constitution, but a composition of both.

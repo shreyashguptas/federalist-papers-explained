@@ -2,9 +2,9 @@
 
 ## Overview
 - Total papers: 85
-- Episodes completed: 37 (audio produced)
-- Episodes scripted: 37
-- Next episode to produce: Episode 38 (Federalist No. 38)
+- Episodes completed: 38 (audio produced)
+- Episodes scripted: 38
+- Next episode to produce: Episode 39 (Federalist No. 39)
 
 ## Episode Status
 
@@ -47,7 +47,8 @@
 | 35 | Nobody in Congress Looks Like You | Hamilton | DONE | DONE | - |
 | 36 | The Power He Hoped Nobody Would Use | Hamilton | DONE | DONE | - |
 | 37 | Why Nobody Could Write It Perfectly | Madison | DONE | DONE | - |
-| 38-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
+| 38 | It Only Has to Be Better | Madison | DONE | DONE | - |
+| 39-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
 
 ## Authorship reference (first 10 papers)
 1. Hamilton
