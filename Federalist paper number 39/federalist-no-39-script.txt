@@ -1,0 +1,215 @@
+At the end of the last episode, Madison had finished the hardest sales job in the collection. He had spent Federalist Number Thirty Seven admitting the Constitution was imperfect, and then Federalist Number Thirty Eight turning that admission into a weapon. Imperfect compared to what? Not compared to perfection. Compared to the government America already had. And on that comparison, he said, it is not even close.
+
+That was the last of the throat clearing. Two papers of preparing the ground, telling New Yorkers how hard the work had been and how unfair the standard they were applying to it.
+
+Today he starts taking the machine apart.
+
+Federalist Number Thirty Nine, published in the Independent Journal on the sixteenth of January, seventeen eighty eight. Still Madison. Still Publius. And this is the paper where the series stops arguing about whether America needs a new government and starts examining the one it has been handed.
+
+Madison opens it with a question that sounds like a formality and is not. Is this thing even republican?
+
+And he ends it with a sentence that has shaped every argument about American government since. I am going to give it to you now, at the beginning, because everything else in this episode is the road that leads to it.
+
+The proposed Constitution, therefore, is, in strictness, neither a national nor a federal Constitution, but a composition of both.
+
+Neither one nor the other. A mixture.
+
+That sentence gets quoted constantly, usually as a piece of calm philosophy, a wise man describing a balanced system. It is not. It is a defense. Madison wrote it because he had been accused of something, and to understand why the sentence is brilliant, and also why it settled absolutely nothing, you need to know what the accusation was.
+
+So let me start there, with the charge, and with the man who eventually gave it its most famous form.
+
+In June of seventeen eighty eight, four and a half months after this paper ran, the Virginia ratifying convention met in Richmond. Madison was there. So was Patrick Henry, the most famous voice in Virginia and the most formidable opponent the Constitution ever faced in open debate. Henry spoke against it more than anyone else in that room, on day after day of it. He was a spectacular talker and Madison was not, and everybody there knew it.
+
+And on the fourth of June, Henry got up and put his finger on three words in the preamble.
+
+Who authorized these men, he asked, to speak the language of we the people, instead of we the states? He called it that poor little thing, the expression, we the people, instead of the states of America. And from those three words he drew the whole indictment. The states, he said, are the characteristics and the soul of a confederation. If the states are not the parties to this compact, then it is not a confederation at all. It is one great consolidated national government of the people of all the states.
+
+Consolidated. That was the word, and in seventeen eighty seven it was close to an obscenity. A consolidated government meant the states swallowed. Not weakened, not limited. Absorbed, the way the kingdom of Scotland was absorbed into Great Britain, gone as a political fact and surviving only as a name on a map.
+
+Now, Madison was not answering Henry in this paper. Henry had not made the speech yet. Madison was answering the charge, which had been circulating in the opposition press for months. The essays signed Brutus had opened with it back in October, warning that the plan approached so near to a perfect and entire consolidation that it would certainly and infallibly terminate in one. The twenty three dissenting members of the Pennsylvania convention had put their version in the newspapers that December. Henry simply gave it the form people would remember.
+
+And here is the part that makes the accusation sting, because Madison of all people knew it was not stupid.
+
+On the twentieth of June, seventeen eighty seven, inside the Philadelphia convention, Oliver Ellsworth of Connecticut stood up and objected to a word. The working resolution in front of the delegates said that the national government ought to consist of a supreme legislative, executive and judiciary. Ellsworth moved to change it to read that the government of the United States ought to consist of a supreme legislative, executive and judiciary. His stated reason was simple. He wanted, in his words, to drop the word national, and retain the proper title, the United States. Nathaniel Gorham of Massachusetts seconded him.
+
+And the motion carried without a single delegate objecting.
+
+Think about what that means. The convention that supposedly built a national government had gone through its own paperwork and struck the word national out of it, unanimously, less than four weeks into the real debate. And the man taking the minutes that day, writing the whole exchange down in the notes we still read it in, was James Madison.
+
+So when the opposition says you built a national government, Madison cannot pretend the word is a stranger. He was in the room when they deleted it.
+
+That is the fight. Now here is how he handles it, and he handles it in two moves, and the first move is about a word that had gone rotten.
+
+Before Madison can defend the plan as republican, he has a problem. The word republican did not mean anything anymore.
+
+You might expect that to be an easy one. A republic is a government without a king, right? In seventeen eighty eight that definition was useless, because Europe was full of governments without kings that no American would have accepted for ten minutes.
+
+This is not a problem that went away, by the way. Look at a map today and count the governments with the word republic in their official name that no one would describe as self governing. The Democratic People's Republic of Korea has two of the words in it. The label has never proved anything, in any century, and Madison's whole opening move is to refuse to argue about labels.
+
+He names four European examples, and it is worth slowing down on two, because the stories are better than the sentences he spends on them.
+
+Start with Venice. Venice had called itself a republic for roughly a thousand years, and by any surface test it looked like one. No king. An elected head of state, the doge, chosen through a selection process so elaborately anti corruption that it involved multiple rounds of drawing lots. A great council that voted on everything. It had the vocabulary of self government down cold.
+
+And in twelve ninety seven, the Venetians did something called the Serrata. The closing. Over a series of acts, membership in that great council was locked to a fixed set of noble families and then made hereditary. If your family was written into the book of Venetian nobility, you and your sons sat in the council of the republic forever. If it was not, you and your sons never would, no matter what you achieved, no matter how rich you got, no matter how long your family had lived there. The republic of Venice ran that way, essentially unchanged, for another five hundred years, right up until Napoleon ended it in seventeen ninety seven, nine years after Madison was writing.
+
+Madison spends one sentence on all of that, and the sentence does the job. The same honorable title, he says, had been bestowed on a place where absolute power over the great body of the people was exercised, in the most absolute manner, by a small body of hereditary nobles.
+
+Now Holland, which is the sharper example, because Americans admired the Dutch. The Dutch had thrown off the Spanish crown, they had built the richest commercial society in Europe, and their union of provinces was the closest thing to a working federal republic anywhere on earth. This series has spent time with them before, in Federalist Number Twenty, where the Dutch showed up as a warning about what happens when a union has to beg its members for money.
+
+But look at how the Dutch cities were actually governed. They were run by councils of regent families, wealthy merchant dynasties who had quietly closed ranks over the previous few centuries. And when a seat on one of those councils opened up, the remaining members simply chose the replacement themselves, usually from another regent family, usually for life. That is not an election. That is a committee refilling itself.
+
+Madison's verdict is flat. Holland, he writes, in which no particle of the supreme authority is derived from the people, has passed almost universally under the denomination of a republic.
+
+Not a small particle. No particle.
+
+He adds Poland, which he calls a mixture of aristocracy and of monarchy in their worst forms, and England, which has exactly one elected branch bolted to a hereditary aristocracy and a hereditary crown. And his conclusion is that the word has been used so loosely by so many political writers that no useful definition can be recovered from how people apply it.
+
+So he writes his own. And this is the first place in the paper where you should stop and listen carefully, because everything downstream hangs on it.
+
+If we resort for a criterion to the different principles on which different forms of government are established, he writes, we may define a republic to be, or at least may bestow that name on, a government which derives all its powers directly or indirectly from the great body of the people, and is administered by persons holding their offices during pleasure, for a limited period, or during good behavior.
+
+Notice something about that definition before we take it apart, because it settles an argument people still have. You will hear it said, usually as a correction, that America is a republic and not a democracy. Whatever that phrase is doing in a modern argument, it is not doing what Madison is doing here. His test says nothing about direct versus representative rule. It asks two things only: where the power comes from, and how long the officeholders keep their jobs. By that test the directly elected House is republican and so is the life tenured judge, and both for the same reason.
+
+Two halves, and Madison flags them himself with a pair of words he puts in capital letters.
+
+The first half is essential. Where does the power come from? It has to come from the great body of the society, he says, not from an inconsiderable proportion, or a favored class of it. That is the clause that kills Venice. Power that comes from the families in the golden book is not power from the great body of the society, however many councils you route it through.
+
+The second half is sufficient. How do the officers hold their jobs? Appointed by the people, directly or indirectly, and holding office either at pleasure, or for a limited term, or during good behavior, which is the eighteenth century phrase for a judge who serves until they retire, die, or are removed for misconduct. That last one has come up in this series before, back in Federalist Number Nine, where Hamilton listed judges holding their offices during good behavior as one of the new discoveries in political science that made large republics possible.
+
+And now a fair question, and I think it is the sharpest one you can ask this paper.
+
+Is a definition that loose worth anything at all?
+
+Because look at how hard the word indirectly is working in there. A senator chosen by a state legislature, which is how senators were chosen then, counts as indirectly from the people. So does a president chosen by electors. A federal judge is appointed by that president and confirmed by those senators, and holds the job for life. That is three or four steps of remove from anybody casting a ballot, and Madison's definition waves all of it through.
+
+He knows. He says so, in the plainest way available to him. If you demanded direct popular election for everything, he points out, then every government in the United States, every single state constitution then in existence, would be thrown out of the republican category too. Most states already chose their governor indirectly. Every state gave its highest offices fixed terms of years. Most had judges on good behavior. Madison is not building a definition that flatters the Constitution. He is building one wide enough to include the thirteen governments his readers were already living under, because a definition that excluded Massachusetts was not going to persuade anybody in Boston.
+
+So why does that matter? Because the value of the definition is not in what it lets in. It is in the one thing it absolutely will not let in.
+
+Heredity.
+
+Every example Madison rejects fails on the same ground. Venice, hereditary nobles. Poland, hereditary nobles and an aristocratic crown. England, hereditary lords and a hereditary king. The line he is drawing is not about how many steps sit between the voter and the office. It is about whether any office in the country can be inherited. And that is why, when he wants a knockout at the end of this section, he does not reach for an argument. He reaches for a clause.
+
+The Constitution forbids titles of nobility. Not just to the federal government, in Article One, Section Nine, but to every state, in Article One, Section Ten. Nobody in America may grant one. And then Article Four, Section Four goes further and guarantees to every state in this union a republican form of government. Which this series ran into back in Federalist Number Twenty One, where Hamilton stood there in seventeen eighty seven complaining that the Articles of Confederation contained no such promise at all.
+
+Sit with what that guarantee actually is. The Constitution is famously reluctant to tell states how to arrange themselves. It does it exactly once. There is precisely one form of government that every American state is required to have, and this is the clause that requires it.
+
+So that is the first half of the paper. Is it republican? Yes, by a definition Madison had to build himself, because the available one had rotted.
+
+Now the harder charge. And this is where Madison does the thing the paper is remembered for.
+
+Madison does not soften it or restate it in friendlier words. He puts the accusation on the page in his opponents' own voice, at full strength, which is a thing he does when he is confident.
+
+But it was not sufficient, say the adversaries of the proposed Constitution, for the convention to adhere to the republican form. They ought, with equal care, to have preserved the federal form, which regards the Union as a confederacy of sovereign states; instead of which, they have framed a national government, which regards the Union as a consolidation of the States.
+
+Answering it properly takes three separate questions, and Madison lists all three. First, what is the real character of this government? Second, how far was the convention authorized to propose such a thing? And third, how far could the duty they owed their country make up for any gap in that authority?
+
+Then he answers the first one and stops. The second and third are not touched in this paper at all. They are the entire subject of the next one, which is a small thing worth knowing before we go on: what follows is one question out of three, and it fills the rest of the essay.
+
+And his method is the part I would steal if I were ever accused of anything. He does not argue about whether the government is national or federal. He refuses the question as asked. Pick the government up, he says in effect, and look at it from five different sides, and see what it is on each one.
+
+I am going to walk you through those five, but not in his order, because his order is a lawyer's order and there is a better teaching order.
+
+Take first the one this series has already spent five episodes on. Madison calls it the operation of the government, and it is the simplest of the five. When this government acts, who does it act on?
+
+Under a federal arrangement, in the old sense, the central authority gives orders to member states, and the states are supposed to carry them out on their own people. Under a national government, the central authority reaches past the states and touches the citizen directly.
+
+You have heard this before. It is the exact defect Hamilton diagnosed in Federalist Number Fifteen, when he called the great and radical vice in the construction of the existing Confederation the principle of legislation for states or governments, in their corporate or collective capacities, and as contradistinguished from the individuals of which they consist. It is why Federalist Number Sixteen was called, in this series, the episode about how you cannot put a state in jail. A government that can only issue requests to thirteen legislatures has no way to enforce anything short of marching an army into a member state, which is not enforcement, it is civil war.
+
+The new Constitution fixes that by reaching the individual. And Madison concedes the point without a fight. On this test, he says, it falls under the national, not the federal character; though perhaps not so completely as has been understood. There are a few places, he notes, particularly lawsuits where a state itself is a party, where the government still deals with states as states. He calls those, rather beautifully, a few federal features disfiguring the national countenance of the government on this side.
+
+So on the biggest change of all, the one the whole first half of this series was about, Madison's answer is: yes. National. Guilty.
+
+Now turn the government a quarter turn, to the second side, and the answer flips.
+
+Look at the extent of its powers, he says, and something very different appears. A truly national government has an indefinite supremacy. It can reach anything, and every local authority under it exists at its pleasure, and may be controlled, directed, or abolished by it at pleasure. That is the definition of consolidation, and it is exactly what Patrick Henry was afraid of.
+
+Does this government have that? No. And here is the sentence.
+
+In this relation, then, the proposed government cannot be deemed a national one; since its jurisdiction extends to certain enumerated objects only, and leaves to the several States a residuary and inviolable sovereignty over all other objects.
+
+A fair question here is how a state can hold on to sovereignty it never voted to keep. And the answer is in the word Madison chose. Residuary means what is left over. Inviolable means it cannot be broken into. The federal government gets a list, and the states keep everything not on the list, and what they keep is not a privilege handed down to them. It is sovereignty they never surrendered in the first place.
+
+Three years later that idea was written into the Constitution itself, as the Tenth Amendment, ratified on the fifteenth of December, seventeen ninety one. The powers not delegated to the United States are reserved to the states, or to the people.
+
+And that phrase of Madison's has never stopped working. In nineteen ninety seven the Supreme Court decided a case called Printz against the United States, about whether Congress could require local sheriffs to run background checks on handgun buyers under the Brady Act. Justice Scalia, writing for the majority, struck the requirement down, and the reasoning ran straight through this paper. The states, he wrote, surrendered many of their powers to the new federal government, but they retained, and here he put Madison's exact words in quotation marks, a residuary and inviolable sovereignty. Then he cited the Federalist Number Thirty Nine by name.
+
+A sentence written in a New York newspaper in January of seventeen eighty eight, deciding a gun case two hundred and nine years later. That is not a museum piece. That is live ammunition.
+
+Madison does add one honest qualification, and it deserves credit. He admits that when a state and the federal government disagree about where the boundary between them falls, the court that settles it is a federal court. Some such tribunal, he says, is essential to prevent an appeal to the sword. True enough. It is also, if you are a state, a little uncomfortable. The referee works for the other team, and two centuries of federalism cases are an argument about how much that fact matters.
+
+Now the third side, and this is where the paper stops being clever and starts being concrete.
+
+The foundation. Where does this Constitution get its authority from in the first place?
+
+Madison's answer is that the Constitution rests on the assent and ratification of the people of America, but, and this is the whole point, not the people as one undivided nation. The people as they are organized into distinct and independent states. Ratification happened one state at a time, in separate conventions, in separate rooms, on separate votes.
+
+And he gives one piece of evidence that he thinks decides it. The Constitution was not being adopted by a majority of the people of the Union. It was not being adopted by a majority of the states either. Each state was deciding for itself, alone, and no state could be dragged in by anybody else's vote.
+
+Each State, in ratifying the Constitution, is considered as a sovereign body, independent of all others, and only to be bound by its own voluntary act.
+
+That is not a theory. There is a proof, and it is the strangest chapter in American founding history, and it goes like this.
+
+Rhode Island never showed up. Not late, not reluctantly. It refused to send a single delegate to Philadelphia in the summer of seventeen eighty seven. The Constitution was written and signed by twelve states with one chair empty the entire time. Then, when the document went out for ratification, the Rhode Island legislature refused to even call a convention to consider it. Seven separate times.
+
+Article Seven of the Constitution said nine states would be enough to start the new government. Nine ratified by the summer of seventeen eighty eight. And so, in seventeen eighty nine, the United States began operating under the Constitution, elected a Congress, inaugurated a president, and two of the thirteen states were simply not in it.
+
+North Carolina stayed out until the twenty first of November, seventeen eighty nine, months after the new government was already running. Rhode Island held out until the twenty ninth of May, seventeen ninety.
+
+And what did the new United States do about it? It taxed them. Congress voted that after the fifteenth of January, seventeen ninety, goods coming into the United States from those two states would be treated as imports from a foreign country. Rhode Island, which had fought the Revolution alongside everybody else, was a foreign country for tariff purposes, because it had not performed its own voluntary act.
+
+Madison could not have asked for a cleaner demonstration. If the Constitution had been a national act, a decision by the American people as one body, Rhode Island would have been bound the moment the totals were counted. It was not bound, because nobody had the power to bind it. Only Rhode Island could bind Rhode Island, and for nearly three years it declined.
+
+At this point you might be wondering about a crack in that argument, and you should be, because there is one. Madison says the Constitution rests on the unanimous assent of the states. But Article Seven only required nine. Those are not the same thing, and Madison is quietly relying on the word unanimous meaning unanimous among the ones who say yes.
+
+He knew it was thin. Four papers later, in Federalist Number Forty Three, he takes up the question of what relationship would exist between the nine or more ratifying states and the remaining few, and his answer is remarkably bleak. No political relation can subsist, he writes, between the assenting and dissenting states. The moral relations will remain, he says, and the claims of justice, and the memory of everything they had been through together. But politically, nothing. He calls the question delicate and says he hopes it stays hypothetical.
+
+It did not stay hypothetical. It was Rhode Island for a year, and it was the whole country in eighteen sixty one.
+
+Two sides left, and they go quickly.
+
+The fourth is the sources of the government's ordinary powers, which is really a question about who sends the people who run it. And here the answer is genuinely split down the middle, chamber by chamber.
+
+The House of Representatives comes from the people, apportioned by population, exactly as a state legislature is. National.
+
+The Senate comes from the states, as Madison puts it, as political and coequal societies, two apiece regardless of size, chosen at that time by the state legislatures themselves. Federal.
+
+And the presidency is neither. The executive power, he writes, will be derived from a very compound source. Electors allotted to each state in a number that adds its senators to its representatives, which mixes equality between states with proportionality by population. And if nobody wins, the election goes to the House, where the representatives stop voting as individuals and vote as state delegations, one state one vote. Madison's summary is that the thing appears to be of a mixed character, presenting at least as many federal as national features.
+
+Here is what makes that section worth your attention today. Of those three, one has been changed and two have not.
+
+On the eighth of April, nineteen thirteen, the Seventeenth Amendment was ratified, and senators stopped being chosen by state legislatures and started being elected directly by the voters of each state. On Madison's own test, that moved the Senate off the federal side of the ledger and onto the national one. The states still get two each, so the equality survives. But the states as governments no longer have a hand in choosing anybody in Washington at all.
+
+The compound machinery Madison describes for the presidency, though, is still running, unchanged, every four years. When people argue about the Electoral College now, this paper is what they are arguing about, whether they know it or not. That system is not a quirk and it is not an accident. It is the federal seam, deliberately sewn in, and it is the last one still fully intact.
+
+The fifth and final side is amendment. How can this thing be changed?
+
+If it were wholly national, a simple majority of Americans could rewrite it whenever they liked. If it were wholly federal, every single state would have to agree to every change. Article Five is neither. It requires more than a majority, and it counts by states rather than by citizens, which pushes toward the federal. But it lets less than the whole number of states carry the day, three quarters rather than all, which pulls back toward the national.
+
+Which brings Madison to the sentence I opened with, and now you can hear it as the summary it actually is.
+
+The proposed Constitution, therefore, is, in strictness, neither a national nor a federal Constitution, but a composition of both. In its foundation it is federal, not national; in the sources from which the ordinary powers of the government are drawn, it is partly federal and partly national; in the operation of these powers, it is national, not federal; in the extent of them, again, it is federal, not national; and, finally, in the authoritative mode of introducing amendments, it is neither wholly federal nor wholly national.
+
+So did Madison win the argument?
+
+He won it in the short run, completely. The opposition had come at him with a yes or no question, and the question had a trap in it, because either answer lost. Say federal, and you are lying about a government that taxes people directly. Say national, and you have confessed to consolidation and handed Patrick Henry the state of Virginia. Madison took the question apart instead, and his answer had the enormous advantage of being true. That really is how the machine is built.
+
+But look at what that answer did over the next eighty years, because this is the part I find hardest to shake.
+
+At this point you might be wondering whether that is a criticism of Madison or a compliment, and I genuinely go back and forth. The formula was so good that everybody could use it. If you needed the states to be sovereign, Madison had written that they retained a residuary and inviolable sovereignty. If you needed the nation to be supreme, Madison had written that in its operation the government is national, not federal. Both sentences are in the same essay, in back to back paragraphs, and both of them are accurate.
+
+Madison lived long enough to watch it happen to him. In seventeen ninety eight he wrote the Virginia Resolutions, which leaned hard on the state side and argued that the states had a right to interpose against unconstitutional federal acts. A generation later, when South Carolina decided a state could simply nullify a federal law it disliked, the nullifiers quoted Madison back at himself, constantly, as their founding authority.
+
+He spent his last years fighting them. In August of eighteen thirty he wrote a long letter to Edward Everett, published that October in the North American Review, taking the doctrine apart line by line and insisting his own resolutions had never meant anything of the kind. And in the middle of that letter, arguing against people who called themselves his disciples, an old man reached for the formula he had invented forty two years earlier. The government, he wrote, is neither the one nor the other, but a mixture of both.
+
+It did not work. You cannot settle an argument with the sentence that started it.
+
+What settled it was the Civil War. And when the Supreme Court finally wrote down the answer, in a case called Texas against White in eighteen sixty nine, look at the shape of the sentence Chief Justice Chase chose. The Constitution, in all its provisions, looks to an indestructible Union, composed of indestructible States.
+
+That is Federalist Number Thirty Nine with the ending fixed. Both halves are still there. Both are still real. But the question of what happens when they collide, which Madison left open because in seventeen eighty eight nobody could close it, had been answered by a war that killed something like six hundred thousand Americans, and by some modern counts a good many more.
+
+So here is my honest verdict on this paper. Madison is not being slippery. Slipperiness would have been picking the answer that helped him and hoping nobody read the document. What he did instead was describe the machine accurately, seam by seam, including the seams that hurt his case, and the description has held up for two hundred and thirty eight years. Scalia was still quoting it in nineteen ninety seven.
+
+But accuracy is exactly why it never settled anything. Madison did not give America an answer to the question of what it is. He gave America the vocabulary it has used to argue about that question ever since, and he handed a full set of it to each side.
+
+This has been The Federalist Papers: Explained. Episode Thirty Nine. Next time: Federalist Number Forty, and Madison finally turns to the two questions he raised in this paper and then walked past. Did the convention have any authority to do this? And if it did not, does that matter? Because the delegates had been sent to Philadelphia to revise the Articles of Confederation, and what they brought home was not a revision of anything. It was a replacement, written behind closed doors and sprung on the country finished. Madison has two answers, and he needs both. The first is that their instructions stretched further than his critics will admit. The second is the one that actually carries the weight, and it is a much bigger claim: that when a people's government is failing them, no piece of paper from a previous arrangement can stand in the way of their fixing it.
