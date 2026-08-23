@@ -1,0 +1,231 @@
+At the end of the last episode, Madison had taken the Constitution apart and looked at it from five different sides. Is this a federal government or a national one? His opponents had built that question as a trap, because either answer lost. Madison refused it, went seam by seam through the machine, and came back with the sentence that has shaped every argument about American government since. In strictness, neither a national nor a federal Constitution, but a composition of both.
+
+That was Federalist Number Thirty Nine. It answered the first of three questions Madison had lined up at the start of that paper, and then it stopped.
+
+Today he takes the second and the third, and these two are uglier, because they are not about what the Constitution is. They are about whether the men who wrote it had any right to write it.
+
+Federalist Number Forty, published in the New York Packet on Friday the eighteenth of January, seventeen eighty eight. Still Madison. Still Publius. And this is the paper where he has to answer the charge that the whole thing is stolen. Not that the Constitution is bad, which he can argue all day. That fifty five men were sent to Philadelphia to fix one document, came home with a different document entirely, written behind closed doors, and told the country to take it or leave it.
+
+There was a word for that in seventeen eighty seven, and his opponents used it constantly. Usurpation.
+
+So let me start with the sharpest version of the charge, because it did not come from a pamphleteer or an anonymous newspaper writer. It came from two men who had sat in the room.
+
+New York sent three delegates. Alexander Hamilton, and two men chosen by Governor George Clinton, who did not want the convention to succeed. Robert Yates was a judge on the New York Supreme Court, John Lansing the mayor of Albany. Both were Clinton's men, and both arrived with a clear understanding of what they had been sent to do.
+
+In July, before the convention was half over, they left. Packed up, went home, never came back.
+
+That mattered, and not symbolically. New York needed two of its three delegates present to cast a vote. With Yates and Lansing gone, Hamilton was alone. He could speak, and he did, at extraordinary length. He could not vote. For the entire second half of that summer, through the Great Compromise and the presidency and every hard question the convention produced, New York sat in the room with no voice in the outcome.
+
+On the twenty first of December, with the New York legislature about to meet, Yates and Lansing wrote to Governor Clinton to explain themselves. On the fourteenth of January the letter ran in the New York newspapers.
+
+Here is the heart of it.
+
+Our powers were explicit, and confined to the sole and express purpose of revising the articles of confederation, and reporting such alterations and provisions therein, as should render the federal constitution adequate to the exigencies of government, and the preservation of the union. The limited and well defined powers under which we acted, and which could not, on any possible construction, embrace an idea of such magnitude, as to assent to a general constitution, in subversion of that of the State.
+
+Four days later, Federalist Number Forty appeared.
+
+I want to be careful with that timing, because it is more suggestive than I can prove. Madison had announced this exact topic in the previous essay, before the letter was printed, so I cannot tell you he sat down because of Yates and Lansing. What I can tell you is that their charge was in the New York papers that week, in the words of two men who had been at the table, and that Madison answers it for a whole essay without once naming them.
+
+So let us do what he does first, and go to the paperwork. What exactly were these men told to do? Two documents govern it.
+
+The first is the report of the Annapolis convention, September of seventeen eighty six, which is a small comedy that turned into a large event. Twelve men from five states showed up for four days to talk about trade regulations, and did not have the numbers to do anything about trade regulations. So instead of adjourning quietly, they wrote a report calling for a much bigger convention the following year with a much bigger mandate. The man who drafted it was Alexander Hamilton. Also in the room was James Madison. Hold on to that, because he makes a very interesting use of it later.
+
+The Annapolis language was broad. Devise such further provisions as shall appear to them necessary to render the constitution of the federal government adequate to the exigencies of the Union. That is an open door.
+
+The second document is the one that hurts. On the twenty first of February, seventeen eighty seven, the Confederation Congress took up that report and blessed the convention. But it narrowed the errand. Here is what Congress actually resolved.
+
+Resolved, that in the opinion of Congress it is expedient, that on the second Monday of May next a convention of delegates, who shall have been appointed by the several States, be held at Philadelphia, for the sole and express purpose of revising the Articles of Confederation.
+
+Sole and express purpose. Revising.
+
+You do not need a law degree to hear what those words are doing. Sole means only. Express means we are spelling it out so nobody argues later. And revising is not the same word as replacing.
+
+At this point you might be wondering whether an instruction like that was really meant as a fence, or whether it was just the polite formula everybody used. It was a fence, and I can prove it, because one state built a taller one.
+
+When Delaware appointed its five delegates that same February, it wrote a carve out into their commission. They could agree to alterations and further provisions, but not to any change in the part of the Articles giving each state one vote in Congress. That was off the table. And the delegates knew it. When representation came up on the floor that summer, George Read of Delaware warned the convention that the Delaware deputies were restrained by their commission from assenting to any change of the rule of suffrage, and that in case such a change should be fixed on, it might become their duty to retire from the convention.
+
+That is what a commission looks like when a state means it. Which makes sole and express purpose harder to wave away, not easier.
+
+And if you want the modern feel of this, think of any time you have sent somebody to negotiate on your behalf with written limits on what they could agree to. The limits are the entire reason you were willing to let them go. Someone who comes back having signed something outside them has not been resourceful. They have been something else, and you would want a very good explanation.
+
+One more wrinkle, and Madison leans on it quietly. Six states appointed their delegates before Congress spoke, under the broad Annapolis language. The other six appointed afterward, New York first among them, using the narrow one. So the convention that gathered in Philadelphia was not working under one set of instructions. It was working under twelve, written at different times, in different words, meaning different things.
+
+Now let us look at what those men actually did with the room.
+
+The convention reached a quorum on the twenty fifth of May. On the twenty ninth, Edmund Randolph, the governor of Virginia, stood and read fifteen resolutions. That was the Virginia Plan, and it was not a revision of anything. It was a new government, three branches, two chambers, representation by population.
+
+The next day, the thirtieth of May, the convention resolved itself into a committee and voted on a single sentence that summarized the whole thing: that a national Government ought to be established consisting of a supreme Legislative, Executive and Judiciary. Six states aye. Connecticut no. New York divided, Hamilton for it and Yates against.
+
+That was the fourth working day. Of a convention that would sit for nearly four months. Four days in, the men in the room had voted that the object of the meeting was a national government with a supreme legislature. And the man taking the minutes, as he would be three weeks later when they struck the word national out of their own paperwork, was James Madison.
+
+To be fair, that vote came in committee of the whole, a working session rather than a final decision, and the word national came back out later. But the direction was set on day four and everybody knew it.
+
+Which brings me to the fight that is the real heart of this question, in the middle of June. Because here is what Madison never mentions in Federalist Number Forty. The convention did not have to choose between replacing the Articles and doing nothing. There was a third option on the table, and it lost.
+
+On the fifteenth of June, William Paterson of New Jersey introduced what we now call the New Jersey Plan. People describe it as the small state plan, which is true and undersells it. It was the obey your instructions plan. It kept the single chamber Congress and one vote per state, and then gave that Congress the things everyone agreed it needed. Power to raise money through import duties and stamps and postage. Power to regulate trade. An executive. A supreme court. And a clause making federal law supreme over state law.
+
+That was a serious proposal. It fixed the actual complaints, and it did it by amending the Articles of Confederation, which is precisely what the twelve commissions had described.
+
+The next day, the sixteenth of June, the convention argued about authority directly, and the whole of Federalist Number Forty was spoken aloud on that floor seven months before Madison wrote a word of it.
+
+Paterson put the constitutional objection first, and Madison wrote it down like this. If the confederacy was radically wrong, let us return to our States, and obtain larger powers, not assume them of ourselves. Go home. Ask for more. Do not help yourself to it.
+
+James Wilson of Pennsylvania answered with the argument everything else depends on. With regard to the power of the Convention, Madison recorded him saying, he conceived himself authorized to conclude nothing, but to be at liberty to propose any thing.
+
+That is a genuinely clever distinction, and it is the load bearing beam of Madison's whole case. We are not enacting. We are suggesting. And nobody's instructions can limit what a man is allowed to suggest.
+
+And then Randolph, the man who had introduced the Virginia Plan back in May, gave the answer that has nothing clever about it at all.
+
+There are certainly seasons of a peculiar nature where the ordinary cautions must be dispensed with, he said. And then. When the salvation of the Republic was at stake, it would be treason to our trust, not to propose what we found necessary.
+
+That is an extraordinary thing to say in a room you entered with written instructions. Randolph is not arguing that the instructions permit this. He is arguing that obeying them would be the betrayal, that the trust his state placed in him ran to the country's survival and not to the wording on the paper he carried.
+
+So why does that exchange matter so much? Because it means the convention did not drift past its instructions without noticing. It looked straight at the question, argued it out on the floor for a day, and decided.
+
+Three days later, on the nineteenth of June, the convention voted on whether to proceed with Paterson's plan or Randolph's. Seven states for Randolph. Three for Paterson, New York and New Jersey and Delaware. Maryland divided.
+
+Not in a fog, not by accident, and not for lack of an alternative. There was one, it stayed inside the instructions, and they voted it down.
+
+So Madison has to answer for all of that, in a New York newspaper, to readers whose own delegates had walked out over it. He gives three separate answers, in descending order of how much he seems to trust them.
+
+The first is the lawyer's answer, and it takes up more than half the paper.
+
+Madison goes back to that Congressional resolution and points out something most readers had missed. It has a preamble. And in the preamble, Congress gives its reason for wanting the convention at all. Such a convention, it says, appears the most probable way of establishing in these States a firm national government.
+
+A firm national government. Congress wrote that, in February of seventeen eighty seven, in the same resolution that says revising.
+
+So Madison turns to his critics and says, in effect: you handed us one document containing two different instructions. One says revise the Articles. The other says build a firm national government adequate to the exigencies of the Union. Which one did you mean?
+
+The tool he reaches for next is the oldest one in the lawyer's kit. When a document's parts disagree, you need rules for reading it, and he offers two. First, every part of the expression ought, if possible, to be allowed some meaning. Try to make it all fit. Second, and this is the one that does the work, where the parts cannot be made to coincide, the means should be sacrificed to the end, rather than the end to the means.
+
+In plain English: revising the Articles was never the point. It was the method. The point was a government that worked, and when the method will not reach the point, you do not sacrifice the point to protect the method.
+
+Now, is that a good argument?
+
+It is a good lawyer's argument and it deserves its due. Congress did use both phrases, they do pull in different directions, and a servant who follows the letter of an instruction into a result nobody wanted has not really served anyone.
+
+But notice what it requires. It requires reading a preamble's statement of hopes as controlling an operative clause's statement of limits. Preambles say what we want. Operative clauses say what you may do. Ask any judge which wins when they conflict and you get the same answer every time. Madison knew that perfectly well, and spends several pages on it anyway.
+
+His second move is to attack the word fundamental.
+
+His critics kept saying the convention had violated the fundamental principles of the Confederation. So he asks them to name those principles, and then shows that the old system already did, in smaller doses, most of what the new one stands accused of inventing. And the example that stings is the one about individuals.
+
+The charge was that a real confederation acts on states and never reaches a citizen directly. Madison's answer is that the existing Confederation already does, in cases of capture at sea, of piracy, of the post office, of coins and weights and measures, of trade with the Indians. And above all, he says, in trials by court martial in the army and navy, where a man can be put to death, in his words, without the intervention of a jury, or even of a civil magistrate.
+
+That is hard to argue with. The government everyone called too weak to touch a citizen could hang a soldier. No jury, no civil judge. It reached all the way to a man's neck. So do not tell me, Madison is saying, that operating directly on individuals is a line the old system never crossed. It crossed it at the sharpest possible place.
+
+A fair question here is whether that proves what he needs it to prove, and honestly, only partly. There is a difference between taxing the postage on a letter and taxing whatever you like, and between a court martial for enlisted soldiers and criminal jurisdiction over a whole population. Madison is finding the smallest existing version of each power and using it to license the largest proposed one.
+
+You will recognize that move from any argument about the scope of government power in your own lifetime. Almost every expansion of authority gets defended by pointing at a narrow precedent for a smaller version and saying, we have always done this. Sometimes that is honest. Sometimes the difference in degree grows large enough to become a difference in kind.
+
+But in the middle of all this lawyering comes the moment that raised my opinion of him considerably. He confesses.
+
+In one particular it is admitted that the convention have departed from the tenor of their commission. Instead of reporting a plan requiring the confirmation of the legislatures of all the States, they have reported a plan which is to be confirmed by the people, and may be carried into effect by nine States only.
+
+That is the big one. Article Thirteen of the Articles of Confederation said any alteration had to be agreed to by Congress and confirmed by the legislature of every state. All thirteen. The Constitution's Article Seven says nine, and routes around the legislatures entirely by sending the question to conventions elected by the people. That is not a stretched reading of anybody's instructions. That is the convention writing the rules for its own adoption in place of the rules that bound it, and Madison admits it in one sentence without arguing it away.
+
+There is an odd footnote to that confession which I have not been able to stop thinking about. This objection, Madison notes, though the most plausible, has been the least urged in the publications which have swarmed against the convention.
+
+The strongest argument against him is the one nobody is making. Why?
+
+His answer is that everyone already knew what unanimity meant in practice. And there is a story behind that.
+
+In seventeen eighty one, Congress proposed the impost. A five percent duty on imported goods, going to Congress rather than the states, aimed at the war debt. It was the one plausible fix for a government with no money and no way to get any. Under Article Thirteen it needed all thirteen legislatures.
+
+Twelve said yes.
+
+In November of seventeen eighty two, Rhode Island said no, on the grounds that the tax would fall hardest on commercial states and Rhode Island lived on commerce. That was the end of it. One state, holding somewhere around a sixtieth of the country's population, killed the only revenue measure the United States had. Congress tried again in seventeen eighty three with a modified version, and that one died too, held up at the end by New York.
+
+So when Madison writes about the absurdity of subjecting the fate of twelve States to the perverseness or corruption of a thirteenth, that is not a debating point. It is a description of what had already happened, twice, in living memory, to the thing the country needed most.
+
+The unanimity rule was not a procedure. It was a suicide clause. Obeying it did not risk failure, it guaranteed failure, because any one of thirteen legislatures could end the matter by doing nothing at all.
+
+Any rule requiring everyone to agree before anything can change has quietly decided that nothing will change. You can watch it happen today wherever a single member holds a veto over a group that needs to act. The body stops deliberating and starts waiting.
+
+But notice this is no longer a legal argument. Madison has stopped saying we stayed inside the rules. He is now saying the rules could not be obeyed and were not worth obeying. Which is exactly where he wants to be, because that is his second answer, and it is the one he believes.
+
+Here is how he sets it up. Everything so far, he says, has been argued as though the convention had real and final power to establish a Constitution. Now let us remember that it did not.
+
+The powers were merely advisory and recommendatory. They were so meant by the States, and so understood by the convention. And the convention accordingly planned and proposed a Constitution which is to be of no more consequence than the paper on which it is written, unless it be stamped with the approbation of those to whom it is addressed.
+
+That sentence is the hinge of the whole paper, so let me put it plainly. The men in Philadelphia did not make a law. They made a proposal, with exactly as much authority as a blank sheet until somebody else says yes. Their power was the power to hand you a piece of paper.
+
+And once you see it that way, the complaint changes shape. If a group of citizens has no power to bind you, what is the crime in their writing something down and offering it?
+
+Underneath that sits the biggest claim in the essay. In all great changes of established governments, he writes, forms ought to give way to substance. A rigid adherence to the forms would make empty and useless the transcendent and precious right of the people to abolish or alter their governments as to them shall seem most likely to effect their safety and happiness. Those last words come almost exactly from the Declaration of Independence, and Madison footnotes them so nobody misses it. He is telling New Yorkers that the right being exercised here is the one they exercised in seventeen seventy six.
+
+There is a practical problem with a right like that, and naming it is the most insightful thing in the paper. A whole people cannot move in concert. Three million people do not have the same idea on the same morning. Somebody has to go first, write a draft, and hand it around. Which means, he says, that such changes must be started by informal and unauthorized propositions, made by some patriotic and respectable citizen or number of citizens.
+
+Informal and unauthorized. He is not flinching from those words, he is claiming them. Of course it was unauthorized. That is what a proposal to replace a government always is, because the existing government never authorizes its own replacement.
+
+And here is where the paper gets genuinely enjoyable, because his readers are all already living inside the answer.
+
+How were the colonies first united against Britain? Committees of correspondence. Unauthorized. Who elected the Continental Congress, under what constitution? Nobody, under none. Where did the state governments of New York and Virginia and Massachusetts come from? Conventions were elected in the several states for establishing the constitutions under which they are now governed. Also provided for by no existing law. Every reader Madison has is living under a government created by exactly the kind of body he is being told to condemn.
+
+And Annapolis gets the same treatment. In his own words, a very few deputies from a very few states took the liberty of recommending a great and critical object wholly foreign to their commission, and it was not only justified by public opinion but carried into effect by twelve of the thirteen states. He is volunteering that the meeting which started this whole process was itself outside its authority. He is not hiding the irregularity. He is arguing that irregularity is how free peoples change their governments, and that everyone accepted it cheerfully when they liked the result.
+
+The sarcasm that follows is aimed straight at Albany.
+
+If there is a man whose urge to condemn cannot be controlled, Madison asks, what sentence does he have in reserve for the twelve states that usurped the power of sending deputies to a convention unknown to their own constitutions? And for Congress, which recommended a body equally unknown to the Confederation? And for the State of New York in particular, which first urged and then complied with this unauthorized interposition?
+
+That is a knife. New York, under Governor Clinton, had pushed harder than anyone in Congress to get this convention called, and New York was now the loudest voice saying it had no right to exist. Madison is telling Clinton's readers that if the convention was a usurpation, their own governor helped organize it.
+
+So that is answer number two. We had no formal authority, we never claimed final authority, everything you love was built the same way, and forms give way to substance.
+
+At this point you might be wondering whether Madison has made things worse for himself. He has gone from we did not break the rules to the rules do not matter when the stakes are high enough, and the second sentence is far more dangerous to put in print.
+
+Which brings us to the third answer. It runs about a paragraph, and I think it is the only one that fully works.
+
+Suppose, Madison says, you grant the objectors everything. Suppose the convention was neither authorized by its commission nor justified by circumstances. Does it follow that the Constitution ought, for that reason alone, to be rejected? If, according to the noble precept, it be lawful to accept good advice even from an enemy, shall we set the ignoble example of refusing such advice even when it is offered by our friends?
+
+And here is the line the whole paper has been walking toward.
+
+The prudent inquiry, in all cases, ought surely to be, not so much from whom the advice comes, as whether the advice be good.
+
+That is the argument that actually wins, and it is the last thing in the essay.
+
+Because it moves the question. Everything before it is about the men in Philadelphia and whether they had permission. This says none of that is your decision. Your decision is whether the plan is good for your country. And it lands because he has already established that the convention could not make anything happen. If the delegates could have imposed this, their authority would be the whole ball game. Since they could only suggest it, the only question left is whether the suggestion is any good.
+
+Now let me say the uncomfortable thing, because I do not think this is honest without it.
+
+Randolph's argument on that floor, and Madison's version of it here, is a loaded gun. Necessity supplies the defect of authority. When the salvation of the Republic is at stake, it would be treason not to propose what we found necessary.
+
+That is the sentence of every person who ever broke a rule and then asked for credit. It has been said by people saving republics and by people ending them, in the same words, with the same sincerity. The claim contains no test. It is self certifying, because whoever judges the crisis severe enough is the same person who wants to act.
+
+So what actually makes seventeen eighty seven different?
+
+Not the argument, which is available to anybody. What makes it different is the thing Madison put in the middle of the paper and walked past quickly. The convention could not do anything. It could only ask. Every delegate in that room could have been a scoundrel and it would not have mattered, because the plan was worth nothing until conventions of ordinary people, elected for that one purpose, said yes. The legitimacy of the American founding is not in the credentials of the framers. It is in what happened afterward.
+
+Which is why it is worth knowing that even that part is not entirely clean.
+
+When the finished Constitution reached the Confederation Congress that September, Richard Henry Lee of Virginia moved that Congress consider amendments to it, including a bill of rights. Congress refused to debate them. The compromise was that it would go out to the states without approval and without disapproval, and that the record of the opposition inside Congress would be struck from the journal.
+
+And then, on the twenty eighth of September, the resolution transmitting it went to the states beginning with two words. Resolved unanimously.
+
+Which was true, in a way. Congress had unanimously agreed to forward it, and nothing more. But a reader in a state legislature that winter, holding a paper that said Congress had unanimously resolved, would be forgiven for thinking something warmer had happened in New York than actually had.
+
+The men who built this were not saints about procedure. They were politicians in a hurry who believed the country was failing, they cut corners, and then they submitted the result to a genuinely open argument that they could have lost. Both halves are true.
+
+So why does this still matter, two hundred and thirty eight years later?
+
+Because the question is live right now, and this paper is the main exhibit on both sides of it.
+
+Article Five has a second path for amendments that has never once been used. If two thirds of the state legislatures apply, Congress must call a convention to propose them. That is thirty four states. The largest organized push has around twenty, and has been adding states steadily.
+
+And the biggest argument against it, made by serious people on both the left and the right, is a phrase you hear constantly in that debate. The runaway convention. The fear is that delegates would arrive with a narrow assignment and do something far larger, because that is what happened the last time. And when opponents want to show it could happen, they do not reach for a hypothetical. They point at Philadelphia.
+
+Which puts the supporters in an awkward spot, because to win they have to prove the Constitutional Convention was not a runaway, that the delegates stayed inside their instructions or close enough. And the document they need for that is this one.
+
+But this is equally the founding document of the opposite claim, because Madison did not stop at we stayed inside our instructions. He went on to say that even if they had not, necessity would have justified them, and that even if it had not, you should adopt the plan anyway if it is good. Both sides can quote this essay accurately. Which is exactly what happened with Federalist Number Thirty Nine, and it is starting to look like a habit.
+
+So here is my verdict.
+
+Madison gives three answers because I do not think he fully trusts any one of them, and the order tells you something. The lawyer's answer is thin, and he was too good a lawyer not to know it. The statesman's answer is powerful and genuinely dangerous, and he was too careful a man not to know that either. The third, judge the advice rather than the adviser, is the only one that holds all the way down, and he gives it a paragraph.
+
+And here is what I keep turning over. The man making this argument is about to spend the rest of his life as America's most committed defender of written constitutional limits. Powers on paper, enumerated, fenced, checked. That is the whole Madison project. And here he is at the start of it, explaining that when the stakes are high enough, the words on the previous piece of paper do not get to stop you.
+
+He would say those are not in conflict, and his answer would be ready. The difference is who is asked. The convention did not overrule the Articles of Confederation. The people did, in conventions elected for that purpose, one state at a time. Forms give way to substance only when the substance is the people themselves deciding.
+
+That is a real distinction, and I think it is the right one. It is also a very fine line, and Madison spent the rest of his life watching other men stand on the wrong side of it and quote him for permission.
+
+This has been The Federalist Papers: Explained. Episode Forty. Next time: Federalist Number Forty One, and Madison finally stops defending the convention and starts defending the Constitution. He has spent four papers clearing the ground. Now he turns to the powers themselves, sorts every one of them into classes, and asks a simple question of each. Is this necessary, and is it too much? That takes him straight into the most frightening thing in the document for an eighteenth century reader, a permanent standing army in peacetime. And at the end he takes on a phrase people were already saying would swallow the whole Constitution. The general welfare.

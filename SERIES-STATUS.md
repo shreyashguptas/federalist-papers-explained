@@ -2,9 +2,9 @@
 
 ## Overview
 - Total papers: 85
-- Episodes completed: 39 (audio produced)
-- Episodes scripted: 39
-- Next episode to produce: Episode 40 (Federalist No. 40)
+- Episodes completed: 40 (audio produced)
+- Episodes scripted: 40
+- Next episode to produce: Episode 41 (Federalist No. 41)
 
 ## Episode Status
 
@@ -49,7 +49,8 @@
 | 37 | Why Nobody Could Write It Perfectly | Madison | DONE | DONE | - |
 | 38 | It Only Has to Be Better | Madison | DONE | DONE | - |
 | 39 | Neither One Nor the Other | Madison | DONE | DONE | - |
-| 40-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
+| 40 | Who Said You Could Do This | Madison | DONE | DONE | - |
+| 41-85 | Remaining papers | Various | NOT STARTED | NOT STARTED | - |
 
 ## Authorship reference (first 10 papers)
 1. Hamilton
